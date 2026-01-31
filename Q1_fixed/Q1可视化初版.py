@@ -4,7 +4,7 @@ import seaborn as sns
 import numpy as np
 
 # 加载推理数据
-df = pd.read_csv('predicted_fan_votes_full.csv')
+df = pd.read_csv('fan_estimate_with_rank.csv')
 
 # 1. 数据归一化处理 (1.0 代表当周最佳)
 df['norm_judge'] = 0.0
