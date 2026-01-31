@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # 1. 加载归一化后的数据
-df = pd.read_csv('final_fan_estimate.csv')
+df = pd.read_csv('estimate_fan_with_rank.csv')
 
 # 设置绘图风格
 sns.set_theme(style="whitegrid")

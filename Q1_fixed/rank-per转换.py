@@ -87,4 +87,4 @@ for (s, w), group in df.groupby(['season', 'week']):
 
 # 3. 输出保存
 final_df = pd.concat(results)
-final_df.to_csv('final_fan_estimate.csv', index=False)
+final_df.to_csv('estimate_fan_with_rank.csv', index=False)

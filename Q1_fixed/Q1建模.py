@@ -194,4 +194,4 @@ class DWTS_Final_Inference_Engine:
 
 if __name__ == "__main__":
     engine = DWTS_Final_Inference_Engine('cleaned_data.csv')
-    engine.execute('fan_estimate_with_rank.csv')
+    engine.execute('estimate_fan_final.csv')
