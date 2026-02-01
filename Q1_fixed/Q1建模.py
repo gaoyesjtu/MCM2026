@@ -14,7 +14,6 @@ class DWTS_Final_Inference_Engine:
             sys.exit(1)
 
     def get_rule_type(self, season):
-        """核心业务判断：定义不同时代的计分规则"""
         if season <= 2:
             return 'Rank_Standard'
         elif season >= 28:
@@ -23,7 +22,6 @@ class DWTS_Final_Inference_Engine:
             return 'Percentage'
 
     def parse_final_rank(self, res_str):
-        """解析决赛排名及退赛状态"""
         res_str = str(res_str).lower()
         if 'withdrew' in res_str or 'withdrawn' in res_str:
             return 'Withdrew'
@@ -34,18 +32,16 @@ class DWTS_Final_Inference_Engine:
 
     def solve_rank_milp(self, rj, elim_indices, rule_type, final_ranks=None):
         """
-        修正版 MILP 求解器：支持平分随机判定
+        修正版：正确处理 Rank_Save 模式下的单人淘汰 (Bottom 2) 约束
         """
         n = len(rj)
         n_x = n * n
-        n_vars = n_x
-
         k_elim = len(elim_indices)
-        use_y = (rule_type == 'Rank_Save' and k_elim > 0 and final_ranks is None)
-        if use_y:
-            n_vars += k_elim * n
 
-        # 目标函数：最小化与评委排名的距离平方
+        # 修正：确保在单人淘汰的 Rank_Save 模式下启用辅助变量 y
+        use_y = (rule_type == 'Rank_Save' and k_elim == 1 and final_ranks is None)
+        n_vars = n_x + (k_elim * n if use_y else 0)
+
         c = np.zeros(n_vars)
         for i in range(n):
             for j in range(1, n + 1):
@@ -53,76 +49,76 @@ class DWTS_Final_Inference_Engine:
 
         A_rows, b_l, b_u = [], [], []
 
-        # 约束 1: 基础指派约束
+        # 基础指派约束 (每个人一个排名，每个排名一个人)
         for i in range(n):
-            row = np.zeros(n_vars);
-            [row.__setitem__(i * n + j - 1, 1) for j in range(1, n + 1)]
+            row = np.zeros(n_vars)
+            for j in range(1, n + 1): row[i * n + j - 1] = 1
             A_rows.append(row);
             b_l.append(1);
             b_u.append(1)
         for j in range(1, n + 1):
-            row = np.zeros(n_vars);
-            [row.__setitem__(i * n + j - 1, 1) for i in range(n)]
+            row = np.zeros(n_vars)
+            for i in range(n): row[i * n + j - 1] = 1
             A_rows.append(row);
             b_l.append(1);
             b_u.append(1)
 
-        # 辅助函数：获取总分 (移除 0.01 * rj 的平分判定权重)
         def get_v_expr(idx):
             expr = np.zeros(n_vars)
-            for j in range(1, n + 1):
-                expr[idx * n + (j - 1)] = j
-            base_val = float(rj[idx])
-            return expr, base_val
+            for j in range(1, n + 1): expr[idx * n + (j - 1)] = j
+            return expr, float(rj[idx])
 
-        # 约束 2: 业务逻辑判断
+        # --- 业务逻辑约束 ---
         if final_ranks is not None:
-            # 决赛名次链
+            # 决赛排名已知逻辑
             sorted_idx = sorted(range(n), key=lambda x: final_ranks[x])
             for idx in range(len(sorted_idx) - 1):
                 h, l = sorted_idx[idx], sorted_idx[idx + 1]
                 expr_h, base_h = get_v_expr(h)
                 expr_l, base_l_val = get_v_expr(l)
                 A_rows.append(expr_h - expr_l)
-                # 修改点：允许平分，移除 0.001 偏移量
                 b_l.append(-np.inf);
                 b_u.append(base_l_val - base_h)
 
         elif k_elim > 0:
             survivors = [i for i in range(n) if i not in elim_indices]
-            if rule_type == 'Rank_Standard':
-                # 标准淘汰
+
+            # 情况 A: 标准赛制 或 多人淘汰 (认为总分表现最差的全部出局)
+            if rule_type == 'Rank_Standard' or (rule_type == 'Rank_Save' and k_elim >= 2):
                 for e in elim_indices:
                     for s in survivors:
                         expr_e, base_e = get_v_expr(e)
                         expr_s, base_s = get_v_expr(s)
                         A_rows.append(expr_s - expr_e)
-                        # 修改点：允许平分 (幸存者总分 <= 淘汰者总分)
                         b_l.append(-np.inf);
                         b_u.append(base_e - base_s)
 
-            elif rule_type == 'Rank_Save':
-                # S28+ 救人逻辑
-                M = n + 10
-                for e_idx_in_list, e in enumerate(elim_indices):
-                    y_start = n_x + e_idx_in_list * n
+            # 情况 B: 现代赛制单人淘汰 (修正的核心点：Bottom 2 逻辑)
+            elif rule_type == 'Rank_Save' and k_elim == 1:
+                M = n + 10  # 大常数
+                for e_idx, e in enumerate(elim_indices):
+                    y_start = n_x + e_idx * n
                     for i in range(n):
                         if i == e: continue
                         expr_e, base_e = get_v_expr(e)
                         expr_i, base_i = get_v_expr(i)
-                        A_rows.append(expr_i - expr_e - M * np.eye(1, n_vars, y_start + i).flatten())
-                        # 修改点：允许平分
+                        # v_i + rj_i - (v_e + rj_e) <= M * y_i
+                        # 即：v_i - v_e - M * y_i <= rj_e - rj_i
+                        row = expr_i - expr_e
+                        row[y_start + i] = -M
+                        A_rows.append(row)
                         b_l.append(-np.inf);
                         b_u.append(base_e - base_i)
 
+                    # 统计比淘汰者表现更差（总分数值更大）的人数不能超过1人 (即淘汰者在 Bottom 2)
                     row_y = np.zeros(n_vars)
                     for i in range(n):
                         if i != e: row_y[y_start + i] = 1
                     A_rows.append(row_y)
-                    b_l.append(n - (k_elim + 1));
-                    b_u.append(n - 1)
+                    b_l.append(0);
+                    b_u.append(1)
 
-        # 求解
+        # 求解 MILP
         res = milp(c, constraints=LinearConstraint(A_rows, b_l, b_u),
                    integrality=np.ones(n_vars), bounds=Bounds(0, 1))
 
@@ -132,29 +128,51 @@ class DWTS_Final_Inference_Engine:
                 for j in range(1, n + 1):
                     if res.x[i * n + (j - 1)] > 0.5: v[i] = j
             return v
+
+        # --- 随机搜索保底 ---
+        #print(1)
+        for _ in range(2000):
+            v_guess = np.random.permutation(np.arange(1, n + 1))
+            total = rj + v_guess
+            is_valid = True
+
+            if final_ranks is not None:
+                s_idx = np.argsort(final_ranks)
+                for k in range(len(s_idx) - 1):
+                    if total[s_idx[k]] > total[s_idx[k + 1]]:
+                        is_valid = False;
+                        break
+            elif k_elim > 0:
+                if rule_type == 'Rank_Standard' or (rule_type == 'Rank_Save' and k_elim >= 2):
+                    survivors = [i for i in range(n) if i not in elim_indices]
+                    if any(total[s] > total[e] for s in survivors for e in elim_indices):
+                        is_valid = False
+                else:  # S28+ 单人淘汰
+                    sorted_t = sorted(total)
+                    limit = sorted_t[-2] if n >= 2 else sorted_t[-1]
+                    if all(total[e] < limit for e in elim_indices):
+                        is_valid = False
+
+            if is_valid: return v_guess
+
         return np.argsort(np.argsort(rj)) + 1
 
     def solve_percentage(self, pj, elim_indices, final_ranks=None):
-        """百分比制求解：允许平分随机判定"""
         n = len(pj)
 
         def obj(x):
             return np.sum((x - pj) ** 2)
 
         cons = [{'type': 'eq', 'fun': lambda x: np.sum(x) - 100}]
-
-        # 修改点：移除所有 0.01 * pj 的优先级干扰
         if final_ranks is not None:
             idx = np.argsort(final_ranks)
             for k in range(len(idx) - 1):
                 h, l = idx[k], idx[k + 1]
-                # 修改点：使用 >= (即偏移量为0)
                 cons.append({'type': 'ineq', 'fun': lambda x, h=h, l=l: (pj[h] + x[h]) - (pj[l] + x[l])})
         elif elim_indices:
             survivors = [i for i in range(n) if i not in elim_indices]
             for e in elim_indices:
                 for s in survivors:
-                    # 修改点：使用 >=
                     cons.append({'type': 'ineq', 'fun': lambda x, e=e, s=s: (pj[s] + x[s]) - (pj[e] + x[e])})
 
         res = minimize(obj, pj, method='SLSQP', bounds=[(0, 100)] * n, constraints=cons)
@@ -189,9 +207,9 @@ class DWTS_Final_Inference_Engine:
                 results.append(row_data)
 
         pd.DataFrame(results).to_csv(output_file, index=False)
-        print(f"成功：计算完成（已放宽平分逻辑），结果保存至 {output_file}")
+        print(f"成功：修正版已启用。结果保存至 {output_file}")
 
 
 if __name__ == "__main__":
     engine = DWTS_Final_Inference_Engine('cleaned_data.csv')
-    engine.execute('estimate_fan_final.csv')
+    engine.execute('final_estimation_rank.csv')
