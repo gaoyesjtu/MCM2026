@@ -1,61 +1,97 @@
 ,season,week,rank_loser,rank_loser_fan_rank,pct_loser,pct_loser_fan_rank,favored_method
-0,1,2,Trista Sutter,6.0,Evander Holyfield,1.0,Rank Method
-1,1,4,Rachel Hunter,4.0,Joey McIntyre,1.0,Rank Method
-2,2,3,Giselle Fernandez,8.0,Master P,1.0,Rank Method
-3,2,7,Lisa Rinna,4.0,Jerry Rice,1.0,Rank Method
-4,3,3,Jerry Springer,8.0,Harry Hamlin,9.0,Percent Method
-5,3,4,Jerry Springer,7.0,Vivica A. Fox,8.0,Percent Method
-6,3,4,Sara Evans,6.0,Vivica A. Fox,8.0,Percent Method
-7,4,2,Clyde Drexler,9.0,Paulina Porizkova,11.0,Percent Method
-8,4,2,Shandi Finnessey,10.0,Paulina Porizkova,11.0,Percent Method
-9,4,3,Clyde Drexler,8.0,Shandi Finnessey,10.0,Percent Method
-10,4,3,John Ratzenberger,9.0,Shandi Finnessey,10.0,Percent Method
-11,5,6,Jane Seymour,5.0,Sabrina Bryan,7.0,Percent Method
-12,5,6,Marie Osmond,6.0,Sabrina Bryan,7.0,Percent Method
-13,8,2,Steve Wozniak,12.0,Belinda Carlisle,13.0,Percent Method
-14,8,3,Steve Wozniak,11.0,Denise Richards,12.0,Percent Method
-15,8,5,Lawrence Taylor,8.0,Steve-O,6.0,Rank Method
-16,9,3,Tom DeLay,12.0,Debi Mazar,13.0,Percent Method
-17,9,3,Michael Irvin,11.0,Debi Mazar,13.0,Percent Method
-18,9,5,Michael Irvin,9.0,Natalie Coughlin,10.0,Percent Method
-19,10,2,Kate Gosselin,10.0,Shannen Doherty,11.0,Percent Method
-20,10,7,Niecy Nash,5.0,Pamela Anderson,6.0,Percent Method
-21,11,6,Bristol Palin,6.0,Kurt Warner,2.0,Rank Method
-22,13,3,Nancy Grace,9.0,Kristin Cavallari,10.0,Percent Method
-23,13,3,Nancy Grace,9.0,Chaz Bono,7.0,Rank Method
-24,14,9,Donald Driver,3.0,Maria Menounos,4.0,Percent Method
-25,15,2,Kirstie Alley,11.0,Joey Fatone,12.0,Percent Method
-26,15,2,Bristol Palin,10.0,Joey Fatone,12.0,Percent Method
-27,15,3,Drew Lachey,10.0,Bristol Palin,7.0,Rank Method
-28,15,6,Kelly Monaco,4.0,Sabrina Bryan,8.0,Percent Method
-29,15,6,Kirstie Alley,6.0,Sabrina Bryan,8.0,Percent Method
-30,15,6,Gilles Marini,6.0,Sabrina Bryan,8.0,Percent Method
-31,17,7,Leah Remini,7.0,"Nicole ""Snooki"" Polizzi",8.0,Percent Method
-32,17,9,Amber Riley,5.0,Elizabeth Berkley Lauren,6.0,Percent Method
-33,18,2,Billy Dee Williams,10.0,Sean Avery,11.0,Percent Method
-34,19,2,Michael Waltrip,11.0,Tavis Smiley,12.0,Percent Method
-35,19,6,Michael Waltrip,8.0,Tommy Chong,6.0,Rank Method
-36,19,6,Michael Waltrip,8.0,Jonathan Bennett,9.0,Percent Method
-37,19,6,Michael Waltrip,8.0,Antonio Sabato Jr.,6.0,Rank Method
-38,20,2,Charlotte McKinney,11.0,Redfoo,12.0,Percent Method
-39,20,5,Robert Herjavec,6.0,Suzanne Somers,9.0,Percent Method
-40,20,7,Chris Soules,6.0,Willow Shields,7.0,Percent Method
-41,20,9,Rumer Willis,3.0,Nastia Liukin,4.0,Percent Method
-42,21,7,Nick Carter,6.0,Hayes Grier,8.0,Percent Method
-43,21,7,Tamar Braxton,6.0,Hayes Grier,8.0,Percent Method
-44,21,7,Alek Skarlatos,4.0,Hayes Grier,8.0,Percent Method
-45,21,9,Alek Skarlatos,4.0,Alexa PenaVega,6.0,Percent Method
-46,21,9,Carlos PenaVega,5.0,Alexa PenaVega,6.0,Percent Method
-47,21,11,Alek Skarlatos,3.0,Carlos PenaVega,4.0,Percent Method
-48,22,8,Antonio Brown,5.0,Wanya Morris,2.0,Rank Method
-49,23,10,Jana Kramer,4.0,Terra Jole,5.0,Percent Method
-50,24,5,David Ross,7.0,Erika Jayne,9.0,Percent Method
-51,24,5,Bonner Bolton,8.0,Erika Jayne,9.0,Percent Method
-52,24,9,Normani,3.0,Simone Biles,4.0,Percent Method
-53,27,4,Bobby Bones,9.0,Joe Amabile,6.0,Rank Method
-54,29,1,Veron Davis,14.0,Charles Oakley,4.0,Rank Method
-55,29,11,Nelly,3.0,Nev Schulman,4.0,Percent Method
-56,30,10,Cody Rigsby,2.0,JoJo Siwa,4.0,Percent Method
-57,32,10,Jason Mraz,4.0,Xochitl Gomez,5.0,Percent Method
-58,34,5,Scott Hoying,9.0,Whitney Leavitt,10.0,Percent Method
-59,34,11,Elaine Hendrix,3.0,Robert Irwin,5.0,Percent Method
+0,1,1,Kelly Monaco,0.2857142857142857,Rachel Hunter,0.047619047619047616,Percent Method
+1,1,5,Joey McIntyre,0.5,John O'Hurley,0.16666666666666666,Percent Method
+2,1,6,John O'Hurley,0.6666666666666666,Kelly Monaco,0.3333333333333333,Percent Method
+3,2,5,Tia Carrere,0.2857142857142857,Stacy Keibler,0.047619047619047616,Percent Method
+4,2,6,Jerry Rice,0.26666666666666666,Drew Lachey,0.06666666666666667,Percent Method
+5,2,7,Jerry Rice,0.3,Drew Lachey,0.1,Percent Method
+6,2,8,Jerry Rice,0.3333333333333333,Drew Lachey,0.16666666666666666,Percent Method
+7,3,3,Jerry Springer,0.11654589431585322,Emmitt Smith,0.12137681219024936,Rank Method
+8,4,2,Shandi Finnessey,0.08163265304767794,Clyde Drexler,0.08571428577524504,Rank Method
+9,4,3,John Ratzenberger,0.09174311920645041,Clyde Drexler,0.09633027546777642,Rank Method
+10,5,2,Mark Cuban,0.07563025238983255,Wayne Newton,0.0882352944066394,Rank Method
+11,8,5,Lawrence Taylor,0.09523809523809522,Steve-O,0.10476190476190472,Rank Method
+12,10,2,Kate Gosselin,0.07424242420630026,Buzz Aldrin,0.08787878784266417,Rank Method
+13,11,6,Bristol Palin,0.1352651917180396,Kurt Warner,0.154588928561594,Rank Method
+14,12,7,Kendra Wilkinson,0.1582670203359859,Kirstie Alley,0.16091954022988506,Rank Method
+15,12,7,Kendra Wilkinson,0.1582670203359859,Romeo,0.16091954022988506,Rank Method
+16,13,3,Nancy Grace,0.08860759511552287,Chaz Bono,0.10126582266560101,Rank Method
+17,14,9,Donald Driver,0.2507246376811595,Katherine Jenkins,0.255072463768116,Rank Method
+18,15,2,Kirstie Alley,0.07608695652173915,Bristol Palin,0.0815217391304348,Rank Method
+19,15,3,Kirstie Alley,0.0863309352517986,Bristol Palin,0.091726618705036,Rank Method
+20,15,3,Drew Lachey,0.0863309352517986,Bristol Palin,0.091726618705036,Rank Method
+21,17,5,Bill Engvall,0.10780141857217108,Leah Remini,0.1163120568700434,Rank Method
+22,17,7,Leah Remini,0.11963882618510152,Bill Engvall,0.12189616252821674,Rank Method
+23,17,9,Amber Riley,0.16190476230212625,Bill Engvall,0.17777777698304817,Rank Method
+24,18,8,Danica McKellar,0.1548672566495858,James Maslow,0.1637168141717097,Rank Method
+25,18,8,Danica McKellar,0.1548672566495858,Meryl Davis,0.1637168141717097,Rank Method
+26,18,8,Danica McKellar,0.1548672566495858,Candace Cameron Bure,0.1637168141717097,Rank Method
+27,19,4,Michael Waltrip,0.084375,Jonathan Bennett,0.08750000000000002,Rank Method
+28,20,2,Charlotte McKinney,0.0749279537911489,Chris Soules,0.08933717569316578,Rank Method
+29,22,8,Antonio Brown,0.16370808658632768,Wanya Morris,0.17554240611295469,Rank Method
+30,23,10,Jana Kramer,0.19795221848963881,Calvin Johnson Jr.,0.20477815690718004,Rank Method
+31,24,9,Normani,0.250825082806274,David Ross,0.2640264023422406,Rank Method
+32,27,4,Bobby Bones,0.08908045921380481,Joe Amabile,0.11063218335173602,Rank Method
+33,27,7,DeMarcus Ware,0.11417624496237523,Joe Amabile,0.12796934841065113,Rank Method
+34,28,2,Lamar Odom,0.16666666666666666,Kate Flannery,0.030303030303030304,Percent Method
+35,28,4,Lamar Odom,0.18181818181818182,Lauren Alaina,0.01818181818181818,Percent Method
+36,28,5,Sean Spicer,0.2,Ally Brooke,0.022222222222222223,Percent Method
+37,28,6,Sean Spicer,0.2,Kate Flannery,0.022222222222222223,Percent Method
+38,28,7,Sean Spicer,0.2222222222222222,Lauren Alaina,0.027777777777777776,Percent Method
+39,28,8,Sean Spicer,0.25,James Van Der Beek,0.03571428571428571,Percent Method
+40,28,9,Sean Spicer,0.2857142857142857,Ally Brooke,0.047619047619047616,Percent Method
+41,28,10,James Van Der Beek,0.3333333333333333,Ally Brooke,0.06666666666666667,Percent Method
+42,29,1,Carole Baskin,0.13333333333333333,Justina Machado,0.009523809523809525,Percent Method
+43,29,2,Charles Oakley,0.12380952380952381,Kaitlyn Bristowe,0.009523809523809525,Percent Method
+44,29,4,Jesse Metcalfe,0.1282051282051282,Kaitlyn Bristowe,0.02564102564102564,Percent Method
+45,29,5,Jesse Metcalfe,0.15151515151515152,Kaitlyn Bristowe,0.030303030303030304,Percent Method
+46,29,6,Skai Jackson,0.18181818181818182,Justina Machado,0.01818181818181818,Percent Method
+47,29,7,Monica Aldama,0.2,Johnny Weir,0.044444444444444446,Percent Method
+48,29,8,Nelly,0.2222222222222222,Nev Schulman,0.027777777777777776,Percent Method
+49,29,9,Nelly,0.25,Johnny Weir,0.03571428571428571,Percent Method
+50,29,10,Nelly,0.2857142857142857,Nev Schulman,0.047619047619047616,Percent Method
+51,30,3,Cody Rigsby,0.13333333333333333,Amanda Kloots,0.009523809523809525,Percent Method
+52,30,4,Brian Austin Green,0.14285714285714285,Melora Hardin,0.01098901098901099,Percent Method
+53,30,5,Iman Shumpert,0.16666666666666666,JoJo Siwa,0.015151515151515152,Percent Method
+54,30,6,Kenya Moore,0.18181818181818182,Iman Shumpert,0.01818181818181818,Percent Method
+55,30,7,"Mike ""The Miz"" Mizanin",0.2,Olivia Jade,0.022222222222222223,Percent Method
+56,30,8,Jimmie Allen,0.2222222222222222,Suni Lee,0.027777777777777776,Percent Method
+57,30,9,Cody Rigsby,0.2857142857142857,JoJo Siwa,0.047619047619047616,Percent Method
+58,30,10,Cody Rigsby,0.3,Iman Shumpert,0.1,Percent Method
+59,31,1,Vinny Guadagnino,0.125,Wayne Brady,0.016666666666666666,Percent Method
+60,31,2,Cheryl Ladd,0.13333333333333333,Charli D'Amelio,0.009523809523809525,Percent Method
+61,31,3,Vinny Guadagnino,0.14285714285714285,Wayne Brady,0.01098901098901099,Percent Method
+62,31,4,Sam Champion,0.15384615384615385,Wayne Brady,0.01282051282051282,Percent Method
+63,31,5,Vinny Guadagnino,0.16666666666666666,Charli D'Amelio,0.015151515151515152,Percent Method
+64,31,6,Vinny Guadagnino,0.18181818181818182,Gabby Windey,0.03636363636363636,Percent Method
+65,31,7,Vinny Guadagnino,0.2,Trevor Donovan,0.022222222222222223,Percent Method
+66,31,8,Vinny Guadagnino,0.2222222222222222,Wayne Brady,0.027777777777777776,Percent Method
+67,31,9,Trevor Donovan,0.2857142857142857,Charli D'Amelio,0.047619047619047616,Percent Method
+68,31,10,Wayne Brady,0.3,Charli D'Amelio,0.1,Percent Method
+69,32,3,Tyson Beckford,0.15384615384615385,Lele Pons,0.0641025641025641,Percent Method
+70,32,4,Alyson Hannigan,0.15151515151515152,Ariana Madix,0.030303030303030304,Percent Method
+71,32,5,Harry Jowsey,0.18181818181818182,Xochitl Gomez,0.01818181818181818,Percent Method
+72,32,6,Harry Jowsey,0.2,Xochitl Gomez,0.022222222222222223,Percent Method
+73,32,7,Harry Jowsey,0.2222222222222222,Ariana Madix,0.027777777777777776,Percent Method
+74,32,8,Harry Jowsey,0.25,Ariana Madix,0.03571428571428571,Percent Method
+75,32,9,Harry Jowsey,0.2857142857142857,Jason Mraz,0.047619047619047616,Percent Method
+76,32,10,Alyson Hannigan,0.3333333333333333,Xochitl Gomez,0.06666666666666667,Percent Method
+77,32,11,Alyson Hannigan,0.3333333333333333,Xochitl Gomez,0.06666666666666667,Percent Method
+78,33,1,Eric Roberts,0.14285714285714285,Chandler Kinney,0.01098901098901099,Percent Method
+79,33,2,Eric Roberts,0.13186813186813187,Dwight Howard ,0.02197802197802198,Percent Method
+80,33,3,Reginald VelJohnson,0.16666666666666666,Joey Graziadei,0.015151515151515152,Percent Method
+81,33,4,Dwight Howard ,0.2,Joey Graziadei,0.022222222222222223,Percent Method
+82,33,5,Stephen Nedoroscik,0.16666666666666666,Chandler Kinney,0.027777777777777776,Percent Method
+83,33,6,Ilona Maher,0.25,Chandler Kinney,0.03571428571428571,Percent Method
+84,33,7,Dwight Howard ,0.2857142857142857,Chandler Kinney,0.047619047619047616,Percent Method
+85,33,8,Stephen Nedoroscik,0.3333333333333333,Joey Graziadei,0.06666666666666667,Percent Method
+86,34,1,Andy Richter,0.12380952380952381,Scott Hoying,0.08571428571428572,Percent Method
+87,34,2,Corey Feldman,0.13333333333333333,Robert Irwin,0.009523809523809525,Percent Method
+88,34,3,Lauren Jauregui,0.14102564102564102,Whitney Leavitt,0.01282051282051282,Percent Method
+89,34,4,Andy Richter,0.16666666666666666,Whitney Leavitt,0.015151515151515152,Percent Method
+90,34,5,Andy Richter,0.18181818181818182,Dylan Efron,0.01818181818181818,Percent Method
+91,34,6,Andy Richter,0.18181818181818182,Whitney Leavitt,0.01818181818181818,Percent Method
+92,34,7,Andy Richter,0.2,Alix Earle,0.022222222222222223,Percent Method
+93,34,8,Andy Richter,0.2222222222222222,Whitney Leavitt,0.027777777777777776,Percent Method
+94,34,9,Andy Richter,0.25,Whitney Leavitt,0.03571428571428571,Percent Method
+95,34,10,Dylan Efron,0.2857142857142857,Robert Irwin,0.047619047619047616,Percent Method
