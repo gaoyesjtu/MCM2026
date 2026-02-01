@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 
-def harmonize_votes(input_file, output_file, alpha=0.16):
+def harmonize_votes(input_file, output_file, alpha=0.1):
     """
     读取CSV文件并进行排名到百分比的统化转换
     :param input_file: 上传的 CSV 文件路径
@@ -63,5 +63,5 @@ if __name__ == "__main__":
     harmonize_votes(
         input_file='final_estimation_rank.csv',
         output_file='final_estimation.csv',
-        alpha=0.16
+        alpha=0.1
     )

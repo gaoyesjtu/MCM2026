@@ -1,82 +1,82 @@
 season,week,celebrity_name,celebrity_industry,results,total_judge_score,num_judges,judge_rank,judge_percent,eliminated_week_num,is_eliminated,f_placement,rule_type,predicted_fan_vote,harmonized_fan_percent
-1,1,Evander Holyfield,Athlete,Eliminated Week 3,18.0,3,4.0,0.1651376146788991,3,False,,Rank_Standard,4.0,0.15835727469391844
-1,1,Joey McIntyre,Singer/Rapper,3rd Place,20.0,3,1.0,0.1834862385321101,7,False,3.0,Rank_Standard,3.0,0.16581668055445303
-1,1,John O'Hurley,Actor/Actress,2nd Place,20.0,3,1.0,0.1834862385321101,7,False,2.0,Rank_Standard,2.0,0.1769305462356845
-1,1,Kelly Monaco,Actor/Actress,1st Place,13.0,3,6.0,0.1192660550458715,7,False,1.0,Rank_Standard,6.0,0.14841008627429028
-1,1,Rachel Hunter,Model,Eliminated Week 4,20.0,3,1.0,0.1834862385321101,4,False,,Rank_Standard,1.0,0.19768222364122254
-1,1,Trista Sutter,TV Personality,Eliminated Week 2,18.0,3,4.0,0.1651376146788991,2,False,,Rank_Standard,5.0,0.15280318860043124
-1,2,Evander Holyfield,Athlete,Eliminated Week 3,14.0,3,6.0,0.1157024793388429,3,False,,Rank_Standard,4.0,0.15835727469391844
-1,2,Joey McIntyre,Singer/Rapper,3rd Place,21.0,3,3.0,0.1735537190082644,7,False,3.0,Rank_Standard,3.0,0.16581668055445303
-1,2,John O'Hurley,Actor/Actress,2nd Place,26.0,3,1.0,0.2148760330578512,7,False,2.0,Rank_Standard,1.0,0.19768222364122254
-1,2,Kelly Monaco,Actor/Actress,1st Place,17.0,3,5.0,0.140495867768595,7,False,1.0,Rank_Standard,5.0,0.15280318860043124
-1,2,Rachel Hunter,Model,Eliminated Week 4,24.0,3,2.0,0.1983471074380165,4,False,,Rank_Standard,2.0,0.1769305462356845
-1,2,Trista Sutter,TV Personality,Eliminated Week 2,19.0,3,4.0,0.1570247933884297,2,True,,Rank_Standard,6.0,0.14841008627429028
-1,3,Evander Holyfield,Athlete,Eliminated Week 3,13.0,3,5.0,0.1226415094339622,3,True,,Rank_Standard,5.0,0.1794328304475996
-1,3,Joey McIntyre,Singer/Rapper,3rd Place,22.0,3,3.0,0.2075471698113207,7,False,3.0,Rank_Standard,3.0,0.19471423731289197
-1,3,John O'Hurley,Actor/Actress,2nd Place,24.0,3,2.0,0.2264150943396226,7,False,2.0,Rank_Standard,2.0,0.20776496220065896
-1,3,Kelly Monaco,Actor/Actress,1st Place,21.0,3,4.0,0.1981132075471698,7,False,1.0,Rank_Standard,4.0,0.18595485002999232
-1,3,Rachel Hunter,Model,Eliminated Week 4,26.0,3,1.0,0.2452830188679245,4,False,,Rank_Standard,1.0,0.23213312000885722
-1,4,Joey McIntyre,Singer/Rapper,3rd Place,20.0,3,4.0,0.217391304347826,7,False,3.0,Rank_Standard,2.0,0.2531967764613221
-1,4,John O'Hurley,Actor/Actress,2nd Place,21.0,3,3.0,0.2282608695652173,7,False,2.0,Rank_Standard,3.0,0.23729225898606676
-1,4,Kelly Monaco,Actor/Actress,1st Place,26.0,3,1.0,0.2826086956521739,7,False,1.0,Rank_Standard,1.0,0.28289350174158223
-1,4,Rachel Hunter,Model,Eliminated Week 4,25.0,3,2.0,0.2717391304347826,4,True,,Rank_Standard,4.0,0.22661746281102885
-1,5,Joey McIntyre,Singer/Rapper,3rd Place,22.5,3,3.0,0.3082191780821918,7,False,3,Rank_Standard,3.0,0.3068239164651398
-1,5,John O'Hurley,Actor/Actress,2nd Place,27.0,3,1.0,0.3698630136986301,7,False,2,Rank_Standard,1.0,0.3657872891335521
-1,5,Kelly Monaco,Actor/Actress,1st Place,23.5,3,2.0,0.3219178082191781,7,False,1,Rank_Standard,2.0,0.32738879440130814
-1,6,John O'Hurley,Actor/Actress,2nd Place,27.0,3,2.0,0.4954128440366973,7,False,2,Rank_Standard,2.0,0.4723024959715645
-1,6,Kelly Monaco,Actor/Actress,1st Place,27.5,3,1.0,0.5045871559633027,7,False,1,Rank_Standard,1.0,0.5276975040284355
-2,1,Drew Lachey,Singer/Rapper,1st Place,24.0,3,1.0,0.123076923076923,9,False,1.0,Rank_Standard,1.0,0.1265264537346452
-2,1,George Hamilton,Actor/Actress,Eliminated Week 6,18.0,3,8.0,0.0923076923076923,6,False,,Rank_Standard,8.0,0.09071663617281313
-2,1,Giselle Fernandez,News Anchor,Eliminated Week 3,23.0,3,2.0,0.1179487179487179,3,False,,Rank_Standard,3.0,0.10613092150704873
-2,1,Jerry Rice,Athlete,2nd Place,21.0,3,5.0,0.1076923076923077,9,False,2.0,Rank_Standard,5.0,0.09780163950425684
-2,1,Kenny Mayne,Sports Broadcaster,Eliminated Week 1,13.0,3,9.0,0.0666666666666666,1,True,,Rank_Standard,10.0,0.08753491933416949
-2,1,Lisa Rinna,Actor/Actress,Eliminated Week 7,19.0,3,7.0,0.0974358974358974,7,False,,Rank_Standard,7.0,0.09267565186445964
-2,1,Master P,Singer/Rapper,Eliminated Week 4,12.0,3,10.0,0.0615384615384615,4,False,,Rank_Standard,9.0,0.08902306329993281
-2,1,Stacy Keibler,Athlete,3rd Place,22.0,3,4.0,0.1128205128205128,9,False,3.0,Rank_Standard,4.0,0.1013565308050612
-2,1,Tatum O'Neal,Actor/Actress,Eliminated Week 2,23.0,3,2.0,0.1179487179487179,2,False,,Rank_Standard,2.0,0.11324434822811562
-2,1,Tia Carrere,Actor/Actress,Eliminated Week 5,20.0,3,6.0,0.1025641025641025,5,False,,Rank_Standard,6.0,0.09498983554949737
-2,2,Drew Lachey,Singer/Rapper,1st Place,27.0,3,2.0,0.135,9,False,1.0,Rank_Standard,2.0,0.12410814465960782
-2,2,George Hamilton,Actor/Actress,Eliminated Week 6,22.0,3,5.0,0.11,6,False,,Rank_Standard,5.0,0.10718398059999235
-2,2,Giselle Fernandez,News Anchor,Eliminated Week 3,24.0,3,3.0,0.12,3,False,,Rank_Standard,3.0,0.11631231019778251
-2,2,Jerry Rice,Athlete,2nd Place,23.0,3,4.0,0.115,9,False,2.0,Rank_Standard,4.0,0.11107990097670456
-2,2,Lisa Rinna,Actor/Actress,Eliminated Week 7,20.0,3,7.0,0.1,7,False,,Rank_Standard,7.0,0.1015662449206645
-2,2,Master P,Singer/Rapper,Eliminated Week 4,16.0,3,9.0,0.08,4,False,,Rank_Standard,8.0,0.09941929625034716
-2,2,Stacy Keibler,Athlete,3rd Place,29.0,3,1.0,0.145,9,False,3.0,Rank_Standard,1.0,0.1386644337581863
-2,2,Tatum O'Neal,Actor/Actress,Eliminated Week 2,17.0,3,8.0,0.085,2,True,,Rank_Standard,9.0,0.0975632549521481
-2,2,Tia Carrere,Actor/Actress,Eliminated Week 5,22.0,3,5.0,0.11,5,False,,Rank_Standard,6.0,0.10410243368456662
-2,3,Drew Lachey,Singer/Rapper,1st Place,27.0,3,1.0,0.1483516483516483,9,False,1.0,Rank_Standard,1.0,0.15365557145042183
-2,3,George Hamilton,Actor/Actress,Eliminated Week 6,22.0,3,5.0,0.1208791208791208,6,False,,Rank_Standard,7.0,0.11254666377229458
-2,3,Giselle Fernandez,News Anchor,Eliminated Week 3,22.0,3,5.0,0.1208791208791208,3,True,,Rank_Standard,8.0,0.11016760653410167
-2,3,Jerry Rice,Athlete,2nd Place,19.0,3,7.0,0.1043956043956044,9,False,2.0,Rank_Standard,6.0,0.1153570422036024
-2,3,Lisa Rinna,Actor/Actress,Eliminated Week 7,25.0,3,4.0,0.1373626373626373,7,False,,Rank_Standard,4.0,0.12308884981275285
-2,3,Master P,Singer/Rapper,Eliminated Week 4,14.0,3,8.0,0.0769230769230769,4,False,,Rank_Standard,5.0,0.11877173795079556
-2,3,Stacy Keibler,Athlete,3rd Place,27.0,3,1.0,0.1483516483516483,9,False,3.0,Rank_Standard,2.0,0.1375255887358919
-2,3,Tia Carrere,Actor/Actress,Eliminated Week 5,26.0,3,3.0,0.1428571428571428,5,False,,Rank_Standard,3.0,0.12888693954013922
-2,4,Drew Lachey,Singer/Rapper,1st Place,28.0,3,1.0,0.1772151898734177,9,False,1.0,Rank_Standard,1.0,0.17267922878367373
-2,4,George Hamilton,Actor/Actress,Eliminated Week 6,21.0,3,6.0,0.1329113924050632,6,False,,Rank_Standard,6.0,0.1296390680432374
-2,4,Jerry Rice,Athlete,2nd Place,24.0,3,5.0,0.1518987341772152,9,False,2.0,Rank_Standard,5.0,0.13347652751568131
-2,4,Lisa Rinna,Actor/Actress,Eliminated Week 7,26.0,3,2.0,0.1645569620253164,7,False,,Rank_Standard,3.0,0.14484406331637853
-2,4,Master P,Singer/Rapper,Eliminated Week 4,8.0,3,7.0,0.050632911392405,4,True,,Rank_Standard,7.0,0.12648074468712606
-2,4,Stacy Keibler,Athlete,3rd Place,26.0,3,2.0,0.1645569620253164,9,False,3.0,Rank_Standard,2.0,0.15455223898989515
-2,4,Tia Carrere,Actor/Actress,Eliminated Week 5,25.0,3,4.0,0.1582278481012658,5,False,,Rank_Standard,4.0,0.13832812866400787
-2,5,Drew Lachey,Singer/Rapper,1st Place,27.0,3,2.0,0.1788079470198675,9,False,1.0,Rank_Standard,2.0,0.1769305462356845
-2,5,George Hamilton,Actor/Actress,Eliminated Week 6,24.0,3,4.0,0.1589403973509933,6,False,,Rank_Standard,4.0,0.15835727469391844
-2,5,Jerry Rice,Athlete,2nd Place,23.0,3,5.0,0.152317880794702,9,False,2.0,Rank_Standard,5.0,0.15280318860043124
-2,5,Lisa Rinna,Actor/Actress,Eliminated Week 7,25.0,3,3.0,0.1655629139072847,7,False,,Rank_Standard,3.0,0.16581668055445303
-2,5,Stacy Keibler,Athlete,3rd Place,30.0,3,1.0,0.1986754966887417,9,False,3.0,Rank_Standard,1.0,0.19768222364122254
-2,5,Tia Carrere,Actor/Actress,Eliminated Week 5,22.0,3,6.0,0.1456953642384106,5,True,,Rank_Standard,6.0,0.14841008627429028
-2,6,Drew Lachey,Singer/Rapper,1st Place,30.0,3,1.0,0.225563909774436,9,False,1.0,Rank_Standard,1.0,0.23213312000885722
-2,6,George Hamilton,Actor/Actress,Eliminated Week 6,23.0,3,4.0,0.1729323308270676,6,True,,Rank_Standard,5.0,0.1794328304475996
-2,6,Jerry Rice,Athlete,2nd Place,23.0,3,4.0,0.1729323308270676,9,False,2.0,Rank_Standard,4.0,0.18595485002999232
-2,6,Lisa Rinna,Actor/Actress,Eliminated Week 7,27.0,3,3.0,0.2030075187969924,7,False,,Rank_Standard,3.0,0.19471423731289197
-2,6,Stacy Keibler,Athlete,3rd Place,30.0,3,1.0,0.225563909774436,9,False,3.0,Rank_Standard,2.0,0.20776496220065896
-2,7,Drew Lachey,Singer/Rapper,1st Place,27.5,3,1.0,0.2696078431372549,9,False,1.0,Rank_Standard,1.0,0.28289350174158223
-2,7,Jerry Rice,Athlete,2nd Place,20.5,3,4.0,0.2009803921568627,9,False,2.0,Rank_Standard,3.0,0.23729225898606676
-2,7,Lisa Rinna,Actor/Actress,Eliminated Week 7,26.5,3,3.0,0.2598039215686274,7,True,,Rank_Standard,4.0,0.22661746281102885
-2,7,Stacy Keibler,Athlete,3rd Place,27.5,3,1.0,0.2696078431372549,9,False,3.0,Rank_Standard,2.0,0.2531967764613221
-2,8,Drew Lachey,Singer/Rapper,1st Place,28.9998,3,1.0,0.3438729131809768,9,False,1,Rank_Standard,1.0,0.3657872891335521
-2,8,Jerry Rice,Athlete,2nd Place,26.666600000000003,3,3.0,0.3162063678588072,9,False,2,Rank_Standard,2.0,0.32738879440130814
-2,8,Stacy Keibler,Athlete,3rd Place,28.6665,3,2.0,0.339920718960216,9,False,3,Rank_Standard,3.0,0.3068239164651398
+1,1,Evander Holyfield,Athlete,Eliminated Week 3,18.0,3,4.0,0.1651376146788991,3,False,,Rank_Standard,4.0,0.16160688712206236
+1,1,Joey McIntyre,Singer/Rapper,3rd Place,20.0,3,1.0,0.1834862385321101,7,False,3.0,Rank_Standard,3.0,0.16632354717837394
+1,1,John O'Hurley,Actor/Actress,2nd Place,20.0,3,1.0,0.1834862385321101,7,False,2.0,Rank_Standard,2.0,0.17320597298052465
+1,1,Kelly Monaco,Actor/Actress,1st Place,13.0,3,6.0,0.1192660550458715,7,False,1.0,Rank_Standard,6.0,0.15518535678685155
+1,1,Rachel Hunter,Model,Eliminated Week 4,20.0,3,1.0,0.1834862385321101,4,False,,Rank_Standard,1.0,0.18563756539330456
+1,1,Trista Sutter,TV Personality,Eliminated Week 2,18.0,3,4.0,0.1651376146788991,2,False,,Rank_Standard,5.0,0.158040670538883
+1,2,Evander Holyfield,Athlete,Eliminated Week 3,14.0,3,6.0,0.1157024793388429,3,False,,Rank_Standard,4.0,0.16160688712206236
+1,2,Joey McIntyre,Singer/Rapper,3rd Place,21.0,3,3.0,0.1735537190082644,7,False,3.0,Rank_Standard,3.0,0.16632354717837394
+1,2,John O'Hurley,Actor/Actress,2nd Place,26.0,3,1.0,0.2148760330578512,7,False,2.0,Rank_Standard,1.0,0.18563756539330456
+1,2,Kelly Monaco,Actor/Actress,1st Place,17.0,3,5.0,0.140495867768595,7,False,1.0,Rank_Standard,5.0,0.158040670538883
+1,2,Rachel Hunter,Model,Eliminated Week 4,24.0,3,2.0,0.1983471074380165,4,False,,Rank_Standard,2.0,0.17320597298052465
+1,2,Trista Sutter,TV Personality,Eliminated Week 2,19.0,3,4.0,0.1570247933884297,2,True,,Rank_Standard,6.0,0.15518535678685155
+1,3,Evander Holyfield,Athlete,Eliminated Week 3,13.0,3,5.0,0.1226415094339622,3,True,,Rank_Standard,5.0,0.1870714147872659
+1,3,Joey McIntyre,Singer/Rapper,3rd Place,22.0,3,3.0,0.2075471698113207,7,False,3.0,Rank_Standard,3.0,0.19687578632134356
+1,3,John O'Hurley,Actor/Actress,2nd Place,24.0,3,2.0,0.2264150943396226,7,False,2.0,Rank_Standard,2.0,0.20502245595762528
+1,3,Kelly Monaco,Actor/Actress,1st Place,21.0,3,4.0,0.1981132075471698,7,False,1.0,Rank_Standard,4.0,0.19129271541436646
+1,3,Rachel Hunter,Model,Eliminated Week 4,26.0,3,1.0,0.2452830188679245,4,False,,Rank_Standard,1.0,0.2197376275193987
+1,4,Joey McIntyre,Singer/Rapper,3rd Place,20.0,3,4.0,0.217391304347826,7,False,3.0,Rank_Standard,2.0,0.25220229634805286
+1,4,John O'Hurley,Actor/Actress,2nd Place,21.0,3,3.0,0.2282608695652173,7,False,2.0,Rank_Standard,3.0,0.24218091220131402
+1,4,Kelly Monaco,Actor/Actress,1st Place,26.0,3,1.0,0.2826086956521739,7,False,1.0,Rank_Standard,1.0,0.2703037284165569
+1,4,Rachel Hunter,Model,Eliminated Week 4,25.0,3,2.0,0.2717391304347826,4,True,,Rank_Standard,4.0,0.23531306303407618
+1,5,Joey McIntyre,Singer/Rapper,3rd Place,22.5,3,3.0,0.3082191780821918,7,False,3,Rank_Standard,3.0,0.3167059622624444
+1,5,John O'Hurley,Actor/Actress,2nd Place,27.0,3,1.0,0.3698630136986301,7,False,2,Rank_Standard,1.0,0.35348286383582134
+1,5,Kelly Monaco,Actor/Actress,1st Place,23.5,3,2.0,0.3219178082191781,7,False,1,Rank_Standard,2.0,0.32981117390173437
+1,6,John O'Hurley,Actor/Actress,2nd Place,27.0,3,2.0,0.4954128440366973,7,False,2,Rank_Standard,2.0,0.48267825516781476
+1,6,Kelly Monaco,Actor/Actress,1st Place,27.5,3,1.0,0.5045871559633027,7,False,1,Rank_Standard,1.0,0.5173217448321853
+2,1,Drew Lachey,Singer/Rapper,1st Place,24.0,3,1.0,0.123076923076923,9,False,1.0,Rank_Standard,1.0,0.11601824206003447
+2,1,George Hamilton,Actor/Actress,Eliminated Week 6,18.0,3,8.0,0.0923076923076923,6,False,,Rank_Standard,8.0,0.09423609513430078
+2,1,Giselle Fernandez,News Anchor,Eliminated Week 3,23.0,3,2.0,0.1179487179487179,3,False,,Rank_Standard,3.0,0.10394752546954122
+2,1,Jerry Rice,Athlete,2nd Place,21.0,3,5.0,0.1076923076923077,9,False,2.0,Rank_Standard,5.0,0.09877096120638737
+2,1,Kenny Mayne,Sports Broadcaster,Eliminated Week 1,13.0,3,9.0,0.0666666666666666,1,True,,Rank_Standard,10.0,0.09215656541136157
+2,1,Lisa Rinna,Actor/Actress,Eliminated Week 7,19.0,3,7.0,0.0974358974358974,7,False,,Rank_Standard,7.0,0.09550288180262712
+2,1,Master P,Singer/Rapper,Eliminated Week 4,12.0,3,10.0,0.0615384615384615,4,False,,Rank_Standard,9.0,0.09313266482394854
+2,1,Stacy Keibler,Athlete,3rd Place,22.0,3,4.0,0.1128205128205128,9,False,3.0,Rank_Standard,4.0,0.10099974597798908
+2,1,Tatum O'Neal,Actor/Actress,Eliminated Week 2,23.0,3,2.0,0.1179487179487179,2,False,,Rank_Standard,2.0,0.10824884746211541
+2,1,Tia Carrere,Actor/Actress,Eliminated Week 5,20.0,3,6.0,0.1025641025641025,5,False,,Rank_Standard,6.0,0.09698647065169454
+2,2,Drew Lachey,Singer/Rapper,1st Place,27.0,3,2.0,0.135,9,False,1.0,Rank_Standard,2.0,0.11923735232073916
+2,2,George Hamilton,Actor/Actress,Eliminated Week 6,22.0,3,5.0,0.11,6,False,,Rank_Standard,5.0,0.10879735144104712
+2,2,Giselle Fernandez,News Anchor,Eliminated Week 3,24.0,3,3.0,0.12,3,False,,Rank_Standard,3.0,0.11449939660206042
+2,2,Jerry Rice,Athlete,2nd Place,23.0,3,4.0,0.115,9,False,2.0,Rank_Standard,4.0,0.11125238353874754
+2,2,Lisa Rinna,Actor/Actress,Eliminated Week 7,20.0,3,7.0,0.1,7,False,,Rank_Standard,7.0,0.1051975243351309
+2,2,Master P,Singer/Rapper,Eliminated Week 4,16.0,3,9.0,0.08,4,False,,Rank_Standard,8.0,0.10380214422875789
+2,2,Stacy Keibler,Athlete,3rd Place,29.0,3,1.0,0.145,9,False,3.0,Rank_Standard,1.0,0.1277954299604585
+2,2,Tatum O'Neal,Actor/Actress,Eliminated Week 2,17.0,3,8.0,0.085,2,True,,Rank_Standard,9.0,0.10258670303227864
+2,2,Tia Carrere,Actor/Actress,Eliminated Week 5,22.0,3,5.0,0.11,5,False,,Rank_Standard,6.0,0.10683171454077979
+2,3,Drew Lachey,Singer/Rapper,1st Place,27.0,3,1.0,0.1483516483516483,9,False,1.0,Rank_Standard,1.0,0.14240420817506022
+2,3,George Hamilton,Actor/Actress,Eliminated Week 6,22.0,3,5.0,0.1208791208791208,6,False,,Rank_Standard,7.0,0.11722305061735085
+2,3,Giselle Fernandez,News Anchor,Eliminated Week 3,22.0,3,5.0,0.1208791208791208,3,True,,Rank_Standard,8.0,0.11566815934140488
+2,3,Jerry Rice,Athlete,2nd Place,19.0,3,7.0,0.1043956043956044,9,False,2.0,Rank_Standard,6.0,0.11904405127688049
+2,3,Lisa Rinna,Actor/Actress,Eliminated Week 7,25.0,3,4.0,0.1373626373626373,7,False,,Rank_Standard,4.0,0.1239700636425372
+2,3,Master P,Singer/Rapper,Eliminated Week 4,14.0,3,8.0,0.0769230769230769,4,False,,Rank_Standard,5.0,0.12123438755438945
+2,3,Stacy Keibler,Athlete,3rd Place,27.0,3,1.0,0.1483516483516483,9,False,3.0,Rank_Standard,2.0,0.13286782436100672
+2,3,Tia Carrere,Actor/Actress,Eliminated Week 5,26.0,3,3.0,0.1428571428571428,5,False,,Rank_Standard,3.0,0.12758825503137025
+2,4,Drew Lachey,Singer/Rapper,1st Place,28.0,3,1.0,0.1772151898734177,9,False,1.0,Rank_Standard,1.0,0.16103028481820406
+2,4,George Hamilton,Actor/Actress,Eliminated Week 6,21.0,3,6.0,0.1329113924050632,6,False,,Rank_Standard,6.0,0.13461468399489487
+2,4,Jerry Rice,Athlete,2nd Place,24.0,3,5.0,0.1518987341772152,9,False,2.0,Rank_Standard,5.0,0.13709151020062973
+2,4,Lisa Rinna,Actor/Actress,Eliminated Week 7,26.0,3,2.0,0.1645569620253164,7,False,,Rank_Standard,3.0,0.1442764459734374
+2,4,Master P,Singer/Rapper,Eliminated Week 4,8.0,3,7.0,0.050632911392405,4,True,,Rank_Standard,7.0,0.1325555014846581
+2,4,Stacy Keibler,Athlete,3rd Place,26.0,3,2.0,0.1645569620253164,9,False,3.0,Rank_Standard,2.0,0.15024656837195308
+2,4,Tia Carrere,Actor/Actress,Eliminated Week 5,25.0,3,4.0,0.1582278481012658,5,False,,Rank_Standard,4.0,0.14018500515622284
+2,5,Drew Lachey,Singer/Rapper,1st Place,27.0,3,2.0,0.1788079470198675,9,False,1.0,Rank_Standard,2.0,0.17320597298052462
+2,5,George Hamilton,Actor/Actress,Eliminated Week 6,24.0,3,4.0,0.1589403973509933,6,False,,Rank_Standard,4.0,0.16160688712206234
+2,5,Jerry Rice,Athlete,2nd Place,23.0,3,5.0,0.152317880794702,9,False,2.0,Rank_Standard,5.0,0.15804067053888296
+2,5,Lisa Rinna,Actor/Actress,Eliminated Week 7,25.0,3,3.0,0.1655629139072847,7,False,,Rank_Standard,3.0,0.16632354717837392
+2,5,Stacy Keibler,Athlete,3rd Place,30.0,3,1.0,0.1986754966887417,9,False,3.0,Rank_Standard,1.0,0.18563756539330453
+2,5,Tia Carrere,Actor/Actress,Eliminated Week 5,22.0,3,6.0,0.1456953642384106,5,True,,Rank_Standard,6.0,0.15518535678685152
+2,6,Drew Lachey,Singer/Rapper,1st Place,30.0,3,1.0,0.225563909774436,9,False,1.0,Rank_Standard,1.0,0.21973762751939874
+2,6,George Hamilton,Actor/Actress,Eliminated Week 6,23.0,3,4.0,0.1729323308270676,6,True,,Rank_Standard,5.0,0.18707141478726597
+2,6,Jerry Rice,Athlete,2nd Place,23.0,3,4.0,0.1729323308270676,9,False,2.0,Rank_Standard,4.0,0.1912927154143665
+2,6,Lisa Rinna,Actor/Actress,Eliminated Week 7,27.0,3,3.0,0.2030075187969924,7,False,,Rank_Standard,3.0,0.1968757863213436
+2,6,Stacy Keibler,Athlete,3rd Place,30.0,3,1.0,0.225563909774436,9,False,3.0,Rank_Standard,2.0,0.2050224559576253
+2,7,Drew Lachey,Singer/Rapper,1st Place,27.5,3,1.0,0.2696078431372549,9,False,1.0,Rank_Standard,1.0,0.270303728416557
+2,7,Jerry Rice,Athlete,2nd Place,20.5,3,4.0,0.2009803921568627,9,False,2.0,Rank_Standard,3.0,0.24218091220131405
+2,7,Lisa Rinna,Actor/Actress,Eliminated Week 7,26.5,3,3.0,0.2598039215686274,7,True,,Rank_Standard,4.0,0.2353130630340762
+2,7,Stacy Keibler,Athlete,3rd Place,27.5,3,1.0,0.2696078431372549,9,False,3.0,Rank_Standard,2.0,0.25220229634805286
+2,8,Drew Lachey,Singer/Rapper,1st Place,28.9998,3,1.0,0.3438729131809768,9,False,1,Rank_Standard,1.0,0.3534828638358213
+2,8,Jerry Rice,Athlete,2nd Place,26.666600000000003,3,3.0,0.3162063678588072,9,False,2,Rank_Standard,2.0,0.3298111739017343
+2,8,Stacy Keibler,Athlete,3rd Place,28.6665,3,2.0,0.339920718960216,9,False,3,Rank_Standard,3.0,0.31670596226244435
 3,1,Emmitt Smith,Athlete,1st Place,24.0,3,2.0,0.1132075471698113,11,False,1,Percentage,12.028301859970366,0.12028301859970365
 3,1,Harry Hamlin,Actor/Actress,Eliminated Week 3,17.0,3,8.0,0.080188679245283,3,False,,Percentage,8.726415067517536,0.08726415067517536
 3,1,Jerry Springer,TV Personality,Eliminated Week 7,16.0,3,9.0,0.0754716981132075,7,False,,Percentage,8.25471701391463,0.08254717013914631
@@ -2074,705 +2074,705 @@ season,week,celebrity_name,celebrity_industry,results,total_judge_score,num_judg
 27,9,Bobby Bones,Radio Personality,1st Place,27.0,3,4.0,0.2337662337662337,10,False,1,Percentage,26.83982682989272,0.2683982682989272
 27,9,Evanna Lynch,Actor/Actress,3rd Place,30.0,3,1.0,0.2597402597402597,10,False,3,Percentage,24.242424232490144,0.24242424232490145
 27,9,Milo Manheim,Actor/Actress,2nd Place,30.0,3,1.0,0.2597402597402597,10,False,2,Percentage,24.24242423249014,0.2424242423249014
-28,1,Ally Brooke,Singer/Rapper,3rd Place,16.0,3,7.0,0.0812182741116751,12,False,3,Rank_Save,7.0,0.0853201841997012
-28,1,Hannah Brown,TV Personality,1st Place,20.0,3,2.0,0.1015228426395939,12,False,1,Rank_Save,2.0,0.10425638726047352
-28,1,James Van Der Beek,Actor/Actress,Eliminated Week 10,21.0,3,1.0,0.1065989847715736,10,False,,Rank_Save,1.0,0.11648432054800353
-28,1,Karamo Brown,TV Personality,Eliminated Week 7,17.0,3,5.0,0.0862944162436548,7,False,,Rank_Save,6.0,0.08745069609044173
-28,1,Kate Flannery,Actor/Actress,Eliminated Week 8,15.0,3,9.0,0.0761421319796954,8,False,,Rank_Save,9.0,0.08195749375338061
-28,1,Kel Mitchell,Actor/Actress,2nd Place,16.0,3,7.0,0.0812182741116751,12,False,2,Rank_Save,8.0,0.08351665138068377
-28,1,Lamar Odom,Athlete,Eliminated Week 4,11.0,3,12.0,0.0558375634517766,4,False,,Rank_Save,11.0,0.07936785462826852
-28,1,Lauren Alaina,Singer/Rapper,4th Place,19.0,3,3.0,0.0964467005076142,12,False,4,Rank_Save,3.0,0.09770753795731311
-28,1,Mary Wilson,Singer/Rapper,Eliminated Week 2,17.0,3,5.0,0.0862944162436548,2,False,,Rank_Save,5.0,0.09003933319767667
+28,1,Ally Brooke,Singer/Rapper,3rd Place,16.0,3,7.0,0.0812182741116751,12,False,3,Rank_Save,7.0,0.08751436154407762
+28,1,Hannah Brown,TV Personality,1st Place,20.0,3,2.0,0.1015228426395939,12,False,1,Rank_Save,2.0,0.09919416665465149
+28,1,James Van Der Beek,Actor/Actress,Eliminated Week 10,21.0,3,1.0,0.1065989847715736,10,False,,Rank_Save,1.0,0.10631367545885793
+28,1,Karamo Brown,TV Personality,Eliminated Week 7,17.0,3,5.0,0.0862944162436548,7,False,,Rank_Save,6.0,0.08887385278108945
+28,1,Kate Flannery,Actor/Actress,Eliminated Week 8,15.0,3,9.0,0.0761421319796954,8,False,,Rank_Save,9.0,0.08534240587431392
+28,1,Kel Mitchell,Actor/Actress,2nd Place,16.0,3,7.0,0.0812182741116751,12,False,2,Rank_Save,8.0,0.08635353765689646
+28,1,Lamar Odom,Athlete,Eliminated Week 4,11.0,3,12.0,0.0558375634517766,4,False,,Rank_Save,11.0,0.08364690266686534
+28,1,Lauren Alaina,Singer/Rapper,4th Place,19.0,3,3.0,0.0964467005076142,12,False,4,Rank_Save,3.0,0.095252636924129
+28,1,Mary Wilson,Singer/Rapper,Eliminated Week 2,17.0,3,5.0,0.0862944162436548,2,False,,Rank_Save,5.0,0.09050907622804395
 28,1,Ray Lewis,Athlete,Withdrew,15.0,3,9.0,0.0761421319796954,11,False,Withdrew,Rank_Save,,
-28,1,Sailor Brinkley-Cook,Model,Eliminated Week 6,18.0,3,4.0,0.0913705583756345,6,False,,Rank_Save,4.0,0.0933120804024995
-28,1,Sean Spicer,Politician,Eliminated Week 9,12.0,3,11.0,0.0609137055837563,9,False,,Rank_Save,10.0,0.08058746058155791
-28,2,Ally Brooke,Singer/Rapper,3rd Place,20.0,3,3.0,0.091324200913242,12,False,3,Rank_Save,4.0,0.09331208040249947
-28,2,Hannah Brown,TV Personality,1st Place,24.0,3,1.0,0.1095890410958904,12,False,1,Rank_Save,1.0,0.1164843205480035
-28,2,James Van Der Beek,Actor/Actress,Eliminated Week 10,20.0,3,3.0,0.091324200913242,10,False,,Rank_Save,3.0,0.09770753795731309
-28,2,Karamo Brown,TV Personality,Eliminated Week 7,19.0,3,6.0,0.0867579908675799,7,False,,Rank_Save,7.0,0.08532018419970118
-28,2,Kate Flannery,Actor/Actress,Eliminated Week 8,21.0,3,2.0,0.0958904109589041,8,False,,Rank_Save,2.0,0.10425638726047351
-28,2,Kel Mitchell,Actor/Actress,2nd Place,20.0,3,3.0,0.091324200913242,12,False,2,Rank_Save,5.0,0.09003933319767665
-28,2,Lamar Odom,Athlete,Eliminated Week 4,12.0,3,12.0,0.0547945205479452,4,False,,Rank_Save,11.0,0.07936785462826851
-28,2,Lauren Alaina,Singer/Rapper,4th Place,19.0,3,6.0,0.0867579908675799,12,False,4,Rank_Save,6.0,0.08745069609044172
-28,2,Mary Wilson,Singer/Rapper,Eliminated Week 2,15.0,3,10.0,0.0684931506849315,2,True,,Rank_Save,10.0,0.0805874605815579
+28,1,Sailor Brinkley-Cook,Model,Eliminated Week 6,18.0,3,4.0,0.0913705583756345,6,False,,Rank_Save,4.0,0.0925514300567901
+28,1,Sean Spicer,Politician,Eliminated Week 9,12.0,3,11.0,0.0609137055837563,9,False,,Rank_Save,10.0,0.08444795415428479
+28,2,Ally Brooke,Singer/Rapper,3rd Place,20.0,3,3.0,0.091324200913242,12,False,3,Rank_Save,4.0,0.0925514300567901
+28,2,Hannah Brown,TV Personality,1st Place,24.0,3,1.0,0.1095890410958904,12,False,1,Rank_Save,1.0,0.10631367545885793
+28,2,James Van Der Beek,Actor/Actress,Eliminated Week 10,20.0,3,3.0,0.091324200913242,10,False,,Rank_Save,3.0,0.095252636924129
+28,2,Karamo Brown,TV Personality,Eliminated Week 7,19.0,3,6.0,0.0867579908675799,7,False,,Rank_Save,7.0,0.08751436154407762
+28,2,Kate Flannery,Actor/Actress,Eliminated Week 8,21.0,3,2.0,0.0958904109589041,8,False,,Rank_Save,2.0,0.09919416665465149
+28,2,Kel Mitchell,Actor/Actress,2nd Place,20.0,3,3.0,0.091324200913242,12,False,2,Rank_Save,5.0,0.09050907622804395
+28,2,Lamar Odom,Athlete,Eliminated Week 4,12.0,3,12.0,0.0547945205479452,4,False,,Rank_Save,11.0,0.08364690266686534
+28,2,Lauren Alaina,Singer/Rapper,4th Place,19.0,3,6.0,0.0867579908675799,12,False,4,Rank_Save,6.0,0.08887385278108945
+28,2,Mary Wilson,Singer/Rapper,Eliminated Week 2,15.0,3,10.0,0.0684931506849315,2,True,,Rank_Save,10.0,0.08444795415428479
 28,2,Ray Lewis,Athlete,Withdrew,15.0,3,10.0,0.0684931506849315,11,False,Withdrew,Rank_Save,,
-28,2,Sailor Brinkley-Cook,Model,Eliminated Week 6,18.0,3,8.0,0.0821917808219178,6,False,,Rank_Save,8.0,0.08351665138068376
-28,2,Sean Spicer,Politician,Eliminated Week 9,16.0,3,9.0,0.0730593607305936,9,False,,Rank_Save,9.0,0.08195749375338059
-28,3,Ally Brooke,Singer/Rapper,3rd Place,24.0,3,1.0,0.1212121212121212,12,False,3.0,Rank_Save,2.0,0.1132443482281156
-28,3,Hannah Brown,TV Personality,1st Place,21.0,3,5.0,0.106060606060606,12,False,1.0,Rank_Save,5.0,0.09780163950425683
-28,3,James Van Der Beek,Actor/Actress,Eliminated Week 10,23.0,3,3.0,0.1161616161616161,10,False,,Rank_Save,3.0,0.10613092150704871
-28,3,Karamo Brown,TV Personality,Eliminated Week 7,16.0,3,8.0,0.0808080808080808,7,False,,Rank_Save,8.0,0.09071663617281311
-28,3,Kate Flannery,Actor/Actress,Eliminated Week 8,24.0,3,1.0,0.1212121212121212,8,False,,Rank_Save,1.0,0.12652645373464516
-28,3,Kel Mitchell,Actor/Actress,2nd Place,20.0,3,6.0,0.101010101010101,12,False,2.0,Rank_Save,7.0,0.09267565186445963
-28,3,Lamar Odom,Athlete,Eliminated Week 4,12.0,3,10.0,0.0606060606060606,4,False,,Rank_Save,10.0,0.08753491933416947
-28,3,Lauren Alaina,Singer/Rapper,4th Place,20.0,3,6.0,0.101010101010101,12,False,4.0,Rank_Save,6.0,0.09498983554949736
-28,3,Sailor Brinkley-Cook,Model,Eliminated Week 6,23.0,3,3.0,0.1161616161616161,6,False,,Rank_Save,4.0,0.1013565308050612
-28,3,Sean Spicer,Politician,Eliminated Week 9,15.0,3,9.0,0.0757575757575757,9,False,,Rank_Save,9.0,0.0890230632999328
-28,4,Ally Brooke,Singer/Rapper,3rd Place,32.0,4,1.0,0.1134751773049645,12,False,3.0,Rank_Save,3.0,0.10613092150704871
-28,4,Hannah Brown,TV Personality,1st Place,32.0,4,1.0,0.1134751773049645,12,False,1.0,Rank_Save,2.0,0.1132443482281156
-28,4,James Van Der Beek,Actor/Actress,Eliminated Week 10,28.0,4,6.0,0.0992907801418439,10,False,,Rank_Save,7.0,0.09267565186445963
-28,4,Karamo Brown,TV Personality,Eliminated Week 7,28.0,4,6.0,0.0992907801418439,7,False,,Rank_Save,6.0,0.09498983554949736
-28,4,Kate Flannery,Actor/Actress,Eliminated Week 8,26.0,4,8.0,0.0921985815602836,8,False,,Rank_Save,8.0,0.09071663617281311
-28,4,Kel Mitchell,Actor/Actress,2nd Place,32.0,4,1.0,0.1134751773049645,12,False,2.0,Rank_Save,4.0,0.1013565308050612
-28,4,Lamar Odom,Athlete,Eliminated Week 4,20.0,4,10.0,0.0709219858156028,4,True,,Rank_Save,10.0,0.08753491933416947
-28,4,Lauren Alaina,Singer/Rapper,4th Place,32.0,4,1.0,0.1134751773049645,12,False,4.0,Rank_Save,1.0,0.12652645373464516
-28,4,Sailor Brinkley-Cook,Model,Eliminated Week 6,31.0,4,5.0,0.1099290780141844,6,False,,Rank_Save,5.0,0.09780163950425683
-28,4,Sean Spicer,Politician,Eliminated Week 9,21.0,4,9.0,0.0744680851063829,9,False,,Rank_Save,9.0,0.0890230632999328
-28,5,Ally Brooke,Singer/Rapper,3rd Place,27.0,3,1.0,0.1255813953488372,12,False,3.0,Rank_Save,1.0,0.13866443375818632
-28,5,Hannah Brown,TV Personality,1st Place,25.0,3,4.0,0.1162790697674418,12,False,1.0,Rank_Save,4.0,0.11107990097670457
-28,5,James Van Der Beek,Actor/Actress,Eliminated Week 10,26.0,3,2.0,0.1209302325581395,10,False,,Rank_Save,2.0,0.12410814465960783
-28,5,Karamo Brown,TV Personality,Eliminated Week 7,21.0,3,8.0,0.0976744186046511,7,False,,Rank_Save,8.0,0.09941929625034718
-28,5,Kate Flannery,Actor/Actress,Eliminated Week 8,24.0,3,5.0,0.1116279069767441,8,False,,Rank_Save,5.0,0.10718398059999236
-28,5,Kel Mitchell,Actor/Actress,2nd Place,26.0,3,2.0,0.1209302325581395,12,False,2.0,Rank_Save,3.0,0.11631231019778253
-28,5,Lauren Alaina,Singer/Rapper,4th Place,23.0,3,7.0,0.1069767441860465,12,False,4.0,Rank_Save,7.0,0.10156624492066452
-28,5,Sailor Brinkley-Cook,Model,Eliminated Week 6,24.0,3,5.0,0.1116279069767441,6,False,,Rank_Save,6.0,0.10410243368456663
-28,5,Sean Spicer,Politician,Eliminated Week 9,19.0,3,9.0,0.0883720930232558,9,False,,Rank_Save,9.0,0.09756325495214811
-28,6,Ally Brooke,Singer/Rapper,3rd Place,25.0,3,6.0,0.1096491228070175,12,False,3.0,Rank_Save,4.0,0.11107990097670456
-28,6,Hannah Brown,TV Personality,1st Place,24.0,3,8.0,0.1052631578947368,12,False,1.0,Rank_Save,2.0,0.12410814465960782
-28,6,James Van Der Beek,Actor/Actress,Eliminated Week 10,27.0,3,1.0,0.1184210526315789,10,False,,Rank_Save,7.0,0.1015662449206645
-28,6,Karamo Brown,TV Personality,Eliminated Week 7,25.0,3,6.0,0.1096491228070175,7,False,,Rank_Save,3.0,0.11631231019778251
-28,6,Kate Flannery,Actor/Actress,Eliminated Week 8,27.0,3,1.0,0.1184210526315789,8,False,,Rank_Save,1.0,0.1386644337581863
-28,6,Kel Mitchell,Actor/Actress,2nd Place,26.0,3,4.0,0.1140350877192982,12,False,2.0,Rank_Save,6.0,0.10410243368456662
-28,6,Lauren Alaina,Singer/Rapper,4th Place,26.0,3,4.0,0.1140350877192982,12,False,4.0,Rank_Save,5.0,0.10718398059999235
-28,6,Sailor Brinkley-Cook,Model,Eliminated Week 6,27.0,3,1.0,0.1184210526315789,6,True,,Rank_Save,9.0,0.0975632549521481
-28,6,Sean Spicer,Politician,Eliminated Week 9,21.0,3,9.0,0.0921052631578947,9,False,,Rank_Save,8.0,0.09941929625034716
-28,7,Ally Brooke,Singer/Rapper,3rd Place,27.0,3,1.0,0.1336633663366336,12,False,3.0,Rank_Save,2.0,0.1375255887358919
-28,7,Hannah Brown,TV Personality,1st Place,26.0,3,4.0,0.1287128712871287,12,False,1.0,Rank_Save,4.0,0.12308884981275285
-28,7,James Van Der Beek,Actor/Actress,Eliminated Week 10,27.0,3,1.0,0.1336633663366336,10,False,,Rank_Save,1.0,0.15365557145042183
-28,7,Karamo Brown,TV Personality,Eliminated Week 7,24.5,3,6.0,0.1212871287128712,7,True,,Rank_Save,7.0,0.11254666377229458
-28,7,Kate Flannery,Actor/Actress,Eliminated Week 8,24.0,3,7.0,0.1188118811881188,8,False,,Rank_Save,6.0,0.1153570422036024
-28,7,Kel Mitchell,Actor/Actress,2nd Place,25.5,3,5.0,0.1262376237623762,12,False,2.0,Rank_Save,5.0,0.11877173795079556
-28,7,Lauren Alaina,Singer/Rapper,4th Place,27.0,3,1.0,0.1336633663366336,12,False,4.0,Rank_Save,3.0,0.12888693954013922
-28,7,Sean Spicer,Politician,Eliminated Week 9,21.0,3,8.0,0.1039603960396039,9,False,,Rank_Save,8.0,0.11016760653410167
-28,8,Ally Brooke,Singer/Rapper,3rd Place,30.0,3,3.0,0.1554410588230417,12,False,3.0,Rank_Save,3.0,0.14484406331637853
-28,8,Hannah Brown,TV Personality,1st Place,30.9998,3,2.0,0.160621391176751,12,False,1.0,Rank_Save,2.0,0.15455223898989515
-28,8,James Van Der Beek,Actor/Actress,Eliminated Week 10,31.9998,3,1.0,0.1658027598041857,10,False,,Rank_Save,1.0,0.17267922878367373
-28,8,Kate Flannery,Actor/Actress,Eliminated Week 8,25.9998,3,5.0,0.1347145480395773,8,True,,Rank_Save,6.0,0.1296390680432374
-28,8,Kel Mitchell,Actor/Actress,2nd Place,29.9998,3,4.0,0.1554400225493162,12,False,2.0,Rank_Save,4.0,0.13832812866400787
-28,8,Lauren Alaina,Singer/Rapper,4th Place,24.0,3,6.0,0.1243528470584334,12,False,4.0,Rank_Save,5.0,0.13347652751568131
-28,8,Sean Spicer,Politician,Eliminated Week 9,20.0,3,7.0,0.1036273725486945,9,False,,Rank_Save,7.0,0.12648074468712606
-28,9,Ally Brooke,Singer/Rapper,3rd Place,40.0,4,1.0,0.1918465227817745,12,False,3.0,Rank_Save,1.0,0.19768222364122254
-28,9,Hannah Brown,TV Personality,1st Place,35.5,4,4.0,0.1702637889688249,12,False,1.0,Rank_Save,4.0,0.15835727469391844
-28,9,James Van Der Beek,Actor/Actress,Eliminated Week 10,36.0,4,3.0,0.1726618705035971,10,False,,Rank_Save,3.0,0.16581668055445303
-28,9,Kel Mitchell,Actor/Actress,2nd Place,37.0,4,2.0,0.1774580335731415,12,False,2.0,Rank_Save,2.0,0.1769305462356845
-28,9,Lauren Alaina,Singer/Rapper,4th Place,35.0,4,5.0,0.1678657074340527,12,False,4.0,Rank_Save,5.0,0.15280318860043124
-28,9,Sean Spicer,Politician,Eliminated Week 9,25.0,4,6.0,0.1199040767386091,9,True,,Rank_Save,6.0,0.14841008627429028
-28,10,Ally Brooke,Singer/Rapper,3rd Place,29.5,3,1.0,0.2145454545454545,12,False,3.0,Rank_Save,1.0,0.23213312000885722
-28,10,Hannah Brown,TV Personality,1st Place,27.0,3,3.0,0.1963636363636363,12,False,1.0,Rank_Save,4.0,0.18595485002999232
-28,10,James Van Der Beek,Actor/Actress,Eliminated Week 10,25.5,3,5.0,0.1854545454545454,10,True,,Rank_Save,5.0,0.1794328304475996
-28,10,Kel Mitchell,Actor/Actress,2nd Place,28.5,3,2.0,0.2072727272727272,12,False,2.0,Rank_Save,2.0,0.20776496220065896
-28,10,Lauren Alaina,Singer/Rapper,4th Place,27.0,3,3.0,0.1963636363636363,12,False,4.0,Rank_Save,3.0,0.19471423731289197
-28,11,Ally Brooke,Singer/Rapper,3rd Place,30.0,3,1.0,0.2564102564102564,12,False,3,Rank_Save,3.0,0.23729225898606676
-28,11,Hannah Brown,TV Personality,1st Place,29.0,3,3.0,0.2478632478632478,12,False,1,Rank_Save,1.0,0.28289350174158223
-28,11,Kel Mitchell,Actor/Actress,2nd Place,29.5,3,2.0,0.2521367521367521,12,False,2,Rank_Save,2.0,0.2531967764613221
-28,11,Lauren Alaina,Singer/Rapper,4th Place,28.5,3,4.0,0.2435897435897435,12,False,4,Rank_Save,4.0,0.22661746281102885
-29,1,AJ McLean,Singer/Rapper,Eliminated Week 9,18.0,3,6.0,0.0692307692307692,9,False,,Rank_Save,6.0,0.07098796119156943
-29,1,Anne Heche,Actor/Actress,Eliminated Week 4,18.0,3,6.0,0.0692307692307692,4,False,,Rank_Save,7.0,0.06925852160813087
-29,1,Carole Baskin,TV Personality,Eliminated Week 3,11.0,3,15.0,0.0423076923076923,3,False,,Rank_Save,14.0,0.06198811321468384
-29,1,Charles Oakley,Athlete,Eliminated Week 2,12.0,3,14.0,0.0461538461538461,2,False,,Rank_Save,13.0,0.06272749823673147
-29,1,Chrishell Stause,Actor/Actress,Eliminated Week 8,13.0,3,13.0,0.05,8,False,,Rank_Save,12.0,0.06353600500051658
+28,2,Sailor Brinkley-Cook,Model,Eliminated Week 6,18.0,3,8.0,0.0821917808219178,6,False,,Rank_Save,8.0,0.08635353765689646
+28,2,Sean Spicer,Politician,Eliminated Week 9,16.0,3,9.0,0.0730593607305936,9,False,,Rank_Save,9.0,0.08534240587431392
+28,3,Ally Brooke,Singer/Rapper,3rd Place,24.0,3,1.0,0.1212121212121212,12,False,3.0,Rank_Save,2.0,0.10824884746211538
+28,3,Hannah Brown,TV Personality,1st Place,21.0,3,5.0,0.106060606060606,12,False,1.0,Rank_Save,5.0,0.09877096120638736
+28,3,James Van Der Beek,Actor/Actress,Eliminated Week 10,23.0,3,3.0,0.1161616161616161,10,False,,Rank_Save,3.0,0.10394752546954121
+28,3,Karamo Brown,TV Personality,Eliminated Week 7,16.0,3,8.0,0.0808080808080808,7,False,,Rank_Save,8.0,0.09423609513430077
+28,3,Kate Flannery,Actor/Actress,Eliminated Week 8,24.0,3,1.0,0.1212121212121212,8,False,,Rank_Save,1.0,0.11601824206003444
+28,3,Kel Mitchell,Actor/Actress,2nd Place,20.0,3,6.0,0.101010101010101,12,False,2.0,Rank_Save,7.0,0.0955028818026271
+28,3,Lamar Odom,Athlete,Eliminated Week 4,12.0,3,10.0,0.0606060606060606,4,False,,Rank_Save,10.0,0.09215656541136155
+28,3,Lauren Alaina,Singer/Rapper,4th Place,20.0,3,6.0,0.101010101010101,12,False,4.0,Rank_Save,6.0,0.09698647065169451
+28,3,Sailor Brinkley-Cook,Model,Eliminated Week 6,23.0,3,3.0,0.1161616161616161,6,False,,Rank_Save,4.0,0.10099974597798907
+28,3,Sean Spicer,Politician,Eliminated Week 9,15.0,3,9.0,0.0757575757575757,9,False,,Rank_Save,9.0,0.09313266482394852
+28,4,Ally Brooke,Singer/Rapper,3rd Place,32.0,4,1.0,0.1134751773049645,12,False,3.0,Rank_Save,3.0,0.10394752546954121
+28,4,Hannah Brown,TV Personality,1st Place,32.0,4,1.0,0.1134751773049645,12,False,1.0,Rank_Save,2.0,0.10824884746211538
+28,4,James Van Der Beek,Actor/Actress,Eliminated Week 10,28.0,4,6.0,0.0992907801418439,10,False,,Rank_Save,7.0,0.0955028818026271
+28,4,Karamo Brown,TV Personality,Eliminated Week 7,28.0,4,6.0,0.0992907801418439,7,False,,Rank_Save,6.0,0.09698647065169451
+28,4,Kate Flannery,Actor/Actress,Eliminated Week 8,26.0,4,8.0,0.0921985815602836,8,False,,Rank_Save,8.0,0.09423609513430077
+28,4,Kel Mitchell,Actor/Actress,2nd Place,32.0,4,1.0,0.1134751773049645,12,False,2.0,Rank_Save,4.0,0.10099974597798907
+28,4,Lamar Odom,Athlete,Eliminated Week 4,20.0,4,10.0,0.0709219858156028,4,True,,Rank_Save,10.0,0.09215656541136155
+28,4,Lauren Alaina,Singer/Rapper,4th Place,32.0,4,1.0,0.1134751773049645,12,False,4.0,Rank_Save,1.0,0.11601824206003444
+28,4,Sailor Brinkley-Cook,Model,Eliminated Week 6,31.0,4,5.0,0.1099290780141844,6,False,,Rank_Save,5.0,0.09877096120638736
+28,4,Sean Spicer,Politician,Eliminated Week 9,21.0,4,9.0,0.0744680851063829,9,False,,Rank_Save,9.0,0.09313266482394852
+28,5,Ally Brooke,Singer/Rapper,3rd Place,27.0,3,1.0,0.1255813953488372,12,False,3.0,Rank_Save,1.0,0.12779542996045853
+28,5,Hannah Brown,TV Personality,1st Place,25.0,3,4.0,0.1162790697674418,12,False,1.0,Rank_Save,4.0,0.11125238353874756
+28,5,James Van Der Beek,Actor/Actress,Eliminated Week 10,26.0,3,2.0,0.1209302325581395,10,False,,Rank_Save,2.0,0.11923735232073916
+28,5,Karamo Brown,TV Personality,Eliminated Week 7,21.0,3,8.0,0.0976744186046511,7,False,,Rank_Save,8.0,0.10380214422875789
+28,5,Kate Flannery,Actor/Actress,Eliminated Week 8,24.0,3,5.0,0.1116279069767441,8,False,,Rank_Save,5.0,0.10879735144104712
+28,5,Kel Mitchell,Actor/Actress,2nd Place,26.0,3,2.0,0.1209302325581395,12,False,2.0,Rank_Save,3.0,0.11449939660206043
+28,5,Lauren Alaina,Singer/Rapper,4th Place,23.0,3,7.0,0.1069767441860465,12,False,4.0,Rank_Save,7.0,0.10519752433513091
+28,5,Sailor Brinkley-Cook,Model,Eliminated Week 6,24.0,3,5.0,0.1116279069767441,6,False,,Rank_Save,6.0,0.1068317145407798
+28,5,Sean Spicer,Politician,Eliminated Week 9,19.0,3,9.0,0.0883720930232558,9,False,,Rank_Save,9.0,0.10258670303227864
+28,6,Ally Brooke,Singer/Rapper,3rd Place,25.0,3,6.0,0.1096491228070175,12,False,3.0,Rank_Save,4.0,0.11125238353874754
+28,6,Hannah Brown,TV Personality,1st Place,24.0,3,8.0,0.1052631578947368,12,False,1.0,Rank_Save,2.0,0.11923735232073916
+28,6,James Van Der Beek,Actor/Actress,Eliminated Week 10,27.0,3,1.0,0.1184210526315789,10,False,,Rank_Save,7.0,0.1051975243351309
+28,6,Karamo Brown,TV Personality,Eliminated Week 7,25.0,3,6.0,0.1096491228070175,7,False,,Rank_Save,3.0,0.11449939660206042
+28,6,Kate Flannery,Actor/Actress,Eliminated Week 8,27.0,3,1.0,0.1184210526315789,8,False,,Rank_Save,1.0,0.1277954299604585
+28,6,Kel Mitchell,Actor/Actress,2nd Place,26.0,3,4.0,0.1140350877192982,12,False,2.0,Rank_Save,6.0,0.10683171454077979
+28,6,Lauren Alaina,Singer/Rapper,4th Place,26.0,3,4.0,0.1140350877192982,12,False,4.0,Rank_Save,5.0,0.10879735144104712
+28,6,Sailor Brinkley-Cook,Model,Eliminated Week 6,27.0,3,1.0,0.1184210526315789,6,True,,Rank_Save,9.0,0.10258670303227864
+28,6,Sean Spicer,Politician,Eliminated Week 9,21.0,3,9.0,0.0921052631578947,9,False,,Rank_Save,8.0,0.10380214422875789
+28,7,Ally Brooke,Singer/Rapper,3rd Place,27.0,3,1.0,0.1336633663366336,12,False,3.0,Rank_Save,2.0,0.1328678243610067
+28,7,Hannah Brown,TV Personality,1st Place,26.0,3,4.0,0.1287128712871287,12,False,1.0,Rank_Save,4.0,0.12397006364253718
+28,7,James Van Der Beek,Actor/Actress,Eliminated Week 10,27.0,3,1.0,0.1336633663366336,10,False,,Rank_Save,1.0,0.1424042081750602
+28,7,Karamo Brown,TV Personality,Eliminated Week 7,24.5,3,6.0,0.1212871287128712,7,True,,Rank_Save,7.0,0.11722305061735083
+28,7,Kate Flannery,Actor/Actress,Eliminated Week 8,24.0,3,7.0,0.1188118811881188,8,False,,Rank_Save,6.0,0.11904405127688047
+28,7,Kel Mitchell,Actor/Actress,2nd Place,25.5,3,5.0,0.1262376237623762,12,False,2.0,Rank_Save,5.0,0.12123438755438944
+28,7,Lauren Alaina,Singer/Rapper,4th Place,27.0,3,1.0,0.1336633663366336,12,False,4.0,Rank_Save,3.0,0.12758825503137022
+28,7,Sean Spicer,Politician,Eliminated Week 9,21.0,3,8.0,0.1039603960396039,9,False,,Rank_Save,8.0,0.11566815934140487
+28,8,Ally Brooke,Singer/Rapper,3rd Place,30.0,3,3.0,0.1554410588230417,12,False,3.0,Rank_Save,3.0,0.1442764459734374
+28,8,Hannah Brown,TV Personality,1st Place,30.9998,3,2.0,0.160621391176751,12,False,1.0,Rank_Save,2.0,0.15024656837195308
+28,8,James Van Der Beek,Actor/Actress,Eliminated Week 10,31.9998,3,1.0,0.1658027598041857,10,False,,Rank_Save,1.0,0.16103028481820406
+28,8,Kate Flannery,Actor/Actress,Eliminated Week 8,25.9998,3,5.0,0.1347145480395773,8,True,,Rank_Save,6.0,0.13461468399489487
+28,8,Kel Mitchell,Actor/Actress,2nd Place,29.9998,3,4.0,0.1554400225493162,12,False,2.0,Rank_Save,4.0,0.14018500515622284
+28,8,Lauren Alaina,Singer/Rapper,4th Place,24.0,3,6.0,0.1243528470584334,12,False,4.0,Rank_Save,5.0,0.13709151020062973
+28,8,Sean Spicer,Politician,Eliminated Week 9,20.0,3,7.0,0.1036273725486945,9,False,,Rank_Save,7.0,0.1325555014846581
+28,9,Ally Brooke,Singer/Rapper,3rd Place,40.0,4,1.0,0.1918465227817745,12,False,3.0,Rank_Save,1.0,0.18563756539330456
+28,9,Hannah Brown,TV Personality,1st Place,35.5,4,4.0,0.1702637889688249,12,False,1.0,Rank_Save,4.0,0.16160688712206236
+28,9,James Van Der Beek,Actor/Actress,Eliminated Week 10,36.0,4,3.0,0.1726618705035971,10,False,,Rank_Save,3.0,0.16632354717837394
+28,9,Kel Mitchell,Actor/Actress,2nd Place,37.0,4,2.0,0.1774580335731415,12,False,2.0,Rank_Save,2.0,0.17320597298052465
+28,9,Lauren Alaina,Singer/Rapper,4th Place,35.0,4,5.0,0.1678657074340527,12,False,4.0,Rank_Save,5.0,0.158040670538883
+28,9,Sean Spicer,Politician,Eliminated Week 9,25.0,4,6.0,0.1199040767386091,9,True,,Rank_Save,6.0,0.15518535678685155
+28,10,Ally Brooke,Singer/Rapper,3rd Place,29.5,3,1.0,0.2145454545454545,12,False,3.0,Rank_Save,1.0,0.21973762751939874
+28,10,Hannah Brown,TV Personality,1st Place,27.0,3,3.0,0.1963636363636363,12,False,1.0,Rank_Save,4.0,0.1912927154143665
+28,10,James Van Der Beek,Actor/Actress,Eliminated Week 10,25.5,3,5.0,0.1854545454545454,10,True,,Rank_Save,5.0,0.18707141478726597
+28,10,Kel Mitchell,Actor/Actress,2nd Place,28.5,3,2.0,0.2072727272727272,12,False,2.0,Rank_Save,2.0,0.2050224559576253
+28,10,Lauren Alaina,Singer/Rapper,4th Place,27.0,3,3.0,0.1963636363636363,12,False,4.0,Rank_Save,3.0,0.1968757863213436
+28,11,Ally Brooke,Singer/Rapper,3rd Place,30.0,3,1.0,0.2564102564102564,12,False,3,Rank_Save,3.0,0.24218091220131405
+28,11,Hannah Brown,TV Personality,1st Place,29.0,3,3.0,0.2478632478632478,12,False,1,Rank_Save,1.0,0.270303728416557
+28,11,Kel Mitchell,Actor/Actress,2nd Place,29.5,3,2.0,0.2521367521367521,12,False,2,Rank_Save,2.0,0.25220229634805286
+28,11,Lauren Alaina,Singer/Rapper,4th Place,28.5,3,4.0,0.2435897435897435,12,False,4,Rank_Save,4.0,0.2353130630340762
+29,1,AJ McLean,Singer/Rapper,Eliminated Week 9,18.0,3,6.0,0.0692307692307692,9,False,,Rank_Save,6.0,0.0712794376063537
+29,1,Anne Heche,Actor/Actress,Eliminated Week 4,18.0,3,6.0,0.0692307692307692,4,False,,Rank_Save,7.0,0.07018908574500637
+29,1,Carole Baskin,TV Personality,Eliminated Week 3,11.0,3,15.0,0.0423076923076923,3,False,,Rank_Save,14.0,0.06548873264589679
+29,1,Charles Oakley,Athlete,Eliminated Week 2,12.0,3,14.0,0.0461538461538461,2,False,,Rank_Save,13.0,0.06597585913181989
+29,1,Chrishell Stause,Actor/Actress,Eliminated Week 8,13.0,3,13.0,0.05,8,False,,Rank_Save,12.0,0.06650606690491741
 29,1,Jeannie Mai,TV Personality,Withdrew,18.0,3,6.0,0.0692307692307692,11,False,Withdrew,Rank_Save,,
-29,1,Jesse Metcalfe,Actor/Actress,Eliminated Week 5,18.0,3,6.0,0.0692307692307692,5,False,,Rank_Save,9.0,0.0665288630739576
-29,1,Johnny Weir,Athlete,Eliminated Week 10,18.0,3,6.0,0.0692307692307692,10,False,,Rank_Save,8.0,0.06779450675761758
-29,1,Justina Machado,Actor/Actress,4th Place,21.0,3,1.0,0.0807692307692307,12,False,4,Rank_Save,1.0,0.09455595891353688
-29,1,Kaitlyn Bristowe,TV Personality,1st Place,20.0,3,3.0,0.0769230769230769,12,False,1,Rank_Save,4.0,0.07574593043223633
-29,1,Monica Aldama,TV Personality,Eliminated Week 7,19.0,3,5.0,0.073076923076923,7,False,,Rank_Save,5.0,0.07308928317895994
-29,1,Nelly,Singer/Rapper,3rd Place,16.0,3,12.0,0.0615384615384615,12,False,3,Rank_Save,11.0,0.06442672770017503
-29,1,Nev Schulman,Producer,2nd Place,20.0,3,3.0,0.0769230769230769,12,False,2,Rank_Save,3.0,0.07931393599731043
-29,1,Skai Jackson,Actor/Actress,Eliminated Week 10,21.0,3,1.0,0.0807692307692307,10,False,,Rank_Save,2.0,0.08462995383325078
-29,1,Veron Davis,Athlete,Eliminated Week 6,17.0,3,11.0,0.0653846153846153,6,False,,Rank_Save,10.0,0.06541674086132329
-29,2,AJ McLean,Singer/Rapper,Eliminated Week 9,19.0,3,5.0,0.0695970695970696,9,False,,Rank_Save,5.0,0.07308928317895992
-29,2,Anne Heche,Actor/Actress,Eliminated Week 4,18.0,3,6.0,0.0659340659340659,4,False,,Rank_Save,7.0,0.06925852160813085
-29,2,Carole Baskin,TV Personality,Eliminated Week 3,16.0,3,12.0,0.0586080586080586,3,False,,Rank_Save,12.0,0.06353600500051657
-29,2,Charles Oakley,Athlete,Eliminated Week 2,15.0,3,14.0,0.0549450549450549,2,True,,Rank_Save,14.0,0.061988113214683824
-29,2,Chrishell Stause,Actor/Actress,Eliminated Week 8,18.0,3,6.0,0.0659340659340659,8,False,,Rank_Save,10.0,0.06541674086132328
+29,1,Jesse Metcalfe,Actor/Actress,Eliminated Week 5,18.0,3,6.0,0.0692307692307692,5,False,,Rank_Save,9.0,0.06844711356981528
+29,1,Johnny Weir,Athlete,Eliminated Week 10,18.0,3,6.0,0.0692307692307692,10,False,,Rank_Save,8.0,0.06925807092738501
+29,1,Justina Machado,Actor/Actress,4th Place,21.0,3,1.0,0.0807692307692307,12,False,4,Rank_Save,1.0,0.08526668710129602
+29,1,Kaitlyn Bristowe,TV Personality,1st Place,20.0,3,3.0,0.0769230769230769,12,False,1,Rank_Save,4.0,0.07422896248642762
+29,1,Monica Aldama,TV Personality,Eliminated Week 7,19.0,3,5.0,0.073076923076923,7,False,,Rank_Save,5.0,0.07259093479042135
+29,1,Nelly,Singer/Rapper,3rd Place,16.0,3,12.0,0.0615384615384615,12,False,3,Rank_Save,11.0,0.06708727024914381
+29,1,Nev Schulman,Producer,2nd Place,20.0,3,3.0,0.0769230769230769,12,False,2,Rank_Save,3.0,0.07639540965100138
+29,1,Skai Jackson,Actor/Actress,Eliminated Week 10,21.0,3,1.0,0.0807692307692307,10,False,,Rank_Save,2.0,0.07955663214455513
+29,1,Veron Davis,Athlete,Eliminated Week 6,17.0,3,11.0,0.0653846153846153,6,False,,Rank_Save,10.0,0.06772973704596014
+29,2,AJ McLean,Singer/Rapper,Eliminated Week 9,19.0,3,5.0,0.0695970695970696,9,False,,Rank_Save,5.0,0.07259093479042135
+29,2,Anne Heche,Actor/Actress,Eliminated Week 4,18.0,3,6.0,0.0659340659340659,4,False,,Rank_Save,7.0,0.07018908574500639
+29,2,Carole Baskin,TV Personality,Eliminated Week 3,16.0,3,12.0,0.0586080586080586,3,False,,Rank_Save,12.0,0.06650606690491741
+29,2,Charles Oakley,Athlete,Eliminated Week 2,15.0,3,14.0,0.0549450549450549,2,True,,Rank_Save,14.0,0.0654887326458968
+29,2,Chrishell Stause,Actor/Actress,Eliminated Week 8,18.0,3,6.0,0.0659340659340659,8,False,,Rank_Save,10.0,0.06772973704596015
 29,2,Jeannie Mai,TV Personality,Withdrew,18.0,3,6.0,0.0659340659340659,11,False,Withdrew,Rank_Save,,
-29,2,Jesse Metcalfe,Actor/Actress,Eliminated Week 5,20.0,3,4.0,0.0732600732600732,5,False,,Rank_Save,4.0,0.07574593043223632
-29,2,Johnny Weir,Athlete,Eliminated Week 10,18.0,3,6.0,0.0659340659340659,10,False,,Rank_Save,9.0,0.06652886307395758
-29,2,Justina Machado,Actor/Actress,4th Place,21.0,3,2.0,0.0769230769230769,12,False,4,Rank_Save,3.0,0.07931393599731042
-29,2,Kaitlyn Bristowe,TV Personality,1st Place,22.0,3,1.0,0.0805860805860805,12,False,1,Rank_Save,1.0,0.09455595891353687
-29,2,Monica Aldama,TV Personality,Eliminated Week 7,16.0,3,12.0,0.0586080586080586,7,False,,Rank_Save,11.0,0.06442672770017502
-29,2,Nelly,Singer/Rapper,3rd Place,18.0,3,6.0,0.0659340659340659,12,False,3,Rank_Save,6.0,0.07098796119156943
-29,2,Nev Schulman,Producer,2nd Place,21.0,3,2.0,0.0769230769230769,12,False,2,Rank_Save,2.0,0.08462995383325077
-29,2,Skai Jackson,Actor/Actress,Eliminated Week 10,15.0,3,14.0,0.0549450549450549,10,False,,Rank_Save,13.0,0.06272749823673146
-29,2,Veron Davis,Athlete,Eliminated Week 6,18.0,3,6.0,0.0659340659340659,6,False,,Rank_Save,8.0,0.06779450675761757
-29,3,AJ McLean,Singer/Rapper,Eliminated Week 9,21.0,3,7.0,0.0747330960854092,9,False,,Rank_Save,7.0,0.07383544130286926
-29,3,Anne Heche,Actor/Actress,Eliminated Week 4,15.0,3,13.0,0.0533807829181494,4,False,,Rank_Save,12.0,0.06773475463969054
-29,3,Carole Baskin,TV Personality,Eliminated Week 3,12.0,3,14.0,0.0427046263345195,3,True,,Rank_Save,13.0,0.06687281805319806
-29,3,Chrishell Stause,Actor/Actress,Eliminated Week 8,22.0,3,4.0,0.0782918149466192,8,False,,Rank_Save,4.0,0.08075156775659537
+29,2,Jesse Metcalfe,Actor/Actress,Eliminated Week 5,20.0,3,4.0,0.0732600732600732,5,False,,Rank_Save,4.0,0.07422896248642763
+29,2,Johnny Weir,Athlete,Eliminated Week 10,18.0,3,6.0,0.0659340659340659,10,False,,Rank_Save,9.0,0.0684471135698153
+29,2,Justina Machado,Actor/Actress,4th Place,21.0,3,2.0,0.0769230769230769,12,False,4,Rank_Save,3.0,0.07639540965100139
+29,2,Kaitlyn Bristowe,TV Personality,1st Place,22.0,3,1.0,0.0805860805860805,12,False,1,Rank_Save,1.0,0.08526668710129603
+29,2,Monica Aldama,TV Personality,Eliminated Week 7,16.0,3,12.0,0.0586080586080586,7,False,,Rank_Save,11.0,0.06708727024914382
+29,2,Nelly,Singer/Rapper,3rd Place,18.0,3,6.0,0.0659340659340659,12,False,3,Rank_Save,6.0,0.07127943760635372
+29,2,Nev Schulman,Producer,2nd Place,21.0,3,2.0,0.0769230769230769,12,False,2,Rank_Save,2.0,0.07955663214455515
+29,2,Skai Jackson,Actor/Actress,Eliminated Week 10,15.0,3,14.0,0.0549450549450549,10,False,,Rank_Save,13.0,0.0659758591318199
+29,2,Veron Davis,Athlete,Eliminated Week 6,18.0,3,6.0,0.0659340659340659,6,False,,Rank_Save,8.0,0.06925807092738502
+29,3,AJ McLean,Singer/Rapper,Eliminated Week 9,21.0,3,7.0,0.0747330960854092,9,False,,Rank_Save,7.0,0.0751078004053754
+29,3,Anne Heche,Actor/Actress,Eliminated Week 4,15.0,3,13.0,0.0533807829181494,4,False,,Rank_Save,12.0,0.0711666827658666
+29,3,Carole Baskin,TV Personality,Eliminated Week 3,12.0,3,14.0,0.0427046263345195,3,True,,Rank_Save,13.0,0.07059931906291339
+29,3,Chrishell Stause,Actor/Actress,Eliminated Week 8,22.0,3,4.0,0.0782918149466192,8,False,,Rank_Save,4.0,0.07943078385410299
 29,3,Jeannie Mai,TV Personality,Withdrew,22.0,3,4.0,0.0782918149466192,11,False,Withdrew,Rank_Save,,
-29,3,Jesse Metcalfe,Actor/Actress,Eliminated Week 5,20.0,3,9.0,0.0711743772241993,5,False,,Rank_Save,8.0,0.07227467765889174
-29,3,Johnny Weir,Athlete,Eliminated Week 10,24.0,3,1.0,0.0854092526690391,10,False,,Rank_Save,2.0,0.09022268803361139
-29,3,Justina Machado,Actor/Actress,4th Place,19.0,3,10.0,0.0676156583629893,12,False,4,Rank_Save,9.0,0.07092539445524546
-29,3,Kaitlyn Bristowe,TV Personality,1st Place,23.0,3,3.0,0.0818505338078291,12,False,1,Rank_Save,3.0,0.08455536343908092
-29,3,Monica Aldama,TV Personality,Eliminated Week 7,21.0,3,7.0,0.0747330960854092,7,False,,Rank_Save,6.0,0.07567917015940388
-29,3,Nelly,Singer/Rapper,3rd Place,18.0,3,11.0,0.0640569395017793,12,False,3,Rank_Save,11.0,0.06868434036691526
-29,3,Nev Schulman,Producer,2nd Place,24.0,3,1.0,0.0854092526690391,12,False,2,Rank_Save,1.0,0.1008046489022564
-29,3,Skai Jackson,Actor/Actress,Eliminated Week 10,18.0,3,11.0,0.0640569395017793,10,False,,Rank_Save,10.0,0.06973977812319056
-29,3,Veron Davis,Athlete,Eliminated Week 6,22.0,3,4.0,0.0782918149466192,6,False,,Rank_Save,5.0,0.07791935710905118
-29,4,AJ McLean,Singer/Rapper,Eliminated Week 9,24.0,3,3.0,0.0797342192691029,9,False,,Rank_Save,5.0,0.08350346942684324
-29,4,Anne Heche,Actor/Actress,Eliminated Week 4,21.0,3,10.0,0.0697674418604651,4,True,,Rank_Save,12.0,0.07258898459947781
-29,4,Chrishell Stause,Actor/Actress,Eliminated Week 8,22.0,3,8.0,0.0730897009966777,8,False,,Rank_Save,8.0,0.07745426245981134
+29,3,Jesse Metcalfe,Actor/Actress,Eliminated Week 5,20.0,3,9.0,0.0711743772241993,5,False,,Rank_Save,8.0,0.07411154187950725
+29,3,Johnny Weir,Athlete,Eliminated Week 10,24.0,3,1.0,0.0854092526690391,10,False,,Rank_Save,2.0,0.08513180624328386
+29,3,Justina Machado,Actor/Actress,4th Place,19.0,3,10.0,0.0676156583629893,12,False,4,Rank_Save,9.0,0.07324375420706344
+29,3,Kaitlyn Bristowe,TV Personality,1st Place,23.0,3,3.0,0.0818505338078291,12,False,1,Rank_Save,3.0,0.0817490514237468
+29,3,Monica Aldama,TV Personality,Eliminated Week 7,21.0,3,7.0,0.0747330960854092,7,False,,Rank_Save,6.0,0.0762745620051948
+29,3,Nelly,Singer/Rapper,3rd Place,18.0,3,11.0,0.0640569395017793,12,False,3,Rank_Save,11.0,0.07178861571042272
+29,3,Nev Schulman,Producer,2nd Place,24.0,3,1.0,0.0854092526690391,12,False,2,Rank_Save,1.0,0.09124201074933315
+29,3,Skai Jackson,Actor/Actress,Eliminated Week 10,18.0,3,11.0,0.0640569395017793,10,False,,Rank_Save,10.0,0.07247610533121172
+29,3,Veron Davis,Athlete,Eliminated Week 6,22.0,3,4.0,0.0782918149466192,6,False,,Rank_Save,5.0,0.07767796636197788
+29,4,AJ McLean,Singer/Rapper,Eliminated Week 9,24.0,3,3.0,0.0797342192691029,9,False,,Rank_Save,5.0,0.08357855546615
+29,4,Anne Heche,Actor/Actress,Eliminated Week 4,21.0,3,10.0,0.0697674418604651,4,True,,Rank_Save,12.0,0.07657266045266008
+29,4,Chrishell Stause,Actor/Actress,Eliminated Week 8,22.0,3,8.0,0.0730897009966777,8,False,,Rank_Save,8.0,0.07974121753900892
 29,4,Jeannie Mai,TV Personality,Withdrew,21.0,3,10.0,0.0697674418604651,11,False,Withdrew,Rank_Save,,
-29,4,Jesse Metcalfe,Actor/Actress,Eliminated Week 5,21.0,3,10.0,0.0697674418604651,5,False,,Rank_Save,10.0,0.07473769864649216
-29,4,Johnny Weir,Athlete,Eliminated Week 10,24.0,3,3.0,0.0797342192691029,10,False,,Rank_Save,3.0,0.09061504698927679
-29,4,Justina Machado,Actor/Actress,4th Place,24.0,3,3.0,0.0797342192691029,12,False,4,Rank_Save,4.0,0.0865386512352172
-29,4,Kaitlyn Bristowe,TV Personality,1st Place,25.0,3,2.0,0.0830564784053156,12,False,1,Rank_Save,2.0,0.0966885219712258
-29,4,Monica Aldama,TV Personality,Eliminated Week 7,24.0,3,3.0,0.0797342192691029,7,False,,Rank_Save,7.0,0.07912687866280445
-29,4,Nelly,Singer/Rapper,3rd Place,21.0,3,10.0,0.0697674418604651,12,False,3,Rank_Save,11.0,0.07360662265096353
-29,4,Nev Schulman,Producer,2nd Place,24.0,3,3.0,0.0797342192691029,12,False,2,Rank_Save,6.0,0.08110273885871902
-29,4,Skai Jackson,Actor/Actress,Eliminated Week 10,28.0,3,1.0,0.0930232558139534,10,False,,Rank_Save,1.0,0.10802884199766383
-29,4,Veron Davis,Athlete,Eliminated Week 6,22.0,3,8.0,0.0730897009966777,6,False,,Rank_Save,9.0,0.07600828250150464
-29,5,AJ McLean,Singer/Rapper,Eliminated Week 9,24.0,3,5.0,0.0836236933797909,9,False,,Rank_Save,5.0,0.09003933319767665
-29,5,Chrishell Stause,Actor/Actress,Eliminated Week 8,19.0,3,11.0,0.0662020905923344,8,False,,Rank_Save,11.0,0.07936785462826851
+29,4,Jesse Metcalfe,Actor/Actress,Eliminated Week 5,21.0,3,10.0,0.0697674418604651,5,False,,Rank_Save,10.0,0.07798154963490693
+29,4,Johnny Weir,Athlete,Eliminated Week 10,24.0,3,3.0,0.0797342192691029,10,False,,Rank_Save,3.0,0.08795888909971715
+29,4,Justina Machado,Actor/Actress,4th Place,24.0,3,3.0,0.0797342192691029,12,False,4,Rank_Save,4.0,0.08546452082864339
+29,4,Kaitlyn Bristowe,TV Personality,1st Place,25.0,3,2.0,0.0830564784053156,12,False,1,Rank_Save,2.0,0.09159860541252027
+29,4,Monica Aldama,TV Personality,Eliminated Week 7,24.0,3,3.0,0.0797342192691029,7,False,,Rank_Save,7.0,0.08081315405283163
+29,4,Nelly,Singer/Rapper,3rd Place,21.0,3,10.0,0.0697674418604651,12,False,3,Rank_Save,11.0,0.07724183679103874
+29,4,Nev Schulman,Producer,2nd Place,24.0,3,3.0,0.0797342192691029,12,False,2,Rank_Save,6.0,0.08206854542896337
+29,4,Skai Jackson,Actor/Actress,Eliminated Week 10,28.0,3,1.0,0.0930232558139534,10,False,,Rank_Save,1.0,0.0981729544864725
+29,4,Veron Davis,Athlete,Eliminated Week 6,22.0,3,8.0,0.0730897009966777,6,False,,Rank_Save,9.0,0.07880751080708696
+29,5,AJ McLean,Singer/Rapper,Eliminated Week 9,24.0,3,5.0,0.0836236933797909,9,False,,Rank_Save,5.0,0.09050907622804395
+29,5,Chrishell Stause,Actor/Actress,Eliminated Week 8,19.0,3,11.0,0.0662020905923344,8,False,,Rank_Save,11.0,0.08364690266686534
 29,5,Jeannie Mai,TV Personality,Withdrew,24.0,3,5.0,0.0836236933797909,11,False,Withdrew,Rank_Save,,
-29,5,Jesse Metcalfe,Actor/Actress,Eliminated Week 5,19.0,3,11.0,0.0662020905923344,5,True,,Rank_Save,10.0,0.0805874605815579
-29,5,Johnny Weir,Athlete,Eliminated Week 10,29.0,3,1.0,0.1010452961672473,10,False,,Rank_Save,1.0,0.1164843205480035
-29,5,Justina Machado,Actor/Actress,4th Place,24.0,3,5.0,0.0836236933797909,12,False,4,Rank_Save,6.0,0.08745069609044172
-29,5,Kaitlyn Bristowe,TV Personality,1st Place,27.0,3,2.0,0.0940766550522648,12,False,1,Rank_Save,2.0,0.10425638726047351
-29,5,Monica Aldama,TV Personality,Eliminated Week 7,26.0,3,3.0,0.0905923344947735,7,False,,Rank_Save,3.0,0.09770753795731309
-29,5,Nelly,Singer/Rapper,3rd Place,24.0,3,5.0,0.0836236933797909,12,False,3,Rank_Save,8.0,0.08351665138068376
-29,5,Nev Schulman,Producer,2nd Place,26.0,3,3.0,0.0905923344947735,12,False,2,Rank_Save,4.0,0.09331208040249947
-29,5,Skai Jackson,Actor/Actress,Eliminated Week 10,24.0,3,5.0,0.0836236933797909,10,False,,Rank_Save,7.0,0.08532018419970118
-29,5,Veron Davis,Athlete,Eliminated Week 6,21.0,3,10.0,0.073170731707317,6,False,,Rank_Save,9.0,0.08195749375338059
-29,6,AJ McLean,Singer/Rapper,Eliminated Week 9,27.0,3,1.0,0.1007462686567164,9,False,,Rank_Save,2.0,0.11324434822811562
-29,6,Chrishell Stause,Actor/Actress,Eliminated Week 8,24.0,3,7.0,0.0895522388059701,8,False,,Rank_Save,7.0,0.09267565186445964
+29,5,Jesse Metcalfe,Actor/Actress,Eliminated Week 5,19.0,3,11.0,0.0662020905923344,5,True,,Rank_Save,10.0,0.08444795415428479
+29,5,Johnny Weir,Athlete,Eliminated Week 10,29.0,3,1.0,0.1010452961672473,10,False,,Rank_Save,1.0,0.10631367545885793
+29,5,Justina Machado,Actor/Actress,4th Place,24.0,3,5.0,0.0836236933797909,12,False,4,Rank_Save,6.0,0.08887385278108945
+29,5,Kaitlyn Bristowe,TV Personality,1st Place,27.0,3,2.0,0.0940766550522648,12,False,1,Rank_Save,2.0,0.09919416665465149
+29,5,Monica Aldama,TV Personality,Eliminated Week 7,26.0,3,3.0,0.0905923344947735,7,False,,Rank_Save,3.0,0.095252636924129
+29,5,Nelly,Singer/Rapper,3rd Place,24.0,3,5.0,0.0836236933797909,12,False,3,Rank_Save,8.0,0.08635353765689646
+29,5,Nev Schulman,Producer,2nd Place,26.0,3,3.0,0.0905923344947735,12,False,2,Rank_Save,4.0,0.0925514300567901
+29,5,Skai Jackson,Actor/Actress,Eliminated Week 10,24.0,3,5.0,0.0836236933797909,10,False,,Rank_Save,7.0,0.08751436154407762
+29,5,Veron Davis,Athlete,Eliminated Week 6,21.0,3,10.0,0.073170731707317,6,False,,Rank_Save,9.0,0.08534240587431392
+29,6,AJ McLean,Singer/Rapper,Eliminated Week 9,27.0,3,1.0,0.1007462686567164,9,False,,Rank_Save,2.0,0.10824884746211541
+29,6,Chrishell Stause,Actor/Actress,Eliminated Week 8,24.0,3,7.0,0.0895522388059701,8,False,,Rank_Save,7.0,0.09550288180262712
 29,6,Jeannie Mai,TV Personality,Withdrew,25.0,3,6.0,0.0932835820895522,11,False,Withdrew,Rank_Save,,
-29,6,Johnny Weir,Athlete,Eliminated Week 10,22.0,3,9.0,0.0820895522388059,10,False,,Rank_Save,8.0,0.09071663617281313
-29,6,Justina Machado,Actor/Actress,4th Place,27.0,3,1.0,0.1007462686567164,12,False,4,Rank_Save,1.0,0.1265264537346452
-29,6,Kaitlyn Bristowe,TV Personality,1st Place,27.0,3,1.0,0.1007462686567164,12,False,1,Rank_Save,3.0,0.10613092150704873
-29,6,Monica Aldama,TV Personality,Eliminated Week 7,27.0,3,1.0,0.1007462686567164,7,False,,Rank_Save,4.0,0.1013565308050612
-29,6,Nelly,Singer/Rapper,3rd Place,24.0,3,7.0,0.0895522388059701,12,False,3,Rank_Save,6.0,0.09498983554949737
-29,6,Nev Schulman,Producer,2nd Place,26.0,3,5.0,0.0970149253731343,12,False,2,Rank_Save,5.0,0.09780163950425684
-29,6,Skai Jackson,Actor/Actress,Eliminated Week 10,18.0,3,11.0,0.0671641791044776,10,False,,Rank_Save,10.0,0.08753491933416949
-29,6,Veron Davis,Athlete,Eliminated Week 6,21.0,3,10.0,0.0783582089552238,6,True,,Rank_Save,9.0,0.08902306329993281
-29,7,AJ McLean,Singer/Rapper,Eliminated Week 9,26.0,3,5.0,0.1,9,False,,Rank_Save,7.0,0.1015662449206645
-29,7,Chrishell Stause,Actor/Actress,Eliminated Week 8,26.0,3,5.0,0.1,8,False,,Rank_Save,6.0,0.10410243368456662
+29,6,Johnny Weir,Athlete,Eliminated Week 10,22.0,3,9.0,0.0820895522388059,10,False,,Rank_Save,8.0,0.09423609513430078
+29,6,Justina Machado,Actor/Actress,4th Place,27.0,3,1.0,0.1007462686567164,12,False,4,Rank_Save,1.0,0.11601824206003447
+29,6,Kaitlyn Bristowe,TV Personality,1st Place,27.0,3,1.0,0.1007462686567164,12,False,1,Rank_Save,3.0,0.10394752546954122
+29,6,Monica Aldama,TV Personality,Eliminated Week 7,27.0,3,1.0,0.1007462686567164,7,False,,Rank_Save,4.0,0.10099974597798908
+29,6,Nelly,Singer/Rapper,3rd Place,24.0,3,7.0,0.0895522388059701,12,False,3,Rank_Save,6.0,0.09698647065169454
+29,6,Nev Schulman,Producer,2nd Place,26.0,3,5.0,0.0970149253731343,12,False,2,Rank_Save,5.0,0.09877096120638737
+29,6,Skai Jackson,Actor/Actress,Eliminated Week 10,18.0,3,11.0,0.0671641791044776,10,False,,Rank_Save,10.0,0.09215656541136157
+29,6,Veron Davis,Athlete,Eliminated Week 6,21.0,3,10.0,0.0783582089552238,6,True,,Rank_Save,9.0,0.09313266482394854
+29,7,AJ McLean,Singer/Rapper,Eliminated Week 9,26.0,3,5.0,0.1,9,False,,Rank_Save,7.0,0.1051975243351309
+29,7,Chrishell Stause,Actor/Actress,Eliminated Week 8,26.0,3,5.0,0.1,8,False,,Rank_Save,6.0,0.10683171454077979
 29,7,Jeannie Mai,TV Personality,Withdrew,25.0,3,8.0,0.0961538461538461,11,False,Withdrew,Rank_Save,,
-29,7,Johnny Weir,Athlete,Eliminated Week 10,27.0,3,2.0,0.1038461538461538,10,False,,Rank_Save,2.0,0.12410814465960782
-29,7,Justina Machado,Actor/Actress,4th Place,26.0,3,5.0,0.1,12,False,4,Rank_Save,5.0,0.10718398059999235
-29,7,Kaitlyn Bristowe,TV Personality,1st Place,24.0,3,9.0,0.0923076923076923,12,False,1,Rank_Save,8.0,0.09941929625034716
-29,7,Monica Aldama,TV Personality,Eliminated Week 7,22.0,3,10.0,0.0846153846153846,7,True,,Rank_Save,9.0,0.0975632549521481
-29,7,Nelly,Singer/Rapper,3rd Place,27.0,3,2.0,0.1038461538461538,12,False,3,Rank_Save,4.0,0.11107990097670456
-29,7,Nev Schulman,Producer,2nd Place,30.0,3,1.0,0.1153846153846153,12,False,2,Rank_Save,1.0,0.1386644337581863
-29,7,Skai Jackson,Actor/Actress,Eliminated Week 10,27.0,3,2.0,0.1038461538461538,10,False,,Rank_Save,3.0,0.11631231019778251
-29,8,AJ McLean,Singer/Rapper,Eliminated Week 9,27.0,3,5.0,0.1216218407600734,9,False,,Rank_Save,6.0,0.1153570422036024
-29,8,Chrishell Stause,Actor/Actress,Eliminated Week 8,27.0,3,5.0,0.1216218407600734,8,True,,Rank_Save,7.0,0.11254666377229458
-29,8,Johnny Weir,Athlete,Eliminated Week 10,30.0,3,1.0,0.1351353786223038,10,False,,Rank_Save,2.0,0.1375255887358919
-29,8,Justina Machado,Actor/Actress,4th Place,28.9998,3,3.0,0.1306299650990362,12,False,4.0,Rank_Save,3.0,0.12888693954013922
-29,8,Kaitlyn Bristowe,TV Personality,1st Place,28.0,3,4.0,0.1261263533808169,12,False,1.0,Rank_Save,4.0,0.12308884981275285
-29,8,Nelly,Singer/Rapper,3rd Place,24.0,3,8.0,0.108108302897843,12,False,3.0,Rank_Save,8.0,0.11016760653410167
-29,8,Nev Schulman,Producer,2nd Place,30.0,3,1.0,0.1351353786223038,12,False,2.0,Rank_Save,1.0,0.15365557145042183
-29,8,Skai Jackson,Actor/Actress,Eliminated Week 10,26.9998,3,7.0,0.1216209398575493,10,False,,Rank_Save,5.0,0.11877173795079556
-29,9,AJ McLean,Singer/Rapper,Eliminated Week 9,24.9998,3,6.0,0.1295331794121426,9,True,,Rank_Save,6.0,0.1296390680432374
-29,9,Johnny Weir,Athlete,Eliminated Week 10,30.0,3,1.0,0.1554410588230417,10,False,,Rank_Save,1.0,0.17267922878367373
-29,9,Justina Machado,Actor/Actress,4th Place,25.9998,3,5.0,0.1347145480395773,12,False,4.0,Rank_Save,5.0,0.13347652751568131
-29,9,Kaitlyn Bristowe,TV Personality,1st Place,30.0,3,1.0,0.1554410588230417,12,False,1.0,Rank_Save,2.0,0.15455223898989515
-29,9,Nelly,Singer/Rapper,3rd Place,24.0,3,7.0,0.1243528470584334,12,False,3.0,Rank_Save,7.0,0.12648074468712606
-29,9,Nev Schulman,Producer,2nd Place,28.9998,3,3.0,0.1502586539218815,12,False,2.0,Rank_Save,4.0,0.13832812866400787
-29,9,Skai Jackson,Actor/Actress,Eliminated Week 10,28.9998,3,3.0,0.1502586539218815,10,False,,Rank_Save,3.0,0.14484406331637853
-29,10,Johnny Weir,Athlete,Eliminated Week 10,28.5,3,4.0,0.1637931034482758,10,True,,Rank_Save,5.0,0.15280318860043124
-29,10,Justina Machado,Actor/Actress,4th Place,29.0,3,3.0,0.1666666666666666,12,False,4.0,Rank_Save,4.0,0.15835727469391844
-29,10,Kaitlyn Bristowe,TV Personality,1st Place,30.0,3,1.0,0.1724137931034483,12,False,1.0,Rank_Save,1.0,0.19768222364122254
-29,10,Nelly,Singer/Rapper,3rd Place,28.0,3,6.0,0.160919540229885,12,False,3.0,Rank_Save,3.0,0.16581668055445303
-29,10,Nev Schulman,Producer,2nd Place,30.0,3,1.0,0.1724137931034483,12,False,2.0,Rank_Save,2.0,0.1769305462356845
-29,10,Skai Jackson,Actor/Actress,Eliminated Week 10,28.5,3,4.0,0.1637931034482758,10,True,,Rank_Save,6.0,0.14841008627429028
-29,11,Justina Machado,Actor/Actress,4th Place,30.0,3,1.0,0.2531645569620253,12,False,4,Rank_Save,4.0,0.22661746281102885
-29,11,Kaitlyn Bristowe,TV Personality,1st Place,30.0,3,1.0,0.2531645569620253,12,False,1,Rank_Save,2.0,0.2531967764613221
-29,11,Nelly,Singer/Rapper,3rd Place,28.5,3,4.0,0.240506329113924,12,False,3,Rank_Save,1.0,0.28289350174158223
-29,11,Nev Schulman,Producer,2nd Place,30.0,3,1.0,0.2531645569620253,12,False,2,Rank_Save,3.0,0.23729225898606676
-30,1,Amanda Kloots,TV Personality,4th Place,28.0,4,2.0,0.0765027322404371,11,False,4.0,Rank_Save,3.0,0.07473227944322762
-30,1,Brian Austin Green,Actor/Actress,Eliminated Week 4,24.0,4,9.0,0.0655737704918032,4,False,,Rank_Save,9.0,0.06268575028796736
-30,1,Christine Chiu,TV Personality,Eliminated Week 3,25.0,4,7.0,0.0683060109289617,3,False,,Rank_Save,8.0,0.06387828267529008
-30,1,Cody Rigsby,Fitness Instructor,3rd Place,24.0,4,9.0,0.0655737704918032,11,False,3.0,Rank_Save,12.0,0.059865777945579776
-30,1,Iman Shumpert,Athlete,1st Place,21.0,4,14.0,0.0573770491803278,11,False,1.0,Rank_Save,14.0,0.058407301827452796
-30,1,Jimmie Allen,Singer/Rapper,Eliminated Week 8,22.0,4,13.0,0.0601092896174863,8,False,,Rank_Save,13.0,0.059103975462281286
-30,1,JoJo Siwa,Social Media Personality,2nd Place,29.0,4,1.0,0.0792349726775956,11,False,2.0,Rank_Save,1.0,0.08909383017870166
-30,1,Kenya Moore,TV Personality,Eliminated Week 6,26.0,4,5.0,0.0710382513661202,6,False,,Rank_Save,5.0,0.06886720052602677
-30,1,Martin Kove,Actor/Actress,Eliminated Week 2,13.0,4,15.0,0.0355191256830601,2,False,,Rank_Save,15.0,0.05776609742628561
-30,1,Matt James,Athlete,Eliminated Week 4,24.0,4,9.0,0.0655737704918032,4,False,,Rank_Save,11.0,0.060705047070989955
-30,1,Melanie C,Singer/Rapper,Eliminated Week 5,27.0,4,4.0,0.0737704918032786,5,False,,Rank_Save,4.0,0.07137038363524312
-30,1,Melora Hardin,Actor/Actress,Eliminated Week 9,26.0,4,5.0,0.0710382513661202,9,False,,Rank_Save,6.0,0.06688726370928386
-30,1,"Mike ""The Miz"" Mizanin",Athlete,Eliminated Week 7,24.0,4,9.0,0.0655737704918032,7,False,,Rank_Save,10.0,0.06163787103541802
-30,1,Olivia Jade,Social Media Personality,Eliminated Week 8,25.0,4,7.0,0.0683060109289617,8,False,,Rank_Save,7.0,0.06525772710131507
-30,1,Suni Lee,Athlete,Eliminated Week 9,28.0,4,2.0,0.0765027322404371,9,False,,Rank_Save,2.0,0.07974121167493717
-30,2,Amanda Kloots,TV Personality,4th Place,32.0,4,1.0,0.0831168831168831,11,False,4.0,Rank_Save,1.0,0.08909383017870165
-30,2,Brian Austin Green,Actor/Actress,Eliminated Week 4,23.0,4,13.0,0.0597402597402597,4,False,,Rank_Save,13.0,0.05910397546228128
-30,2,Christine Chiu,TV Personality,Eliminated Week 3,24.0,4,10.0,0.0623376623376623,3,False,,Rank_Save,11.0,0.06070504707098995
-30,2,Cody Rigsby,Fitness Instructor,3rd Place,24.0,4,10.0,0.0623376623376623,11,False,3.0,Rank_Save,10.0,0.061637871035418006
-30,2,Iman Shumpert,Athlete,1st Place,25.0,4,9.0,0.0649350649350649,11,False,1.0,Rank_Save,9.0,0.06268575028796734
-30,2,Jimmie Allen,Singer/Rapper,Eliminated Week 8,27.0,4,5.0,0.0701298701298701,8,False,,Rank_Save,6.0,0.06688726370928386
-30,2,JoJo Siwa,Social Media Personality,2nd Place,31.0,4,2.0,0.0805194805194805,11,False,2.0,Rank_Save,2.0,0.07974121167493717
-30,2,Kenya Moore,TV Personality,Eliminated Week 6,24.0,4,10.0,0.0623376623376623,6,False,,Rank_Save,12.0,0.05986577794557976
-30,2,Martin Kove,Actor/Actress,Eliminated Week 2,15.0,4,15.0,0.0389610389610389,2,True,,Rank_Save,15.0,0.057766097426285606
-30,2,Matt James,Athlete,Eliminated Week 4,22.0,4,14.0,0.0571428571428571,4,False,,Rank_Save,14.0,0.05840730182745278
-30,2,Melanie C,Singer/Rapper,Eliminated Week 5,30.0,4,3.0,0.0779220779220779,5,False,,Rank_Save,3.0,0.0747322794432276
-30,2,Melora Hardin,Actor/Actress,Eliminated Week 9,27.0,4,5.0,0.0701298701298701,9,False,,Rank_Save,7.0,0.06525772710131507
-30,2,"Mike ""The Miz"" Mizanin",Athlete,Eliminated Week 7,26.0,4,8.0,0.0675324675324675,7,False,,Rank_Save,8.0,0.06387828267529007
-30,2,Olivia Jade,Social Media Personality,Eliminated Week 8,27.0,4,5.0,0.0701298701298701,8,False,,Rank_Save,5.0,0.06886720052602675
-30,2,Suni Lee,Athlete,Eliminated Week 9,28.0,4,4.0,0.0727272727272727,9,False,,Rank_Save,4.0,0.0713703836352431
-30,3,Amanda Kloots,TV Personality,4th Place,24.0,3,1.0,0.0805369127516778,11,False,4.0,Rank_Save,2.0,0.08462995383325078
-30,3,Brian Austin Green,Actor/Actress,Eliminated Week 4,19.0,3,12.0,0.0637583892617449,4,False,,Rank_Save,9.0,0.0665288630739576
-30,3,Christine Chiu,TV Personality,Eliminated Week 3,21.0,3,7.0,0.0704697986577181,3,True,,Rank_Save,14.0,0.06198811321468384
-30,3,Cody Rigsby,Fitness Instructor,3rd Place,18.0,3,14.0,0.0604026845637583,11,False,3.0,Rank_Save,13.0,0.06272749823673147
-30,3,Iman Shumpert,Athlete,1st Place,19.0,3,12.0,0.0637583892617449,11,False,1.0,Rank_Save,8.0,0.06779450675761758
-30,3,Jimmie Allen,Singer/Rapper,Eliminated Week 8,20.0,3,10.0,0.0671140939597315,8,False,,Rank_Save,10.0,0.06541674086132329
-30,3,JoJo Siwa,Social Media Personality,2nd Place,24.0,3,1.0,0.0805369127516778,11,False,2.0,Rank_Save,1.0,0.09455595891353688
-30,3,Kenya Moore,TV Personality,Eliminated Week 6,21.0,3,7.0,0.0704697986577181,6,False,,Rank_Save,7.0,0.06925852160813087
-30,3,Matt James,Athlete,Eliminated Week 4,20.0,3,10.0,0.0671140939597315,4,False,,Rank_Save,11.0,0.06442672770017503
-30,3,Melanie C,Singer/Rapper,Eliminated Week 5,22.0,3,5.0,0.0738255033557047,5,False,,Rank_Save,6.0,0.07098796119156943
-30,3,Melora Hardin,Actor/Actress,Eliminated Week 9,23.0,3,4.0,0.0771812080536912,9,False,,Rank_Save,4.0,0.07574593043223633
-30,3,"Mike ""The Miz"" Mizanin",Athlete,Eliminated Week 7,22.0,3,5.0,0.0738255033557047,7,False,,Rank_Save,5.0,0.07308928317895994
-30,3,Olivia Jade,Social Media Personality,Eliminated Week 8,24.0,3,1.0,0.0805369127516778,8,False,,Rank_Save,3.0,0.07931393599731043
-30,3,Suni Lee,Athlete,Eliminated Week 9,21.0,3,7.0,0.0704697986577181,9,False,,Rank_Save,12.0,0.06353600500051658
-30,4,Amanda Kloots,TV Personality,4th Place,34.0,4,4.0,0.0815347721822542,11,False,4.0,Rank_Save,4.0,0.08075156775659537
-30,4,Brian Austin Green,Actor/Actress,Eliminated Week 4,26.0,4,13.0,0.0623501199040767,4,True,,Rank_Save,13.0,0.06687281805319806
-30,4,Cody Rigsby,Fitness Instructor,3rd Place,29.0,4,11.0,0.0695443645083932,11,False,3.0,Rank_Save,11.0,0.06868434036691526
-30,4,Iman Shumpert,Athlete,1st Place,31.5,4,9.0,0.0755395683453237,11,False,1.0,Rank_Save,9.0,0.07092539445524546
-30,4,Jimmie Allen,Singer/Rapper,Eliminated Week 8,32.5,4,7.0,0.0779376498800959,8,False,,Rank_Save,8.0,0.07227467765889174
-30,4,JoJo Siwa,Social Media Personality,2nd Place,35.0,4,2.0,0.0839328537170263,11,False,2.0,Rank_Save,2.0,0.09022268803361139
-30,4,Kenya Moore,TV Personality,Eliminated Week 6,29.5,4,10.0,0.0707434052757793,6,False,,Rank_Save,10.0,0.06973977812319056
-30,4,Matt James,Athlete,Eliminated Week 4,28.5,4,12.0,0.0683453237410072,4,True,,Rank_Save,12.0,0.06773475463969054
-30,4,Melanie C,Singer/Rapper,Eliminated Week 5,33.0,4,6.0,0.079136690647482,5,False,,Rank_Save,6.0,0.07567917015940388
-30,4,Melora Hardin,Actor/Actress,Eliminated Week 9,36.5,4,1.0,0.0875299760191846,9,False,,Rank_Save,1.0,0.1008046489022564
-30,4,"Mike ""The Miz"" Mizanin",Athlete,Eliminated Week 7,32.5,4,7.0,0.0779376498800959,7,False,,Rank_Save,7.0,0.07383544130286926
-30,4,Olivia Jade,Social Media Personality,Eliminated Week 8,35.0,4,2.0,0.0839328537170263,8,False,,Rank_Save,3.0,0.08455536343908092
-30,4,Suni Lee,Athlete,Eliminated Week 9,34.0,4,4.0,0.0815347721822542,9,False,,Rank_Save,5.0,0.07791935710905118
-30,5,Amanda Kloots,TV Personality,4th Place,39.0,4,2.0,0.1012987012987013,11,False,4.0,Rank_Save,2.0,0.10425638726047351
-30,5,Cody Rigsby,Fitness Instructor,3rd Place,32.0,4,9.0,0.0831168831168831,11,False,3.0,Rank_Save,5.0,0.09003933319767665
-30,5,Iman Shumpert,Athlete,1st Place,28.0,4,11.0,0.0727272727272727,11,False,1.0,Rank_Save,10.0,0.0805874605815579
-30,5,Jimmie Allen,Singer/Rapper,Eliminated Week 8,34.0,4,8.0,0.0883116883116883,8,False,,Rank_Save,6.0,0.08745069609044172
-30,5,JoJo Siwa,Social Media Personality,2nd Place,40.0,4,1.0,0.1038961038961039,11,False,2.0,Rank_Save,1.0,0.1164843205480035
-30,5,Kenya Moore,TV Personality,Eliminated Week 6,36.0,4,3.0,0.0935064935064935,6,False,,Rank_Save,3.0,0.09770753795731309
-30,5,Melanie C,Singer/Rapper,Eliminated Week 5,36.0,4,3.0,0.0935064935064935,5,True,,Rank_Save,11.0,0.07936785462826851
-30,5,Melora Hardin,Actor/Actress,Eliminated Week 9,36.0,4,3.0,0.0935064935064935,9,False,,Rank_Save,9.0,0.08195749375338059
-30,5,"Mike ""The Miz"" Mizanin",Athlete,Eliminated Week 7,32.0,4,9.0,0.0831168831168831,7,False,,Rank_Save,4.0,0.09331208040249947
-30,5,Olivia Jade,Social Media Personality,Eliminated Week 8,36.0,4,3.0,0.0935064935064935,8,False,,Rank_Save,8.0,0.08351665138068376
-30,5,Suni Lee,Athlete,Eliminated Week 9,36.0,4,3.0,0.0935064935064935,9,False,,Rank_Save,7.0,0.08532018419970118
-30,6,Amanda Kloots,TV Personality,4th Place,38.0,4,3.0,0.1043956043956044,11,False,4.0,Rank_Save,4.0,0.1013565308050612
-30,6,Cody Rigsby,Fitness Instructor,3rd Place,36.0,4,5.0,0.0989010989010989,11,False,3.0,Rank_Save,5.0,0.09780163950425684
-30,6,Iman Shumpert,Athlete,1st Place,40.0,4,1.0,0.1098901098901098,11,False,1.0,Rank_Save,1.0,0.1265264537346452
-30,6,Jimmie Allen,Singer/Rapper,Eliminated Week 8,38.0,4,3.0,0.1043956043956044,8,False,,Rank_Save,3.0,0.10613092150704873
-30,6,JoJo Siwa,Social Media Personality,2nd Place,40.0,4,1.0,0.1098901098901098,11,False,2.0,Rank_Save,2.0,0.11324434822811562
-30,6,Kenya Moore,TV Personality,Eliminated Week 6,32.0,4,10.0,0.0879120879120879,6,True,,Rank_Save,10.0,0.08753491933416949
-30,6,Melora Hardin,Actor/Actress,Eliminated Week 9,34.0,4,8.0,0.0934065934065934,9,False,,Rank_Save,9.0,0.08902306329993281
-30,6,"Mike ""The Miz"" Mizanin",Athlete,Eliminated Week 7,34.0,4,8.0,0.0934065934065934,7,False,,Rank_Save,8.0,0.09071663617281313
-30,6,Olivia Jade,Social Media Personality,Eliminated Week 8,36.0,4,5.0,0.0989010989010989,8,False,,Rank_Save,6.0,0.09498983554949737
-30,6,Suni Lee,Athlete,Eliminated Week 9,36.0,4,5.0,0.0989010989010989,9,False,,Rank_Save,7.0,0.09267565186445964
-30,7,Amanda Kloots,TV Personality,4th Place,34.0,4,6.0,0.1039755351681957,11,False,4.0,Rank_Save,7.0,0.10156624492066452
-30,7,Cody Rigsby,Fitness Instructor,3rd Place,36.0,4,5.0,0.110091743119266,11,False,3.0,Rank_Save,5.0,0.10718398059999236
-30,7,Iman Shumpert,Athlete,1st Place,34.0,4,6.0,0.1039755351681957,11,False,1.0,Rank_Save,8.0,0.09941929625034718
-30,7,Jimmie Allen,Singer/Rapper,Eliminated Week 8,38.0,4,3.0,0.1162079510703364,8,False,,Rank_Save,3.0,0.11631231019778253
-30,7,JoJo Siwa,Social Media Personality,2nd Place,39.0,4,2.0,0.1192660550458715,11,False,2.0,Rank_Save,2.0,0.12410814465960783
-30,7,Melora Hardin,Actor/Actress,Eliminated Week 9,38.0,4,3.0,0.1162079510703364,9,False,,Rank_Save,4.0,0.11107990097670457
-30,7,"Mike ""The Miz"" Mizanin",Athlete,Eliminated Week 7,32.0,4,9.0,0.0978593272171253,7,True,,Rank_Save,9.0,0.09756325495214811
-30,7,Olivia Jade,Social Media Personality,Eliminated Week 8,42.0,4,1.0,0.128440366972477,8,False,,Rank_Save,1.0,0.13866443375818632
-30,7,Suni Lee,Athlete,Eliminated Week 9,34.0,4,6.0,0.1039755351681957,9,False,,Rank_Save,6.0,0.10410243368456663
-30,8,Amanda Kloots,TV Personality,4th Place,42.0,4,1.0,0.1363636363636363,11,False,4.0,Rank_Save,3.0,0.12888693954013922
-30,8,Cody Rigsby,Fitness Instructor,3rd Place,38.0,4,5.0,0.1233766233766233,11,False,3.0,Rank_Save,5.0,0.11877173795079556
-30,8,Iman Shumpert,Athlete,1st Place,35.0,4,7.0,0.1136363636363636,11,False,1.0,Rank_Save,6.0,0.1153570422036024
-30,8,Jimmie Allen,Singer/Rapper,Eliminated Week 8,32.0,4,8.0,0.1038961038961039,8,True,,Rank_Save,8.0,0.11016760653410167
-30,8,JoJo Siwa,Social Media Personality,2nd Place,41.0,4,4.0,0.1331168831168831,11,False,2.0,Rank_Save,4.0,0.12308884981275285
-30,8,Melora Hardin,Actor/Actress,Eliminated Week 9,42.0,4,1.0,0.1363636363636363,9,False,,Rank_Save,2.0,0.1375255887358919
-30,8,Olivia Jade,Social Media Personality,Eliminated Week 8,36.0,4,6.0,0.1168831168831168,8,True,,Rank_Save,7.0,0.11254666377229458
-30,8,Suni Lee,Athlete,Eliminated Week 9,42.0,4,1.0,0.1363636363636363,9,False,,Rank_Save,1.0,0.15365557145042183
-30,9,Amanda Kloots,TV Personality,4th Place,39.5,4,2.0,0.1747787610619469,11,False,4.0,Rank_Save,2.0,0.1769305462356845
-30,9,Cody Rigsby,Fitness Instructor,3rd Place,35.5,4,6.0,0.1570796460176991,11,False,3.0,Rank_Save,3.0,0.16581668055445303
-30,9,Iman Shumpert,Athlete,1st Place,37.5,4,3.0,0.165929203539823,11,False,1.0,Rank_Save,4.0,0.15835727469391844
-30,9,JoJo Siwa,Social Media Personality,2nd Place,40.0,4,1.0,0.1769911504424778,11,False,2.0,Rank_Save,1.0,0.19768222364122254
-30,9,Melora Hardin,Actor/Actress,Eliminated Week 9,36.0,4,5.0,0.1592920353982301,9,True,,Rank_Save,5.0,0.15280318860043124
-30,9,Suni Lee,Athlete,Eliminated Week 9,37.5,4,3.0,0.165929203539823,9,True,,Rank_Save,6.0,0.14841008627429028
-30,10,Amanda Kloots,TV Personality,4th Place,39.0,4,3.0,0.2484076433121019,11,False,4,Rank_Save,4.0,0.22661746281102885
-30,10,Cody Rigsby,Fitness Instructor,3rd Place,38.0,4,4.0,0.2420382165605095,11,False,3,Rank_Save,3.0,0.23729225898606676
-30,10,Iman Shumpert,Athlete,1st Place,40.0,4,1.0,0.2547770700636942,11,False,1,Rank_Save,1.0,0.28289350174158223
-30,10,JoJo Siwa,Social Media Personality,2nd Place,40.0,4,1.0,0.2547770700636942,11,False,2,Rank_Save,2.0,0.2531967764613221
-31,1,Charli D'Amelio,Social Media Personality,1st Place,32.0,4,1.0,0.0837696335078534,11,False,1,Rank_Save,1.0,0.08909383017870164
-31,1,Cheryl Ladd,Actor/Actress,Eliminated Week 3,21.0,4,10.0,0.0549738219895288,3,False,,Rank_Save,9.0,0.06268575028796733
-31,1,Daniel Durant,Actor/Actress,Eliminated Week 9,27.0,4,6.0,0.0706806282722513,9,False,,Rank_Save,5.0,0.06886720052602675
-31,1,Gabby Windey,TV Personality,2nd Place,28.0,4,3.0,0.0732984293193717,11,False,2,Rank_Save,3.0,0.07473227944322759
-31,1,Heidi D'Amelio,Social Media Personality,Eliminated Week 8,24.0,4,8.0,0.06282722513089,8,False,,Rank_Save,7.0,0.06525772710131506
-31,1,Jason Lewis,Actor/Actress,Eliminated Week 1,18.0,4,15.0,0.0471204188481675,1,True,,Rank_Save,14.0,0.058407301827452775
-31,1,Jessie James Decker,Singer/Rapper,Eliminated Week 6,20.0,4,12.0,0.0523560209424083,6,False,,Rank_Save,13.0,0.059103975462281265
-31,1,Jordin Sparks,Singer/Rapper,Eliminated Week 7,26.0,4,7.0,0.0680628272251308,7,False,,Rank_Save,6.0,0.06688726370928384
-31,1,Joseph Baena,Actor/Actress,Eliminated Week 5,23.0,4,9.0,0.0602094240837696,5,False,,Rank_Save,8.0,0.06387828267529005
-31,1,Sam Champion,News Anchor,Eliminated Week 4,20.0,4,12.0,0.0523560209424083,4,False,,Rank_Save,11.0,0.060705047070989934
+29,7,Johnny Weir,Athlete,Eliminated Week 10,27.0,3,2.0,0.1038461538461538,10,False,,Rank_Save,2.0,0.11923735232073916
+29,7,Justina Machado,Actor/Actress,4th Place,26.0,3,5.0,0.1,12,False,4,Rank_Save,5.0,0.10879735144104712
+29,7,Kaitlyn Bristowe,TV Personality,1st Place,24.0,3,9.0,0.0923076923076923,12,False,1,Rank_Save,8.0,0.10380214422875789
+29,7,Monica Aldama,TV Personality,Eliminated Week 7,22.0,3,10.0,0.0846153846153846,7,True,,Rank_Save,9.0,0.10258670303227864
+29,7,Nelly,Singer/Rapper,3rd Place,27.0,3,2.0,0.1038461538461538,12,False,3,Rank_Save,4.0,0.11125238353874754
+29,7,Nev Schulman,Producer,2nd Place,30.0,3,1.0,0.1153846153846153,12,False,2,Rank_Save,1.0,0.1277954299604585
+29,7,Skai Jackson,Actor/Actress,Eliminated Week 10,27.0,3,2.0,0.1038461538461538,10,False,,Rank_Save,3.0,0.11449939660206042
+29,8,AJ McLean,Singer/Rapper,Eliminated Week 9,27.0,3,5.0,0.1216218407600734,9,False,,Rank_Save,6.0,0.11904405127688049
+29,8,Chrishell Stause,Actor/Actress,Eliminated Week 8,27.0,3,5.0,0.1216218407600734,8,True,,Rank_Save,7.0,0.11722305061735085
+29,8,Johnny Weir,Athlete,Eliminated Week 10,30.0,3,1.0,0.1351353786223038,10,False,,Rank_Save,2.0,0.13286782436100672
+29,8,Justina Machado,Actor/Actress,4th Place,28.9998,3,3.0,0.1306299650990362,12,False,4.0,Rank_Save,3.0,0.12758825503137025
+29,8,Kaitlyn Bristowe,TV Personality,1st Place,28.0,3,4.0,0.1261263533808169,12,False,1.0,Rank_Save,4.0,0.1239700636425372
+29,8,Nelly,Singer/Rapper,3rd Place,24.0,3,8.0,0.108108302897843,12,False,3.0,Rank_Save,8.0,0.11566815934140488
+29,8,Nev Schulman,Producer,2nd Place,30.0,3,1.0,0.1351353786223038,12,False,2.0,Rank_Save,1.0,0.14240420817506022
+29,8,Skai Jackson,Actor/Actress,Eliminated Week 10,26.9998,3,7.0,0.1216209398575493,10,False,,Rank_Save,5.0,0.12123438755438945
+29,9,AJ McLean,Singer/Rapper,Eliminated Week 9,24.9998,3,6.0,0.1295331794121426,9,True,,Rank_Save,6.0,0.13461468399489485
+29,9,Johnny Weir,Athlete,Eliminated Week 10,30.0,3,1.0,0.1554410588230417,10,False,,Rank_Save,1.0,0.16103028481820406
+29,9,Justina Machado,Actor/Actress,4th Place,25.9998,3,5.0,0.1347145480395773,12,False,4.0,Rank_Save,5.0,0.1370915102006297
+29,9,Kaitlyn Bristowe,TV Personality,1st Place,30.0,3,1.0,0.1554410588230417,12,False,1.0,Rank_Save,2.0,0.15024656837195305
+29,9,Nelly,Singer/Rapper,3rd Place,24.0,3,7.0,0.1243528470584334,12,False,3.0,Rank_Save,7.0,0.13255550148465808
+29,9,Nev Schulman,Producer,2nd Place,28.9998,3,3.0,0.1502586539218815,12,False,2.0,Rank_Save,4.0,0.14018500515622284
+29,9,Skai Jackson,Actor/Actress,Eliminated Week 10,28.9998,3,3.0,0.1502586539218815,10,False,,Rank_Save,3.0,0.1442764459734374
+29,10,Johnny Weir,Athlete,Eliminated Week 10,28.5,3,4.0,0.1637931034482758,10,True,,Rank_Save,5.0,0.158040670538883
+29,10,Justina Machado,Actor/Actress,4th Place,29.0,3,3.0,0.1666666666666666,12,False,4.0,Rank_Save,4.0,0.16160688712206236
+29,10,Kaitlyn Bristowe,TV Personality,1st Place,30.0,3,1.0,0.1724137931034483,12,False,1.0,Rank_Save,1.0,0.18563756539330456
+29,10,Nelly,Singer/Rapper,3rd Place,28.0,3,6.0,0.160919540229885,12,False,3.0,Rank_Save,3.0,0.16632354717837394
+29,10,Nev Schulman,Producer,2nd Place,30.0,3,1.0,0.1724137931034483,12,False,2.0,Rank_Save,2.0,0.17320597298052465
+29,10,Skai Jackson,Actor/Actress,Eliminated Week 10,28.5,3,4.0,0.1637931034482758,10,True,,Rank_Save,6.0,0.15518535678685155
+29,11,Justina Machado,Actor/Actress,4th Place,30.0,3,1.0,0.2531645569620253,12,False,4,Rank_Save,4.0,0.2353130630340762
+29,11,Kaitlyn Bristowe,TV Personality,1st Place,30.0,3,1.0,0.2531645569620253,12,False,1,Rank_Save,2.0,0.25220229634805286
+29,11,Nelly,Singer/Rapper,3rd Place,28.5,3,4.0,0.240506329113924,12,False,3,Rank_Save,1.0,0.270303728416557
+29,11,Nev Schulman,Producer,2nd Place,30.0,3,1.0,0.2531645569620253,12,False,2,Rank_Save,3.0,0.24218091220131405
+30,1,Amanda Kloots,TV Personality,4th Place,28.0,4,2.0,0.0765027322404371,11,False,4.0,Rank_Save,3.0,0.07173018850228621
+30,1,Brian Austin Green,Actor/Actress,Eliminated Week 4,24.0,4,9.0,0.0655737704918032,4,False,,Rank_Save,9.0,0.0642672692145959
+30,1,Christine Chiu,TV Personality,Eliminated Week 3,25.0,4,7.0,0.0683060109289617,3,False,,Rank_Save,8.0,0.06502870402319935
+30,1,Cody Rigsby,Fitness Instructor,3rd Place,24.0,4,9.0,0.0655737704918032,11,False,3.0,Rank_Save,12.0,0.062444756006002425
+30,1,Iman Shumpert,Athlete,1st Place,21.0,4,14.0,0.0573770491803278,11,False,1.0,Rank_Save,14.0,0.0614895470673666
+30,1,Jimmie Allen,Singer/Rapper,Eliminated Week 8,22.0,4,13.0,0.0601092896174863,8,False,,Rank_Save,13.0,0.061946926310692145
+30,1,JoJo Siwa,Social Media Personality,2nd Place,29.0,4,1.0,0.0792349726775956,11,False,2.0,Rank_Save,1.0,0.08005972566522196
+30,1,Kenya Moore,TV Personality,Eliminated Week 6,26.0,4,5.0,0.0710382513661202,6,False,,Rank_Save,5.0,0.06815804064486533
+30,1,Martin Kove,Actor/Actress,Eliminated Week 2,13.0,4,15.0,0.0355191256830601,2,False,,Rank_Save,15.0,0.06106677312193761
+30,1,Matt James,Athlete,Eliminated Week 4,24.0,4,9.0,0.0655737704918032,4,False,,Rank_Save,11.0,0.06299046713746925
+30,1,Melanie C,Singer/Rapper,Eliminated Week 5,27.0,4,4.0,0.0737704918032786,5,False,,Rank_Save,4.0,0.06969603927519215
+30,1,Melora Hardin,Actor/Actress,Eliminated Week 9,26.0,4,5.0,0.0710382513661202,9,False,,Rank_Save,6.0,0.06692663236178721
+30,1,"Mike ""The Miz"" Mizanin",Athlete,Eliminated Week 7,24.0,4,9.0,0.0655737704918032,7,False,,Rank_Save,10.0,0.06359370056016601
+30,1,Olivia Jade,Social Media Personality,Eliminated Week 8,25.0,4,7.0,0.0683060109289617,8,False,,Rank_Save,7.0,0.06590286477017987
+30,1,Suni Lee,Athlete,Eliminated Week 9,28.0,4,2.0,0.0765027322404371,9,False,,Rank_Save,2.0,0.07469836533903816
+30,2,Amanda Kloots,TV Personality,4th Place,32.0,4,1.0,0.0831168831168831,11,False,4.0,Rank_Save,1.0,0.08005972566522195
+30,2,Brian Austin Green,Actor/Actress,Eliminated Week 4,23.0,4,13.0,0.0597402597402597,4,False,,Rank_Save,13.0,0.06194692631069214
+30,2,Christine Chiu,TV Personality,Eliminated Week 3,24.0,4,10.0,0.0623376623376623,3,False,,Rank_Save,11.0,0.06299046713746924
+30,2,Cody Rigsby,Fitness Instructor,3rd Place,24.0,4,10.0,0.0623376623376623,11,False,3.0,Rank_Save,10.0,0.063593700560166
+30,2,Iman Shumpert,Athlete,1st Place,25.0,4,9.0,0.0649350649350649,11,False,1.0,Rank_Save,9.0,0.06426726921459588
+30,2,Jimmie Allen,Singer/Rapper,Eliminated Week 8,27.0,4,5.0,0.0701298701298701,8,False,,Rank_Save,6.0,0.0669266323617872
+30,2,JoJo Siwa,Social Media Personality,2nd Place,31.0,4,2.0,0.0805194805194805,11,False,2.0,Rank_Save,2.0,0.07469836533903815
+30,2,Kenya Moore,TV Personality,Eliminated Week 6,24.0,4,10.0,0.0623376623376623,6,False,,Rank_Save,12.0,0.06244475600600242
+30,2,Martin Kove,Actor/Actress,Eliminated Week 2,15.0,4,15.0,0.0389610389610389,2,True,,Rank_Save,15.0,0.061066773121937604
+30,2,Matt James,Athlete,Eliminated Week 4,22.0,4,14.0,0.0571428571428571,4,False,,Rank_Save,14.0,0.06148954706736659
+30,2,Melanie C,Singer/Rapper,Eliminated Week 5,30.0,4,3.0,0.0779220779220779,5,False,,Rank_Save,3.0,0.0717301885022862
+30,2,Melora Hardin,Actor/Actress,Eliminated Week 9,27.0,4,5.0,0.0701298701298701,9,False,,Rank_Save,7.0,0.06590286477017986
+30,2,"Mike ""The Miz"" Mizanin",Athlete,Eliminated Week 7,26.0,4,8.0,0.0675324675324675,7,False,,Rank_Save,8.0,0.06502870402319934
+30,2,Olivia Jade,Social Media Personality,Eliminated Week 8,27.0,4,5.0,0.0701298701298701,8,False,,Rank_Save,5.0,0.06815804064486533
+30,2,Suni Lee,Athlete,Eliminated Week 9,28.0,4,4.0,0.0727272727272727,9,False,,Rank_Save,4.0,0.06969603927519213
+30,3,Amanda Kloots,TV Personality,4th Place,24.0,3,1.0,0.0805369127516778,11,False,4.0,Rank_Save,2.0,0.07955663214455513
+30,3,Brian Austin Green,Actor/Actress,Eliminated Week 4,19.0,3,12.0,0.0637583892617449,4,False,,Rank_Save,9.0,0.06844711356981528
+30,3,Christine Chiu,TV Personality,Eliminated Week 3,21.0,3,7.0,0.0704697986577181,3,True,,Rank_Save,14.0,0.06548873264589679
+30,3,Cody Rigsby,Fitness Instructor,3rd Place,18.0,3,14.0,0.0604026845637583,11,False,3.0,Rank_Save,13.0,0.06597585913181989
+30,3,Iman Shumpert,Athlete,1st Place,19.0,3,12.0,0.0637583892617449,11,False,1.0,Rank_Save,8.0,0.06925807092738501
+30,3,Jimmie Allen,Singer/Rapper,Eliminated Week 8,20.0,3,10.0,0.0671140939597315,8,False,,Rank_Save,10.0,0.06772973704596014
+30,3,JoJo Siwa,Social Media Personality,2nd Place,24.0,3,1.0,0.0805369127516778,11,False,2.0,Rank_Save,1.0,0.08526668710129602
+30,3,Kenya Moore,TV Personality,Eliminated Week 6,21.0,3,7.0,0.0704697986577181,6,False,,Rank_Save,7.0,0.07018908574500637
+30,3,Matt James,Athlete,Eliminated Week 4,20.0,3,10.0,0.0671140939597315,4,False,,Rank_Save,11.0,0.06708727024914381
+30,3,Melanie C,Singer/Rapper,Eliminated Week 5,22.0,3,5.0,0.0738255033557047,5,False,,Rank_Save,6.0,0.0712794376063537
+30,3,Melora Hardin,Actor/Actress,Eliminated Week 9,23.0,3,4.0,0.0771812080536912,9,False,,Rank_Save,4.0,0.07422896248642762
+30,3,"Mike ""The Miz"" Mizanin",Athlete,Eliminated Week 7,22.0,3,5.0,0.0738255033557047,7,False,,Rank_Save,5.0,0.07259093479042135
+30,3,Olivia Jade,Social Media Personality,Eliminated Week 8,24.0,3,1.0,0.0805369127516778,8,False,,Rank_Save,3.0,0.07639540965100138
+30,3,Suni Lee,Athlete,Eliminated Week 9,21.0,3,7.0,0.0704697986577181,9,False,,Rank_Save,12.0,0.06650606690491741
+30,4,Amanda Kloots,TV Personality,4th Place,34.0,4,4.0,0.0815347721822542,11,False,4.0,Rank_Save,4.0,0.07943078385410299
+30,4,Brian Austin Green,Actor/Actress,Eliminated Week 4,26.0,4,13.0,0.0623501199040767,4,True,,Rank_Save,13.0,0.07059931906291339
+30,4,Cody Rigsby,Fitness Instructor,3rd Place,29.0,4,11.0,0.0695443645083932,11,False,3.0,Rank_Save,11.0,0.07178861571042272
+30,4,Iman Shumpert,Athlete,1st Place,31.5,4,9.0,0.0755395683453237,11,False,1.0,Rank_Save,9.0,0.07324375420706344
+30,4,Jimmie Allen,Singer/Rapper,Eliminated Week 8,32.5,4,7.0,0.0779376498800959,8,False,,Rank_Save,8.0,0.07411154187950725
+30,4,JoJo Siwa,Social Media Personality,2nd Place,35.0,4,2.0,0.0839328537170263,11,False,2.0,Rank_Save,2.0,0.08513180624328386
+30,4,Kenya Moore,TV Personality,Eliminated Week 6,29.5,4,10.0,0.0707434052757793,6,False,,Rank_Save,10.0,0.07247610533121172
+30,4,Matt James,Athlete,Eliminated Week 4,28.5,4,12.0,0.0683453237410072,4,True,,Rank_Save,12.0,0.0711666827658666
+30,4,Melanie C,Singer/Rapper,Eliminated Week 5,33.0,4,6.0,0.079136690647482,5,False,,Rank_Save,6.0,0.0762745620051948
+30,4,Melora Hardin,Actor/Actress,Eliminated Week 9,36.5,4,1.0,0.0875299760191846,9,False,,Rank_Save,1.0,0.09124201074933315
+30,4,"Mike ""The Miz"" Mizanin",Athlete,Eliminated Week 7,32.5,4,7.0,0.0779376498800959,7,False,,Rank_Save,7.0,0.0751078004053754
+30,4,Olivia Jade,Social Media Personality,Eliminated Week 8,35.0,4,2.0,0.0839328537170263,8,False,,Rank_Save,3.0,0.0817490514237468
+30,4,Suni Lee,Athlete,Eliminated Week 9,34.0,4,4.0,0.0815347721822542,9,False,,Rank_Save,5.0,0.07767796636197788
+30,5,Amanda Kloots,TV Personality,4th Place,39.0,4,2.0,0.1012987012987013,11,False,4.0,Rank_Save,2.0,0.09919416665465149
+30,5,Cody Rigsby,Fitness Instructor,3rd Place,32.0,4,9.0,0.0831168831168831,11,False,3.0,Rank_Save,5.0,0.09050907622804395
+30,5,Iman Shumpert,Athlete,1st Place,28.0,4,11.0,0.0727272727272727,11,False,1.0,Rank_Save,10.0,0.08444795415428479
+30,5,Jimmie Allen,Singer/Rapper,Eliminated Week 8,34.0,4,8.0,0.0883116883116883,8,False,,Rank_Save,6.0,0.08887385278108945
+30,5,JoJo Siwa,Social Media Personality,2nd Place,40.0,4,1.0,0.1038961038961039,11,False,2.0,Rank_Save,1.0,0.10631367545885793
+30,5,Kenya Moore,TV Personality,Eliminated Week 6,36.0,4,3.0,0.0935064935064935,6,False,,Rank_Save,3.0,0.095252636924129
+30,5,Melanie C,Singer/Rapper,Eliminated Week 5,36.0,4,3.0,0.0935064935064935,5,True,,Rank_Save,11.0,0.08364690266686534
+30,5,Melora Hardin,Actor/Actress,Eliminated Week 9,36.0,4,3.0,0.0935064935064935,9,False,,Rank_Save,9.0,0.08534240587431392
+30,5,"Mike ""The Miz"" Mizanin",Athlete,Eliminated Week 7,32.0,4,9.0,0.0831168831168831,7,False,,Rank_Save,4.0,0.0925514300567901
+30,5,Olivia Jade,Social Media Personality,Eliminated Week 8,36.0,4,3.0,0.0935064935064935,8,False,,Rank_Save,8.0,0.08635353765689646
+30,5,Suni Lee,Athlete,Eliminated Week 9,36.0,4,3.0,0.0935064935064935,9,False,,Rank_Save,7.0,0.08751436154407762
+30,6,Amanda Kloots,TV Personality,4th Place,38.0,4,3.0,0.1043956043956044,11,False,4.0,Rank_Save,4.0,0.10099974597798907
+30,6,Cody Rigsby,Fitness Instructor,3rd Place,36.0,4,5.0,0.0989010989010989,11,False,3.0,Rank_Save,5.0,0.09877096120638736
+30,6,Iman Shumpert,Athlete,1st Place,40.0,4,1.0,0.1098901098901098,11,False,1.0,Rank_Save,1.0,0.11601824206003444
+30,6,Jimmie Allen,Singer/Rapper,Eliminated Week 8,38.0,4,3.0,0.1043956043956044,8,False,,Rank_Save,3.0,0.10394752546954121
+30,6,JoJo Siwa,Social Media Personality,2nd Place,40.0,4,1.0,0.1098901098901098,11,False,2.0,Rank_Save,2.0,0.10824884746211538
+30,6,Kenya Moore,TV Personality,Eliminated Week 6,32.0,4,10.0,0.0879120879120879,6,True,,Rank_Save,10.0,0.09215656541136155
+30,6,Melora Hardin,Actor/Actress,Eliminated Week 9,34.0,4,8.0,0.0934065934065934,9,False,,Rank_Save,9.0,0.09313266482394852
+30,6,"Mike ""The Miz"" Mizanin",Athlete,Eliminated Week 7,34.0,4,8.0,0.0934065934065934,7,False,,Rank_Save,8.0,0.09423609513430077
+30,6,Olivia Jade,Social Media Personality,Eliminated Week 8,36.0,4,5.0,0.0989010989010989,8,False,,Rank_Save,6.0,0.09698647065169451
+30,6,Suni Lee,Athlete,Eliminated Week 9,36.0,4,5.0,0.0989010989010989,9,False,,Rank_Save,7.0,0.0955028818026271
+30,7,Amanda Kloots,TV Personality,4th Place,34.0,4,6.0,0.1039755351681957,11,False,4.0,Rank_Save,7.0,0.10519752433513091
+30,7,Cody Rigsby,Fitness Instructor,3rd Place,36.0,4,5.0,0.110091743119266,11,False,3.0,Rank_Save,5.0,0.10879735144104712
+30,7,Iman Shumpert,Athlete,1st Place,34.0,4,6.0,0.1039755351681957,11,False,1.0,Rank_Save,8.0,0.10380214422875789
+30,7,Jimmie Allen,Singer/Rapper,Eliminated Week 8,38.0,4,3.0,0.1162079510703364,8,False,,Rank_Save,3.0,0.11449939660206043
+30,7,JoJo Siwa,Social Media Personality,2nd Place,39.0,4,2.0,0.1192660550458715,11,False,2.0,Rank_Save,2.0,0.11923735232073916
+30,7,Melora Hardin,Actor/Actress,Eliminated Week 9,38.0,4,3.0,0.1162079510703364,9,False,,Rank_Save,4.0,0.11125238353874756
+30,7,"Mike ""The Miz"" Mizanin",Athlete,Eliminated Week 7,32.0,4,9.0,0.0978593272171253,7,True,,Rank_Save,9.0,0.10258670303227864
+30,7,Olivia Jade,Social Media Personality,Eliminated Week 8,42.0,4,1.0,0.128440366972477,8,False,,Rank_Save,1.0,0.12779542996045853
+30,7,Suni Lee,Athlete,Eliminated Week 9,34.0,4,6.0,0.1039755351681957,9,False,,Rank_Save,6.0,0.1068317145407798
+30,8,Amanda Kloots,TV Personality,4th Place,42.0,4,1.0,0.1363636363636363,11,False,4.0,Rank_Save,3.0,0.12758825503137022
+30,8,Cody Rigsby,Fitness Instructor,3rd Place,38.0,4,5.0,0.1233766233766233,11,False,3.0,Rank_Save,5.0,0.12123438755438944
+30,8,Iman Shumpert,Athlete,1st Place,35.0,4,7.0,0.1136363636363636,11,False,1.0,Rank_Save,6.0,0.11904405127688047
+30,8,Jimmie Allen,Singer/Rapper,Eliminated Week 8,32.0,4,8.0,0.1038961038961039,8,True,,Rank_Save,8.0,0.11566815934140487
+30,8,JoJo Siwa,Social Media Personality,2nd Place,41.0,4,4.0,0.1331168831168831,11,False,2.0,Rank_Save,4.0,0.12397006364253718
+30,8,Melora Hardin,Actor/Actress,Eliminated Week 9,42.0,4,1.0,0.1363636363636363,9,False,,Rank_Save,2.0,0.1328678243610067
+30,8,Olivia Jade,Social Media Personality,Eliminated Week 8,36.0,4,6.0,0.1168831168831168,8,True,,Rank_Save,7.0,0.11722305061735083
+30,8,Suni Lee,Athlete,Eliminated Week 9,42.0,4,1.0,0.1363636363636363,9,False,,Rank_Save,1.0,0.1424042081750602
+30,9,Amanda Kloots,TV Personality,4th Place,39.5,4,2.0,0.1747787610619469,11,False,4.0,Rank_Save,2.0,0.17320597298052462
+30,9,Cody Rigsby,Fitness Instructor,3rd Place,35.5,4,6.0,0.1570796460176991,11,False,3.0,Rank_Save,3.0,0.16632354717837392
+30,9,Iman Shumpert,Athlete,1st Place,37.5,4,3.0,0.165929203539823,11,False,1.0,Rank_Save,4.0,0.16160688712206234
+30,9,JoJo Siwa,Social Media Personality,2nd Place,40.0,4,1.0,0.1769911504424778,11,False,2.0,Rank_Save,1.0,0.18563756539330453
+30,9,Melora Hardin,Actor/Actress,Eliminated Week 9,36.0,4,5.0,0.1592920353982301,9,True,,Rank_Save,5.0,0.15804067053888296
+30,9,Suni Lee,Athlete,Eliminated Week 9,37.5,4,3.0,0.165929203539823,9,True,,Rank_Save,6.0,0.15518535678685152
+30,10,Amanda Kloots,TV Personality,4th Place,39.0,4,3.0,0.2484076433121019,11,False,4,Rank_Save,4.0,0.2353130630340762
+30,10,Cody Rigsby,Fitness Instructor,3rd Place,38.0,4,4.0,0.2420382165605095,11,False,3,Rank_Save,3.0,0.24218091220131405
+30,10,Iman Shumpert,Athlete,1st Place,40.0,4,1.0,0.2547770700636942,11,False,1,Rank_Save,1.0,0.270303728416557
+30,10,JoJo Siwa,Social Media Personality,2nd Place,40.0,4,1.0,0.2547770700636942,11,False,2,Rank_Save,2.0,0.25220229634805286
+31,1,Charli D'Amelio,Social Media Personality,1st Place,32.0,4,1.0,0.0837696335078534,11,False,1,Rank_Save,1.0,0.08005972566522193
+31,1,Cheryl Ladd,Actor/Actress,Eliminated Week 3,21.0,4,10.0,0.0549738219895288,3,False,,Rank_Save,9.0,0.06426726921459587
+31,1,Daniel Durant,Actor/Actress,Eliminated Week 9,27.0,4,6.0,0.0706806282722513,9,False,,Rank_Save,5.0,0.06815804064486532
+31,1,Gabby Windey,TV Personality,2nd Place,28.0,4,3.0,0.0732984293193717,11,False,2,Rank_Save,3.0,0.0717301885022862
+31,1,Heidi D'Amelio,Social Media Personality,Eliminated Week 8,24.0,4,8.0,0.06282722513089,8,False,,Rank_Save,7.0,0.06590286477017986
+31,1,Jason Lewis,Actor/Actress,Eliminated Week 1,18.0,4,15.0,0.0471204188481675,1,True,,Rank_Save,14.0,0.06148954706736658
+31,1,Jessie James Decker,Singer/Rapper,Eliminated Week 6,20.0,4,12.0,0.0523560209424083,6,False,,Rank_Save,13.0,0.06194692631069213
+31,1,Jordin Sparks,Singer/Rapper,Eliminated Week 7,26.0,4,7.0,0.0680628272251308,7,False,,Rank_Save,6.0,0.0669266323617872
+31,1,Joseph Baena,Actor/Actress,Eliminated Week 5,23.0,4,9.0,0.0602094240837696,5,False,,Rank_Save,8.0,0.06502870402319932
+31,1,Sam Champion,News Anchor,Eliminated Week 4,20.0,4,12.0,0.0523560209424083,4,False,,Rank_Save,11.0,0.06299046713746924
 31,1,Selma Blair,Actor/Actress,Withdrew,28.0,4,3.0,0.0732984293193717,10,False,Withdrew,Rank_Save,,
-31,1,Shangela,TV Personality,4th Place,28.0,4,3.0,0.0732984293193717,11,False,4,Rank_Save,4.0,0.07137038363524309
-31,1,Teresa Giudice,TV Personality,Eliminated Week 2,20.0,4,12.0,0.0523560209424083,2,False,,Rank_Save,12.0,0.059865777945579755
-31,1,Trevor Donovan,Actor/Actress,Eliminated Week 9,21.0,4,10.0,0.0549738219895288,9,False,,Rank_Save,10.0,0.061637871035418
-31,1,Vinny Guadagnino,TV Personality,Eliminated Week 8,17.0,4,16.0,0.0445026178010471,8,False,,Rank_Save,15.0,0.05776609742628559
-31,1,Wayne Brady,Comedian,3rd Place,29.0,4,2.0,0.0759162303664921,11,False,3,Rank_Save,2.0,0.07974121167493715
-31,2,Charli D'Amelio,Social Media Personality,1st Place,32.0,4,1.0,0.0776699029126213,11,False,1,Rank_Save,1.0,0.09455595891353688
-31,2,Cheryl Ladd,Actor/Actress,Eliminated Week 3,21.0,4,15.0,0.0509708737864077,3,False,,Rank_Save,14.0,0.06198811321468384
-31,2,Daniel Durant,Actor/Actress,Eliminated Week 9,29.0,4,5.0,0.0703883495145631,9,False,,Rank_Save,5.0,0.07308928317895994
-31,2,Gabby Windey,TV Personality,2nd Place,32.0,4,1.0,0.0776699029126213,11,False,2,Rank_Save,2.0,0.08462995383325078
-31,2,Heidi D'Amelio,Social Media Personality,Eliminated Week 8,28.0,4,6.0,0.0679611650485436,8,False,,Rank_Save,7.0,0.06925852160813087
-31,2,Jessie James Decker,Singer/Rapper,Eliminated Week 6,25.0,4,12.0,0.0606796116504854,6,False,,Rank_Save,11.0,0.06442672770017503
-31,2,Jordin Sparks,Singer/Rapper,Eliminated Week 7,27.0,4,9.0,0.0655339805825242,7,False,,Rank_Save,9.0,0.0665288630739576
-31,2,Joseph Baena,Actor/Actress,Eliminated Week 5,24.0,4,13.0,0.058252427184466,5,False,,Rank_Save,12.0,0.06353600500051658
-31,2,Sam Champion,News Anchor,Eliminated Week 4,26.0,4,11.0,0.0631067961165048,4,False,,Rank_Save,10.0,0.06541674086132329
+31,1,Shangela,TV Personality,4th Place,28.0,4,3.0,0.0732984293193717,11,False,4,Rank_Save,4.0,0.06969603927519212
+31,1,Teresa Giudice,TV Personality,Eliminated Week 2,20.0,4,12.0,0.0523560209424083,2,False,,Rank_Save,12.0,0.062444756006002404
+31,1,Trevor Donovan,Actor/Actress,Eliminated Week 9,21.0,4,10.0,0.0549738219895288,9,False,,Rank_Save,10.0,0.063593700560166
+31,1,Vinny Guadagnino,TV Personality,Eliminated Week 8,17.0,4,16.0,0.0445026178010471,8,False,,Rank_Save,15.0,0.06106677312193759
+31,1,Wayne Brady,Comedian,3rd Place,29.0,4,2.0,0.0759162303664921,11,False,3,Rank_Save,2.0,0.07469836533903815
+31,2,Charli D'Amelio,Social Media Personality,1st Place,32.0,4,1.0,0.0776699029126213,11,False,1,Rank_Save,1.0,0.08526668710129603
+31,2,Cheryl Ladd,Actor/Actress,Eliminated Week 3,21.0,4,15.0,0.0509708737864077,3,False,,Rank_Save,14.0,0.0654887326458968
+31,2,Daniel Durant,Actor/Actress,Eliminated Week 9,29.0,4,5.0,0.0703883495145631,9,False,,Rank_Save,5.0,0.07259093479042135
+31,2,Gabby Windey,TV Personality,2nd Place,32.0,4,1.0,0.0776699029126213,11,False,2,Rank_Save,2.0,0.07955663214455515
+31,2,Heidi D'Amelio,Social Media Personality,Eliminated Week 8,28.0,4,6.0,0.0679611650485436,8,False,,Rank_Save,7.0,0.07018908574500639
+31,2,Jessie James Decker,Singer/Rapper,Eliminated Week 6,25.0,4,12.0,0.0606796116504854,6,False,,Rank_Save,11.0,0.06708727024914382
+31,2,Jordin Sparks,Singer/Rapper,Eliminated Week 7,27.0,4,9.0,0.0655339805825242,7,False,,Rank_Save,9.0,0.0684471135698153
+31,2,Joseph Baena,Actor/Actress,Eliminated Week 5,24.0,4,13.0,0.058252427184466,5,False,,Rank_Save,12.0,0.06650606690491741
+31,2,Sam Champion,News Anchor,Eliminated Week 4,26.0,4,11.0,0.0631067961165048,4,False,,Rank_Save,10.0,0.06772973704596015
 31,2,Selma Blair,Actor/Actress,Withdrew,28.0,4,6.0,0.0679611650485436,10,False,Withdrew,Rank_Save,,
-31,2,Shangela,TV Personality,4th Place,28.0,4,6.0,0.0679611650485436,11,False,4,Rank_Save,6.0,0.07098796119156943
-31,2,Teresa Giudice,TV Personality,Eliminated Week 2,23.0,4,14.0,0.0558252427184466,2,True,,Rank_Save,13.0,0.06272749823673147
-31,2,Trevor Donovan,Actor/Actress,Eliminated Week 9,30.0,4,4.0,0.0728155339805825,9,False,,Rank_Save,4.0,0.07574593043223633
-31,2,Vinny Guadagnino,TV Personality,Eliminated Week 8,27.0,4,9.0,0.0655339805825242,8,False,,Rank_Save,8.0,0.06779450675761758
-31,2,Wayne Brady,Comedian,3rd Place,32.0,4,1.0,0.0776699029126213,11,False,3,Rank_Save,3.0,0.07931393599731043
-31,3,Charli D'Amelio,Social Media Personality,1st Place,33.0,4,1.0,0.0818858560794044,11,False,1,Rank_Save,2.0,0.09022268803361139
-31,3,Cheryl Ladd,Actor/Actress,Eliminated Week 3,24.0,4,13.0,0.0595533498759305,3,True,,Rank_Save,12.0,0.06773475463969054
-31,3,Daniel Durant,Actor/Actress,Eliminated Week 9,31.0,4,5.0,0.0769230769230769,9,False,,Rank_Save,5.0,0.07791935710905118
-31,3,Gabby Windey,TV Personality,2nd Place,33.0,4,1.0,0.0818858560794044,11,False,2,Rank_Save,3.0,0.08455536343908092
-31,3,Heidi D'Amelio,Social Media Personality,Eliminated Week 8,32.0,4,4.0,0.0794044665012407,8,False,,Rank_Save,4.0,0.08075156775659537
-31,3,Jessie James Decker,Singer/Rapper,Eliminated Week 6,26.0,4,11.0,0.064516129032258,6,False,,Rank_Save,10.0,0.06973977812319056
-31,3,Jordin Sparks,Singer/Rapper,Eliminated Week 7,29.0,4,7.0,0.0719602977667493,7,False,,Rank_Save,7.0,0.07383544130286926
-31,3,Joseph Baena,Actor/Actress,Eliminated Week 5,29.0,4,7.0,0.0719602977667493,5,False,,Rank_Save,8.0,0.07227467765889174
-31,3,Sam Champion,News Anchor,Eliminated Week 4,25.0,4,12.0,0.0620347394540942,4,False,,Rank_Save,11.0,0.06868434036691526
+31,2,Shangela,TV Personality,4th Place,28.0,4,6.0,0.0679611650485436,11,False,4,Rank_Save,6.0,0.07127943760635372
+31,2,Teresa Giudice,TV Personality,Eliminated Week 2,23.0,4,14.0,0.0558252427184466,2,True,,Rank_Save,13.0,0.0659758591318199
+31,2,Trevor Donovan,Actor/Actress,Eliminated Week 9,30.0,4,4.0,0.0728155339805825,9,False,,Rank_Save,4.0,0.07422896248642763
+31,2,Vinny Guadagnino,TV Personality,Eliminated Week 8,27.0,4,9.0,0.0655339805825242,8,False,,Rank_Save,8.0,0.06925807092738502
+31,2,Wayne Brady,Comedian,3rd Place,32.0,4,1.0,0.0776699029126213,11,False,3,Rank_Save,3.0,0.07639540965100139
+31,3,Charli D'Amelio,Social Media Personality,1st Place,33.0,4,1.0,0.0818858560794044,11,False,1,Rank_Save,2.0,0.08513180624328386
+31,3,Cheryl Ladd,Actor/Actress,Eliminated Week 3,24.0,4,13.0,0.0595533498759305,3,True,,Rank_Save,12.0,0.0711666827658666
+31,3,Daniel Durant,Actor/Actress,Eliminated Week 9,31.0,4,5.0,0.0769230769230769,9,False,,Rank_Save,5.0,0.07767796636197788
+31,3,Gabby Windey,TV Personality,2nd Place,33.0,4,1.0,0.0818858560794044,11,False,2,Rank_Save,3.0,0.0817490514237468
+31,3,Heidi D'Amelio,Social Media Personality,Eliminated Week 8,32.0,4,4.0,0.0794044665012407,8,False,,Rank_Save,4.0,0.07943078385410299
+31,3,Jessie James Decker,Singer/Rapper,Eliminated Week 6,26.0,4,11.0,0.064516129032258,6,False,,Rank_Save,10.0,0.07247610533121172
+31,3,Jordin Sparks,Singer/Rapper,Eliminated Week 7,29.0,4,7.0,0.0719602977667493,7,False,,Rank_Save,7.0,0.0751078004053754
+31,3,Joseph Baena,Actor/Actress,Eliminated Week 5,29.0,4,7.0,0.0719602977667493,5,False,,Rank_Save,8.0,0.07411154187950725
+31,3,Sam Champion,News Anchor,Eliminated Week 4,25.0,4,12.0,0.0620347394540942,4,False,,Rank_Save,11.0,0.07178861571042272
 31,3,Selma Blair,Actor/Actress,Withdrew,28.0,4,9.0,0.0694789081885856,10,False,Withdrew,Rank_Save,,
-31,3,Shangela,TV Personality,4th Place,30.0,4,6.0,0.0744416873449131,11,False,4,Rank_Save,6.0,0.07567917015940388
-31,3,Trevor Donovan,Actor/Actress,Eliminated Week 9,27.0,4,10.0,0.0669975186104218,9,False,,Rank_Save,9.0,0.07092539445524546
-31,3,Vinny Guadagnino,TV Personality,Eliminated Week 8,23.0,4,14.0,0.0570719602977667,8,False,,Rank_Save,13.0,0.06687281805319806
-31,3,Wayne Brady,Comedian,3rd Place,33.0,4,1.0,0.0818858560794044,11,False,3,Rank_Save,1.0,0.1008046489022564
-31,4,Charli D'Amelio,Social Media Personality,1st Place,36.0,4,1.0,0.0878048780487804,11,False,1,Rank_Save,3.0,0.0906150469892768
-31,4,Daniel Durant,Actor/Actress,Eliminated Week 9,29.0,4,9.0,0.0707317073170731,9,False,,Rank_Save,9.0,0.07600828250150465
-31,4,Gabby Windey,TV Personality,2nd Place,36.0,4,1.0,0.0878048780487804,11,False,2,Rank_Save,2.0,0.09668852197122581
-31,4,Heidi D'Amelio,Social Media Personality,Eliminated Week 8,34.0,4,4.0,0.0829268292682926,8,False,,Rank_Save,4.0,0.08653865123521721
-31,4,Jessie James Decker,Singer/Rapper,Eliminated Week 6,31.0,4,8.0,0.0756097560975609,6,False,,Rank_Save,7.0,0.07912687866280446
-31,4,Jordin Sparks,Singer/Rapper,Eliminated Week 7,34.0,4,4.0,0.0829268292682926,7,False,,Rank_Save,5.0,0.08350346942684325
-31,4,Joseph Baena,Actor/Actress,Eliminated Week 5,28.0,4,11.0,0.0682926829268292,5,False,,Rank_Save,10.0,0.07473769864649217
-31,4,Sam Champion,News Anchor,Eliminated Week 4,25.0,4,13.0,0.0609756097560975,4,True,,Rank_Save,12.0,0.07258898459947782
+31,3,Shangela,TV Personality,4th Place,30.0,4,6.0,0.0744416873449131,11,False,4,Rank_Save,6.0,0.0762745620051948
+31,3,Trevor Donovan,Actor/Actress,Eliminated Week 9,27.0,4,10.0,0.0669975186104218,9,False,,Rank_Save,9.0,0.07324375420706344
+31,3,Vinny Guadagnino,TV Personality,Eliminated Week 8,23.0,4,14.0,0.0570719602977667,8,False,,Rank_Save,13.0,0.07059931906291339
+31,3,Wayne Brady,Comedian,3rd Place,33.0,4,1.0,0.0818858560794044,11,False,3,Rank_Save,1.0,0.09124201074933315
+31,4,Charli D'Amelio,Social Media Personality,1st Place,36.0,4,1.0,0.0878048780487804,11,False,1,Rank_Save,3.0,0.08795888909971715
+31,4,Daniel Durant,Actor/Actress,Eliminated Week 9,29.0,4,9.0,0.0707317073170731,9,False,,Rank_Save,9.0,0.07880751080708696
+31,4,Gabby Windey,TV Personality,2nd Place,36.0,4,1.0,0.0878048780487804,11,False,2,Rank_Save,2.0,0.09159860541252027
+31,4,Heidi D'Amelio,Social Media Personality,Eliminated Week 8,34.0,4,4.0,0.0829268292682926,8,False,,Rank_Save,4.0,0.08546452082864339
+31,4,Jessie James Decker,Singer/Rapper,Eliminated Week 6,31.0,4,8.0,0.0756097560975609,6,False,,Rank_Save,7.0,0.08081315405283163
+31,4,Jordin Sparks,Singer/Rapper,Eliminated Week 7,34.0,4,4.0,0.0829268292682926,7,False,,Rank_Save,5.0,0.08357855546615
+31,4,Joseph Baena,Actor/Actress,Eliminated Week 5,28.0,4,11.0,0.0682926829268292,5,False,,Rank_Save,10.0,0.07798154963490693
+31,4,Sam Champion,News Anchor,Eliminated Week 4,25.0,4,13.0,0.0609756097560975,4,True,,Rank_Save,12.0,0.07657266045266008
 31,4,Selma Blair,Actor/Actress,Withdrew,32.0,4,6.0,0.0780487804878048,10,False,Withdrew,Rank_Save,,
-31,4,Shangela,TV Personality,4th Place,32.0,4,6.0,0.0780487804878048,11,False,4,Rank_Save,6.0,0.08110273885871903
-31,4,Trevor Donovan,Actor/Actress,Eliminated Week 9,28.0,4,11.0,0.0682926829268292,9,False,,Rank_Save,11.0,0.07360662265096354
-31,4,Vinny Guadagnino,TV Personality,Eliminated Week 8,29.0,4,9.0,0.0707317073170731,8,False,,Rank_Save,8.0,0.07745426245981135
-31,4,Wayne Brady,Comedian,3rd Place,36.0,4,1.0,0.0878048780487804,11,False,3,Rank_Save,1.0,0.10802884199766385
-31,5,Charli D'Amelio,Social Media Personality,1st Place,42.0,4,1.0,0.0936454849498327,11,False,1,Rank_Save,1.0,0.1164843205480035
-31,5,Daniel Durant,Actor/Actress,Eliminated Week 9,33.5,4,11.0,0.0746934225195094,9,False,,Rank_Save,9.0,0.08195749375338059
-31,5,Gabby Windey,TV Personality,2nd Place,41.0,4,2.0,0.0914158305462653,11,False,2,Rank_Save,2.0,0.10425638726047351
-31,5,Heidi D'Amelio,Social Media Personality,Eliminated Week 8,39.0,4,5.0,0.0869565217391304,8,False,,Rank_Save,4.0,0.09331208040249947
-31,5,Jessie James Decker,Singer/Rapper,Eliminated Week 6,36.0,4,7.0,0.0802675585284281,6,False,,Rank_Save,7.0,0.08532018419970118
-31,5,Jordin Sparks,Singer/Rapper,Eliminated Week 7,35.5,4,9.0,0.0791527313266443,7,False,,Rank_Save,8.0,0.08351665138068376
-31,5,Joseph Baena,Actor/Actress,Eliminated Week 5,35.0,4,10.0,0.0780379041248606,5,True,,Rank_Save,10.0,0.0805874605815579
+31,4,Shangela,TV Personality,4th Place,32.0,4,6.0,0.0780487804878048,11,False,4,Rank_Save,6.0,0.08206854542896337
+31,4,Trevor Donovan,Actor/Actress,Eliminated Week 9,28.0,4,11.0,0.0682926829268292,9,False,,Rank_Save,11.0,0.07724183679103874
+31,4,Vinny Guadagnino,TV Personality,Eliminated Week 8,29.0,4,9.0,0.0707317073170731,8,False,,Rank_Save,8.0,0.07974121753900892
+31,4,Wayne Brady,Comedian,3rd Place,36.0,4,1.0,0.0878048780487804,11,False,3,Rank_Save,1.0,0.0981729544864725
+31,5,Charli D'Amelio,Social Media Personality,1st Place,42.0,4,1.0,0.0936454849498327,11,False,1,Rank_Save,1.0,0.10631367545885793
+31,5,Daniel Durant,Actor/Actress,Eliminated Week 9,33.5,4,11.0,0.0746934225195094,9,False,,Rank_Save,9.0,0.08534240587431392
+31,5,Gabby Windey,TV Personality,2nd Place,41.0,4,2.0,0.0914158305462653,11,False,2,Rank_Save,2.0,0.09919416665465149
+31,5,Heidi D'Amelio,Social Media Personality,Eliminated Week 8,39.0,4,5.0,0.0869565217391304,8,False,,Rank_Save,4.0,0.0925514300567901
+31,5,Jessie James Decker,Singer/Rapper,Eliminated Week 6,36.0,4,7.0,0.0802675585284281,6,False,,Rank_Save,7.0,0.08751436154407762
+31,5,Jordin Sparks,Singer/Rapper,Eliminated Week 7,35.5,4,9.0,0.0791527313266443,7,False,,Rank_Save,8.0,0.08635353765689646
+31,5,Joseph Baena,Actor/Actress,Eliminated Week 5,35.0,4,10.0,0.0780379041248606,5,True,,Rank_Save,10.0,0.08444795415428479
 31,5,Selma Blair,Actor/Actress,Withdrew,40.0,4,4.0,0.0891861761426978,10,False,Withdrew,Rank_Save,,
-31,5,Shangela,TV Personality,4th Place,38.5,4,6.0,0.0858416945373467,11,False,4,Rank_Save,5.0,0.09003933319767665
-31,5,Trevor Donovan,Actor/Actress,Eliminated Week 9,36.0,4,7.0,0.0802675585284281,9,False,,Rank_Save,6.0,0.08745069609044172
-31,5,Vinny Guadagnino,TV Personality,Eliminated Week 8,31.0,4,12.0,0.0691192865105908,8,False,,Rank_Save,11.0,0.07936785462826851
-31,5,Wayne Brady,Comedian,3rd Place,41.0,4,2.0,0.0914158305462653,11,False,3,Rank_Save,3.0,0.09770753795731309
-31,6,Charli D'Amelio,Social Media Personality,1st Place,40.0,4,1.0,0.1159420289855072,11,False,1.0,Rank_Save,1.0,0.12652645373464516
-31,6,Daniel Durant,Actor/Actress,Eliminated Week 9,34.0,4,5.0,0.0985507246376811,9,False,,Rank_Save,8.0,0.09071663617281311
-31,6,Gabby Windey,TV Personality,2nd Place,37.0,4,2.0,0.1072463768115942,11,False,2.0,Rank_Save,2.0,0.1132443482281156
-31,6,Heidi D'Amelio,Social Media Personality,Eliminated Week 8,36.0,4,3.0,0.1043478260869565,8,False,,Rank_Save,4.0,0.1013565308050612
-31,6,Jessie James Decker,Singer/Rapper,Eliminated Week 6,32.0,4,9.0,0.0927536231884058,6,True,,Rank_Save,9.0,0.0890230632999328
-31,6,Jordin Sparks,Singer/Rapper,Eliminated Week 7,34.0,4,5.0,0.0985507246376811,7,False,,Rank_Save,5.0,0.09780163950425683
-31,6,Shangela,TV Personality,4th Place,36.0,4,3.0,0.1043478260869565,11,False,4.0,Rank_Save,3.0,0.10613092150704871
-31,6,Trevor Donovan,Actor/Actress,Eliminated Week 9,34.0,4,5.0,0.0985507246376811,9,False,,Rank_Save,7.0,0.09267565186445963
-31,6,Vinny Guadagnino,TV Personality,Eliminated Week 8,28.0,4,10.0,0.081159420289855,8,False,,Rank_Save,10.0,0.08753491933416947
-31,6,Wayne Brady,Comedian,3rd Place,34.0,4,5.0,0.0985507246376811,11,False,3.0,Rank_Save,6.0,0.09498983554949736
-31,7,Charli D'Amelio,Social Media Personality,1st Place,39.0,4,1.0,0.1198156682027649,11,False,1.0,Rank_Save,2.0,0.12410814465960782
-31,7,Daniel Durant,Actor/Actress,Eliminated Week 9,36.5,4,4.0,0.1121351766513056,9,False,,Rank_Save,5.0,0.10718398059999235
-31,7,Gabby Windey,TV Personality,2nd Place,35.5,4,6.0,0.1090629800307219,11,False,2.0,Rank_Save,6.0,0.10410243368456662
-31,7,Heidi D'Amelio,Social Media Personality,Eliminated Week 8,35.0,4,7.0,0.1075268817204301,8,False,,Rank_Save,7.0,0.1015662449206645
-31,7,Jordin Sparks,Singer/Rapper,Eliminated Week 7,34.5,4,8.0,0.1059907834101382,7,True,,Rank_Save,8.0,0.09941929625034716
-31,7,Shangela,TV Personality,4th Place,36.5,4,4.0,0.1121351766513056,11,False,4.0,Rank_Save,4.0,0.11107990097670456
-31,7,Trevor Donovan,Actor/Actress,Eliminated Week 9,39.0,4,1.0,0.1198156682027649,9,False,,Rank_Save,1.0,0.1386644337581863
-31,7,Vinny Guadagnino,TV Personality,Eliminated Week 8,31.5,4,9.0,0.0967741935483871,8,False,,Rank_Save,9.0,0.0975632549521481
-31,7,Wayne Brady,Comedian,3rd Place,38.0,4,3.0,0.1167434715821812,11,False,3.0,Rank_Save,3.0,0.11631231019778251
-31,8,Charli D'Amelio,Social Media Personality,1st Place,45.0,4,1.0,0.143312101910828,11,False,1.0,Rank_Save,2.0,0.1375255887358919
-31,8,Daniel Durant,Actor/Actress,Eliminated Week 9,39.0,4,5.0,0.1242038216560509,9,False,,Rank_Save,6.0,0.1153570422036024
-31,8,Gabby Windey,TV Personality,2nd Place,40.0,4,4.0,0.1273885350318471,11,False,2.0,Rank_Save,4.0,0.12308884981275285
-31,8,Heidi D'Amelio,Social Media Personality,Eliminated Week 8,35.0,4,7.0,0.1114649681528662,8,True,,Rank_Save,7.0,0.11254666377229458
-31,8,Shangela,TV Personality,4th Place,42.0,4,3.0,0.1337579617834395,11,False,4.0,Rank_Save,3.0,0.12888693954013922
-31,8,Trevor Donovan,Actor/Actress,Eliminated Week 9,39.0,4,5.0,0.1242038216560509,9,False,,Rank_Save,5.0,0.11877173795079556
-31,8,Vinny Guadagnino,TV Personality,Eliminated Week 8,29.0,4,8.0,0.0923566878980891,8,True,,Rank_Save,8.0,0.11016760653410167
-31,8,Wayne Brady,Comedian,3rd Place,45.0,4,1.0,0.143312101910828,11,False,3.0,Rank_Save,1.0,0.15365557145042183
-31,9,Charli D'Amelio,Social Media Personality,1st Place,40.0,4,1.0,0.1818181818181818,11,False,1.0,Rank_Save,1.0,0.19768222364122254
-31,9,Daniel Durant,Actor/Actress,Eliminated Week 9,34.5,4,5.0,0.1568181818181818,9,True,,Rank_Save,5.0,0.15280318860043124
-31,9,Gabby Windey,TV Personality,2nd Place,40.0,4,1.0,0.1818181818181818,11,False,2.0,Rank_Save,2.0,0.1769305462356845
-31,9,Shangela,TV Personality,4th Place,36.5,4,3.0,0.1659090909090909,11,False,4.0,Rank_Save,4.0,0.15835727469391844
-31,9,Trevor Donovan,Actor/Actress,Eliminated Week 9,32.5,4,6.0,0.1477272727272727,9,True,,Rank_Save,6.0,0.14841008627429028
-31,9,Wayne Brady,Comedian,3rd Place,36.5,4,3.0,0.1659090909090909,11,False,3.0,Rank_Save,3.0,0.16581668055445303
-31,10,Charli D'Amelio,Social Media Personality,1st Place,40.0,4,1.0,0.2564102564102564,11,False,1,Rank_Save,1.0,0.28289350174158223
-31,10,Gabby Windey,TV Personality,2nd Place,40.0,4,1.0,0.2564102564102564,11,False,2,Rank_Save,2.0,0.2531967764613221
-31,10,Shangela,TV Personality,4th Place,38.0,4,3.0,0.2435897435897435,11,False,4,Rank_Save,4.0,0.22661746281102885
-31,10,Wayne Brady,Comedian,3rd Place,38.0,4,3.0,0.2435897435897435,11,False,3,Rank_Save,3.0,0.23729225898606676
-32,1,Adrian Peterson,Athlete,Eliminated Week 4,18.0,3,5.0,0.0779220779220779,4,False,,Rank_Save,5.0,0.07308928317895994
-32,1,Alyson Hannigan,Actor/Actress,5th Place,13.0,3,11.0,0.0562770562770562,12,False,5.0,Rank_Save,11.0,0.06442672770017503
-32,1,Ariana Madix,TV Personality,3rd Place,21.0,3,2.0,0.0909090909090909,12,False,3.0,Rank_Save,3.0,0.07931393599731043
-32,1,Barry Williams,Actor/Actress,Eliminated Week 8,16.0,3,8.0,0.0692640692640692,8,False,,Rank_Save,8.0,0.06779450675761758
-32,1,Charity Lawson,TV Personality,4th Place,22.0,3,1.0,0.0952380952380952,12,False,4.0,Rank_Save,1.0,0.09455595891353688
-32,1,Harry Jowsey,TV Personality,Eliminated Week 9,12.0,3,12.0,0.0519480519480519,9,False,,Rank_Save,12.0,0.06353600500051658
-32,1,Jamie Lynn Spears,Actor/Actress,Eliminated Week 2,15.0,3,9.0,0.0649350649350649,2,False,,Rank_Save,9.0,0.0665288630739576
-32,1,Jason Mraz,Singer/Rapper,2nd Place,21.0,3,2.0,0.0909090909090909,12,False,2.0,Rank_Save,2.0,0.08462995383325078
-32,1,Lele Pons,Social Media Personality,Eliminated Week 7,19.0,3,4.0,0.0822510822510822,7,False,,Rank_Save,4.0,0.07574593043223633
-32,1,Matt Walsh,Comedian,Eliminated Week 1,12.0,3,12.0,0.0519480519480519,1,True,,Rank_Save,14.0,0.06198811321468384
-32,1,Mauricio Umansky,TV Personality,Eliminated Week 6,15.0,3,9.0,0.0649350649350649,6,False,,Rank_Save,10.0,0.06541674086132329
-32,1,Mira Sorvino,Actor/Actress,Eliminated Week 5,17.0,3,7.0,0.0735930735930736,5,False,,Rank_Save,7.0,0.06925852160813087
-32,1,Tyson Beckford,Model,Eliminated Week 3,12.0,3,12.0,0.0519480519480519,3,False,,Rank_Save,13.0,0.06272749823673147
-32,1,Xochitl Gomez,Actor/Actress,1st Place,18.0,3,5.0,0.0779220779220779,12,False,1.0,Rank_Save,6.0,0.07098796119156943
-32,2,Adrian Peterson,Athlete,Eliminated Week 4,15.0,3,10.0,0.0630252100840336,4,False,,Rank_Save,11.0,0.06868434036691526
-32,2,Alyson Hannigan,Actor/Actress,5th Place,19.0,3,6.0,0.0798319327731092,12,False,5.0,Rank_Save,6.0,0.07567917015940388
-32,2,Ariana Madix,TV Personality,3rd Place,20.0,3,5.0,0.0840336134453781,12,False,3.0,Rank_Save,5.0,0.07791935710905118
-32,2,Barry Williams,Actor/Actress,Eliminated Week 8,15.0,3,10.0,0.0630252100840336,8,False,,Rank_Save,10.0,0.06973977812319056
-32,2,Charity Lawson,TV Personality,4th Place,21.0,3,3.0,0.088235294117647,12,False,4.0,Rank_Save,4.0,0.08075156775659537
-32,2,Harry Jowsey,TV Personality,Eliminated Week 9,15.0,3,10.0,0.0630252100840336,9,False,,Rank_Save,9.0,0.07092539445524546
-32,2,Jamie Lynn Spears,Actor/Actress,Eliminated Week 2,16.0,3,9.0,0.0672268907563025,2,True,,Rank_Save,12.0,0.06773475463969054
-32,2,Jason Mraz,Singer/Rapper,2nd Place,24.0,3,1.0,0.1008403361344537,12,False,2.0,Rank_Save,1.0,0.1008046489022564
-32,2,Lele Pons,Social Media Personality,Eliminated Week 7,21.0,3,3.0,0.088235294117647,7,False,,Rank_Save,3.0,0.08455536343908092
-32,2,Mauricio Umansky,TV Personality,Eliminated Week 6,12.0,3,13.0,0.0504201680672268,6,False,,Rank_Save,13.0,0.06687281805319806
-32,2,Mira Sorvino,Actor/Actress,Eliminated Week 5,18.0,3,7.0,0.0756302521008403,5,False,,Rank_Save,8.0,0.07227467765889174
-32,2,Tyson Beckford,Model,Eliminated Week 3,18.0,3,7.0,0.0756302521008403,3,False,,Rank_Save,7.0,0.07383544130286926
-32,2,Xochitl Gomez,Actor/Actress,1st Place,24.0,3,1.0,0.1008403361344537,12,False,1.0,Rank_Save,2.0,0.09022268803361139
-32,3,Adrian Peterson,Athlete,Eliminated Week 4,22.0,4,11.0,0.0681114551083591,4,False,,Rank_Save,11.0,0.07360662265096354
-32,3,Alyson Hannigan,Actor/Actress,5th Place,24.0,4,8.0,0.0743034055727554,12,False,5.0,Rank_Save,8.0,0.07745426245981135
-32,3,Ariana Madix,TV Personality,3rd Place,34.0,4,1.0,0.1052631578947368,12,False,3.0,Rank_Save,2.0,0.09668852197122581
-32,3,Barry Williams,Actor/Actress,Eliminated Week 8,25.0,4,7.0,0.0773993808049535,8,False,,Rank_Save,7.0,0.07912687866280446
-32,3,Charity Lawson,TV Personality,4th Place,32.0,4,3.0,0.0990712074303405,12,False,4.0,Rank_Save,4.0,0.08653865123521721
-32,3,Harry Jowsey,TV Personality,Eliminated Week 9,24.0,4,8.0,0.0743034055727554,9,False,,Rank_Save,9.0,0.07600828250150465
-32,3,Jason Mraz,Singer/Rapper,2nd Place,34.0,4,1.0,0.1052631578947368,12,False,2.0,Rank_Save,1.0,0.10802884199766385
-32,3,Lele Pons,Social Media Personality,Eliminated Week 7,27.0,4,5.0,0.0835913312693498,7,False,,Rank_Save,5.0,0.08350346942684325
-32,3,Mauricio Umansky,TV Personality,Eliminated Week 6,23.0,4,10.0,0.0712074303405572,6,False,,Rank_Save,10.0,0.07473769864649217
-32,3,Mira Sorvino,Actor/Actress,Eliminated Week 5,26.0,4,6.0,0.0804953560371517,5,False,,Rank_Save,6.0,0.08110273885871903
-32,3,Tyson Beckford,Model,Eliminated Week 3,20.0,4,12.0,0.0619195046439628,3,True,,Rank_Save,12.0,0.07258898459947782
-32,3,Xochitl Gomez,Actor/Actress,1st Place,32.0,4,3.0,0.0990712074303405,12,False,1.0,Rank_Save,3.0,0.0906150469892768
-32,4,Adrian Peterson,Athlete,Eliminated Week 4,21.0,3,6.0,0.0875,4,True,,Rank_Save,11.0,0.07936785462826852
-32,4,Alyson Hannigan,Actor/Actress,5th Place,18.0,3,10.0,0.075,12,False,5.0,Rank_Save,7.0,0.0853201841997012
-32,4,Ariana Madix,TV Personality,3rd Place,25.0,3,2.0,0.1041666666666666,12,False,3.0,Rank_Save,2.0,0.10425638726047352
-32,4,Barry Williams,Actor/Actress,Eliminated Week 8,18.0,3,10.0,0.075,8,False,,Rank_Save,10.0,0.08058746058155791
-32,4,Charity Lawson,TV Personality,4th Place,24.0,3,3.0,0.1,12,False,4.0,Rank_Save,4.0,0.0933120804024995
-32,4,Harry Jowsey,TV Personality,Eliminated Week 9,21.0,3,6.0,0.0875,9,False,,Rank_Save,9.0,0.08195749375338061
-32,4,Jason Mraz,Singer/Rapper,2nd Place,24.0,3,3.0,0.1,12,False,2.0,Rank_Save,3.0,0.09770753795731311
-32,4,Lele Pons,Social Media Personality,Eliminated Week 7,22.0,3,5.0,0.0916666666666666,7,False,,Rank_Save,5.0,0.09003933319767667
-32,4,Mauricio Umansky,TV Personality,Eliminated Week 6,19.0,3,9.0,0.0791666666666666,6,False,,Rank_Save,8.0,0.08351665138068377
-32,4,Mira Sorvino,Actor/Actress,Eliminated Week 5,21.0,3,6.0,0.0875,5,False,,Rank_Save,6.0,0.08745069609044173
-32,4,Xochitl Gomez,Actor/Actress,1st Place,27.0,3,1.0,0.1125,12,False,1.0,Rank_Save,1.0,0.11648432054800353
-32,5,Alyson Hannigan,Actor/Actress,5th Place,21.0,3,9.0,0.0875,12,False,5.0,Rank_Save,8.0,0.09071663617281313
-32,5,Ariana Madix,TV Personality,3rd Place,24.0,3,4.0,0.1,12,False,3.0,Rank_Save,5.0,0.09780163950425684
-32,5,Barry Williams,Actor/Actress,Eliminated Week 8,24.0,3,4.0,0.1,8,False,,Rank_Save,4.0,0.1013565308050612
-32,5,Charity Lawson,TV Personality,4th Place,28.0,3,1.0,0.1166666666666666,12,False,4.0,Rank_Save,1.0,0.1265264537346452
-32,5,Harry Jowsey,TV Personality,Eliminated Week 9,18.0,3,10.0,0.075,9,False,,Rank_Save,10.0,0.08753491933416949
-32,5,Jason Mraz,Singer/Rapper,2nd Place,27.0,3,3.0,0.1125,12,False,2.0,Rank_Save,3.0,0.10613092150704873
-32,5,Lele Pons,Social Media Personality,Eliminated Week 7,24.0,3,4.0,0.1,7,False,,Rank_Save,6.0,0.09498983554949737
-32,5,Mauricio Umansky,TV Personality,Eliminated Week 6,24.0,3,4.0,0.1,6,False,,Rank_Save,7.0,0.09267565186445964
-32,5,Mira Sorvino,Actor/Actress,Eliminated Week 5,22.0,3,8.0,0.0916666666666666,5,True,,Rank_Save,9.0,0.08902306329993281
-32,5,Xochitl Gomez,Actor/Actress,1st Place,28.0,3,1.0,0.1166666666666666,12,False,1.0,Rank_Save,2.0,0.11324434822811562
-32,6,Alyson Hannigan,Actor/Actress,5th Place,31.0,4,8.0,0.0962732919254658,12,False,5.0,Rank_Save,6.0,0.10410243368456662
-32,6,Ariana Madix,TV Personality,3rd Place,41.0,4,2.0,0.1273291925465838,12,False,3.0,Rank_Save,2.0,0.12410814465960782
-32,6,Barry Williams,Actor/Actress,Eliminated Week 8,32.0,4,7.0,0.0993788819875776,8,False,,Rank_Save,7.0,0.1015662449206645
-32,6,Charity Lawson,TV Personality,4th Place,38.0,4,4.0,0.1180124223602484,12,False,4.0,Rank_Save,4.0,0.11107990097670456
-32,6,Harry Jowsey,TV Personality,Eliminated Week 9,29.0,4,9.0,0.0900621118012422,9,False,,Rank_Save,9.0,0.0975632549521481
-32,6,Jason Mraz,Singer/Rapper,2nd Place,39.0,4,3.0,0.1211180124223602,12,False,2.0,Rank_Save,3.0,0.11631231019778251
-32,6,Lele Pons,Social Media Personality,Eliminated Week 7,37.0,4,5.0,0.1149068322981366,7,False,,Rank_Save,5.0,0.10718398059999235
-32,6,Mauricio Umansky,TV Personality,Eliminated Week 6,33.0,4,6.0,0.1024844720496894,6,True,,Rank_Save,8.0,0.09941929625034716
-32,6,Xochitl Gomez,Actor/Actress,1st Place,42.0,4,1.0,0.1304347826086956,12,False,1.0,Rank_Save,1.0,0.1386644337581863
-32,7,Alyson Hannigan,Actor/Actress,5th Place,35.0,4,6.0,0.1241134751773049,12,False,5.0,Rank_Save,4.0,0.12308884981275285
-32,7,Ariana Madix,TV Personality,3rd Place,37.0,4,1.0,0.1312056737588652,12,False,3.0,Rank_Save,2.0,0.1375255887358919
-32,7,Barry Williams,Actor/Actress,Eliminated Week 8,32.5,4,7.0,0.1152482269503546,8,False,,Rank_Save,3.0,0.12888693954013922
-32,7,Charity Lawson,TV Personality,4th Place,36.0,4,4.0,0.1276595744680851,12,False,4.0,Rank_Save,6.0,0.1153570422036024
-32,7,Harry Jowsey,TV Personality,Eliminated Week 9,32.0,4,8.0,0.1134751773049645,9,False,,Rank_Save,8.0,0.11016760653410167
-32,7,Jason Mraz,Singer/Rapper,2nd Place,36.0,4,4.0,0.1276595744680851,12,False,2.0,Rank_Save,5.0,0.11877173795079556
-32,7,Lele Pons,Social Media Personality,Eliminated Week 7,36.5,4,3.0,0.1294326241134751,7,True,,Rank_Save,7.0,0.11254666377229458
-32,7,Xochitl Gomez,Actor/Actress,1st Place,37.0,4,1.0,0.1312056737588652,12,False,1.0,Rank_Save,1.0,0.15365557145042183
-32,8,Alyson Hannigan,Actor/Actress,5th Place,36.0,4,4.0,0.1422924901185771,12,False,5.0,Rank_Save,4.0,0.13832812866400784
-32,8,Ariana Madix,TV Personality,3rd Place,42.0,4,1.0,0.1660079051383399,12,False,3.0,Rank_Save,1.0,0.1726792287836737
-32,8,Barry Williams,Actor/Actress,Eliminated Week 8,35.0,4,5.0,0.1383399209486166,8,True,,Rank_Save,6.0,0.1296390680432374
-32,8,Charity Lawson,TV Personality,4th Place,39.0,4,3.0,0.1541501976284585,12,False,4.0,Rank_Save,3.0,0.1448440633163785
-32,8,Harry Jowsey,TV Personality,Eliminated Week 9,28.0,4,7.0,0.1106719367588932,9,False,,Rank_Save,7.0,0.12648074468712603
-32,8,Jason Mraz,Singer/Rapper,2nd Place,33.0,4,6.0,0.1304347826086956,12,False,2.0,Rank_Save,5.0,0.13347652751568131
-32,8,Xochitl Gomez,Actor/Actress,1st Place,40.0,4,2.0,0.1581027667984189,12,False,1.0,Rank_Save,2.0,0.15455223898989512
-32,9,Alyson Hannigan,Actor/Actress,5th Place,32.0,4,5.0,0.1447963800904977,12,False,5.0,Rank_Save,5.0,0.1528031886004312
-32,9,Ariana Madix,TV Personality,3rd Place,37.0,4,4.0,0.167420814479638,12,False,3.0,Rank_Save,4.0,0.15835727469391842
-32,9,Charity Lawson,TV Personality,4th Place,38.0,4,3.0,0.171945701357466,12,False,4.0,Rank_Save,3.0,0.165816680554453
-32,9,Harry Jowsey,TV Personality,Eliminated Week 9,30.0,4,6.0,0.1357466063348416,9,True,,Rank_Save,6.0,0.14841008627429025
-32,9,Jason Mraz,Singer/Rapper,2nd Place,43.0,4,1.0,0.1945701357466063,12,False,2.0,Rank_Save,1.0,0.1976822236412225
-32,9,Xochitl Gomez,Actor/Actress,1st Place,41.0,4,2.0,0.1855203619909502,12,False,1.0,Rank_Save,2.0,0.17693054623568447
-32,10,Alyson Hannigan,Actor/Actress,5th Place,25.5,3,5.0,0.1789473684210526,12,False,5,Rank_Save,5.0,0.1794328304475996
-32,10,Ariana Madix,TV Personality,3rd Place,29.0,3,3.0,0.2035087719298245,12,False,3,Rank_Save,3.0,0.19471423731289197
-32,10,Charity Lawson,TV Personality,4th Place,29.5,3,2.0,0.2070175438596491,12,False,4,Rank_Save,2.0,0.20776496220065896
-32,10,Jason Mraz,Singer/Rapper,2nd Place,28.5,3,4.0,0.2,12,False,2,Rank_Save,4.0,0.18595485002999232
-32,10,Xochitl Gomez,Actor/Actress,1st Place,30.0,3,1.0,0.2105263157894736,12,False,1,Rank_Save,1.0,0.23213312000885722
-32,11,Alyson Hannigan,Actor/Actress,5th Place,26.5,3,5.0,0.1821305841924398,12,False,5,Rank_Save,5.0,0.1794328304475996
-32,11,Ariana Madix,TV Personality,3rd Place,29.5,3,3.0,0.2027491408934708,12,False,3,Rank_Save,3.0,0.19471423731289197
-32,11,Charity Lawson,TV Personality,4th Place,29.5,3,3.0,0.2027491408934708,12,False,4,Rank_Save,4.0,0.18595485002999232
-32,11,Jason Mraz,Singer/Rapper,2nd Place,30.0,3,1.0,0.2061855670103092,12,False,2,Rank_Save,2.0,0.20776496220065896
-32,11,Xochitl Gomez,Actor/Actress,1st Place,30.0,3,1.0,0.2061855670103092,12,False,1,Rank_Save,1.0,0.23213312000885722
-33,1,Anna Delvey,Con artist,Eliminated Week 2,18.0,3,8.0,0.0728744939271255,2,False,,Rank_Save,9.0,0.07092539445524546
-33,1,Brooks Nader,Model,Eliminated Week 4,18.0,3,8.0,0.0728744939271255,4,False,,Rank_Save,10.0,0.06973977812319056
-33,1,Chandler Kinney,Actor/Actress,3rd Place,23.0,3,1.0,0.0931174089068826,10,False,3.0,Rank_Save,1.0,0.1008046489022564
-33,1,Danny Amendola,Athlete,5th Place,20.0,3,5.0,0.0809716599190283,10,False,5.0,Rank_Save,5.0,0.07791935710905118
-33,1,Dwight Howard ,Athlete,Eliminated Week 7,22.0,3,2.0,0.0890688259109311,7,False,,Rank_Save,2.0,0.09022268803361139
-33,1,Eric Roberts,Actor/Actress,Eliminated Week 3,15.0,3,13.0,0.0607287449392712,3,False,,Rank_Save,13.0,0.06687281805319806
-33,1,Ilona Maher,Athlete,2nd Place,18.0,3,8.0,0.0728744939271255,10,False,2.0,Rank_Save,8.0,0.07227467765889174
-33,1,Jenn Tran,TV Personality,Eliminated Week 6,19.0,3,6.0,0.0769230769230769,6,False,,Rank_Save,7.0,0.07383544130286926
-33,1,Joey Graziadei,TV Personality,1st Place,21.0,3,3.0,0.0850202429149797,10,False,1.0,Rank_Save,4.0,0.08075156775659537
-33,1,Phaedra Parks,TV Personality,Eliminated Week 5,19.0,3,6.0,0.0769230769230769,5,False,,Rank_Save,6.0,0.07567917015940388
-33,1,Reginald VelJohnson,Actor/Actress,Eliminated Week 3,16.0,3,12.0,0.0647773279352226,3,False,,Rank_Save,12.0,0.06773475463969054
-33,1,Stephen Nedoroscik,Athlete,4th Place,21.0,3,3.0,0.0850202429149797,10,False,4.0,Rank_Save,3.0,0.08455536343908092
-33,1,Tori Spelling,Actor/Actress,Eliminated Week 2,17.0,3,11.0,0.068825910931174,2,False,,Rank_Save,11.0,0.06868434036691526
-33,2,Anna Delvey,Con artist,Eliminated Week 2,17.0,3,11.0,0.065891472868217,2,True,,Rank_Save,12.0,0.06773475463969054
-33,2,Brooks Nader,Model,Eliminated Week 4,20.0,3,8.0,0.0775193798449612,4,False,,Rank_Save,8.0,0.07227467765889174
-33,2,Chandler Kinney,Actor/Actress,3rd Place,24.0,3,1.0,0.0930232558139534,10,False,3.0,Rank_Save,1.0,0.1008046489022564
-33,2,Danny Amendola,Athlete,5th Place,21.0,3,5.0,0.0813953488372093,10,False,5.0,Rank_Save,7.0,0.07383544130286926
-33,2,Dwight Howard ,Athlete,Eliminated Week 7,22.0,3,2.0,0.0852713178294573,7,False,,Rank_Save,4.0,0.08075156775659537
-33,2,Eric Roberts,Actor/Actress,Eliminated Week 3,15.0,3,12.0,0.0581395348837209,3,False,,Rank_Save,10.0,0.06973977812319056
-33,2,Ilona Maher,Athlete,2nd Place,21.0,3,5.0,0.0813953488372093,10,False,2.0,Rank_Save,6.0,0.07567917015940388
-33,2,Jenn Tran,TV Personality,Eliminated Week 6,19.0,3,9.0,0.0736434108527131,6,False,,Rank_Save,11.0,0.06868434036691526
-33,2,Joey Graziadei,TV Personality,1st Place,22.0,3,2.0,0.0852713178294573,10,False,1.0,Rank_Save,2.0,0.09022268803361139
-33,2,Phaedra Parks,TV Personality,Eliminated Week 5,21.0,3,5.0,0.0813953488372093,5,False,,Rank_Save,5.0,0.07791935710905118
-33,2,Reginald VelJohnson,Actor/Actress,Eliminated Week 3,15.0,3,12.0,0.0581395348837209,3,False,,Rank_Save,9.0,0.07092539445524546
-33,2,Stephen Nedoroscik,Athlete,4th Place,22.0,3,2.0,0.0852713178294573,10,False,4.0,Rank_Save,3.0,0.08455536343908092
-33,2,Tori Spelling,Actor/Actress,Eliminated Week 2,19.0,3,9.0,0.0736434108527131,2,True,,Rank_Save,13.0,0.06687281805319806
-33,3,Brooks Nader,Model,Eliminated Week 4,30.5,4,5.0,0.0959119496855346,4,False,,Rank_Save,5.0,0.09003933319767665
-33,3,Chandler Kinney,Actor/Actress,3rd Place,34.5,4,2.0,0.1084905660377358,10,False,3.0,Rank_Save,2.0,0.10425638726047351
-33,3,Danny Amendola,Athlete,5th Place,30.0,4,6.0,0.0943396226415094,10,False,5.0,Rank_Save,6.0,0.08745069609044172
-33,3,Dwight Howard ,Athlete,Eliminated Week 7,26.0,4,9.0,0.0817610062893081,7,False,,Rank_Save,9.0,0.08195749375338059
-33,3,Eric Roberts,Actor/Actress,Eliminated Week 3,23.0,4,10.0,0.0723270440251572,3,True,,Rank_Save,10.0,0.0805874605815579
-33,3,Ilona Maher,Athlete,2nd Place,28.0,4,7.0,0.0880503144654088,10,False,2.0,Rank_Save,8.0,0.08351665138068376
-33,3,Jenn Tran,TV Personality,Eliminated Week 6,31.0,4,3.0,0.0974842767295597,6,False,,Rank_Save,3.0,0.09770753795731309
-33,3,Joey Graziadei,TV Personality,1st Place,35.0,4,1.0,0.110062893081761,10,False,1.0,Rank_Save,1.0,0.1164843205480035
-33,3,Phaedra Parks,TV Personality,Eliminated Week 5,28.0,4,7.0,0.0880503144654088,5,False,,Rank_Save,7.0,0.08532018419970118
-33,3,Reginald VelJohnson,Actor/Actress,Eliminated Week 3,21.0,4,11.0,0.0660377358490566,3,True,,Rank_Save,11.0,0.07936785462826851
-33,3,Stephen Nedoroscik,Athlete,4th Place,31.0,4,3.0,0.0974842767295597,10,False,4.0,Rank_Save,4.0,0.09331208040249947
-33,4,Brooks Nader,Model,Eliminated Week 4,32.0,4,4.0,0.1088435374149659,4,True,,Rank_Save,8.0,0.09941929625034718
-33,4,Chandler Kinney,Actor/Actress,3rd Place,32.0,4,4.0,0.1088435374149659,10,False,3.0,Rank_Save,7.0,0.10156624492066452
-33,4,Danny Amendola,Athlete,5th Place,36.0,4,1.0,0.1224489795918367,10,False,5.0,Rank_Save,2.0,0.12410814465960783
-33,4,Dwight Howard ,Athlete,Eliminated Week 7,29.0,4,9.0,0.0986394557823129,7,False,,Rank_Save,9.0,0.09756325495214811
-33,4,Ilona Maher,Athlete,2nd Place,32.0,4,4.0,0.1088435374149659,10,False,2.0,Rank_Save,6.0,0.10410243368456663
-33,4,Jenn Tran,TV Personality,Eliminated Week 6,32.0,4,4.0,0.1088435374149659,6,False,,Rank_Save,5.0,0.10718398059999236
-33,4,Joey Graziadei,TV Personality,1st Place,36.0,4,1.0,0.1224489795918367,10,False,1.0,Rank_Save,1.0,0.13866443375818632
-33,4,Phaedra Parks,TV Personality,Eliminated Week 5,32.0,4,4.0,0.1088435374149659,5,False,,Rank_Save,4.0,0.11107990097670457
-33,4,Stephen Nedoroscik,Athlete,4th Place,33.0,4,3.0,0.1122448979591836,10,False,4.0,Rank_Save,3.0,0.11631231019778253
-33,5,Chandler Kinney,Actor/Actress,3rd Place,27.0,3,1.0,0.1336633663366336,10,False,3.0,Rank_Save,1.0,0.15365557145042183
-33,5,Danny Amendola,Athlete,5th Place,25.5,3,4.0,0.1262376237623762,10,False,5.0,Rank_Save,5.0,0.11877173795079556
-33,5,Dwight Howard ,Athlete,Eliminated Week 7,24.0,3,6.0,0.1188118811881188,7,False,,Rank_Save,8.0,0.11016760653410167
-33,5,Ilona Maher,Athlete,2nd Place,26.0,3,2.0,0.1287128712871287,10,False,2.0,Rank_Save,2.0,0.1375255887358919
-33,5,Jenn Tran,TV Personality,Eliminated Week 6,25.5,3,4.0,0.1262376237623762,6,False,,Rank_Save,4.0,0.12308884981275285
-33,5,Joey Graziadei,TV Personality,1st Place,26.0,3,2.0,0.1287128712871287,10,False,1.0,Rank_Save,3.0,0.12888693954013922
-33,5,Phaedra Parks,TV Personality,Eliminated Week 5,24.0,3,6.0,0.1188118811881188,5,True,,Rank_Save,7.0,0.11254666377229458
-33,5,Stephen Nedoroscik,Athlete,4th Place,24.0,3,6.0,0.1188118811881188,10,False,4.0,Rank_Save,6.0,0.1153570422036024
-33,6,Chandler Kinney,Actor/Actress,3rd Place,32.0,3,1.0,0.1553398058252427,10,False,3.0,Rank_Save,2.0,0.15455223898989515
-33,6,Danny Amendola,Athlete,5th Place,28.0,3,5.0,0.1359223300970873,10,False,5.0,Rank_Save,4.0,0.13832812866400787
-33,6,Dwight Howard ,Athlete,Eliminated Week 7,31.0,3,3.0,0.1504854368932038,7,False,,Rank_Save,5.0,0.13347652751568131
-33,6,Ilona Maher,Athlete,2nd Place,24.0,3,7.0,0.116504854368932,10,False,2.0,Rank_Save,7.0,0.12648074468712606
-33,6,Jenn Tran,TV Personality,Eliminated Week 6,31.0,3,3.0,0.1504854368932038,6,True,,Rank_Save,6.0,0.1296390680432374
-33,6,Joey Graziadei,TV Personality,1st Place,32.0,3,1.0,0.1553398058252427,10,False,1.0,Rank_Save,1.0,0.17267922878367373
-33,6,Stephen Nedoroscik,Athlete,4th Place,28.0,3,5.0,0.1359223300970873,10,False,4.0,Rank_Save,3.0,0.14484406331637853
-33,7,Chandler Kinney,Actor/Actress,3rd Place,30.0,3,1.0,0.1875,10,False,3.0,Rank_Save,1.0,0.19768222364122254
-33,7,Danny Amendola,Athlete,5th Place,25.5,3,5.0,0.159375,10,False,5.0,Rank_Save,5.0,0.15280318860043124
-33,7,Dwight Howard ,Athlete,Eliminated Week 7,24.0,3,6.0,0.15,7,True,,Rank_Save,6.0,0.14841008627429028
-33,7,Ilona Maher,Athlete,2nd Place,26.0,3,4.0,0.1625,10,False,2.0,Rank_Save,4.0,0.15835727469391844
-33,7,Joey Graziadei,TV Personality,1st Place,27.5,3,2.0,0.171875,10,False,1.0,Rank_Save,2.0,0.1769305462356845
-33,7,Stephen Nedoroscik,Athlete,4th Place,27.0,3,3.0,0.16875,10,False,4.0,Rank_Save,3.0,0.16581668055445303
-33,8,Chandler Kinney,Actor/Actress,3rd Place,29.0,3,1.0,0.2071428571428571,10,False,3,Rank_Save,2.0,0.20776496220065896
-33,8,Danny Amendola,Athlete,5th Place,27.0,3,4.0,0.1928571428571428,10,False,5,Rank_Save,4.0,0.18595485002999232
-33,8,Ilona Maher,Athlete,2nd Place,28.5,3,3.0,0.2035714285714285,10,False,2,Rank_Save,3.0,0.19471423731289197
-33,8,Joey Graziadei,TV Personality,1st Place,29.0,3,1.0,0.2071428571428571,10,False,1,Rank_Save,1.0,0.23213312000885722
-33,8,Stephen Nedoroscik,Athlete,4th Place,26.5,3,5.0,0.1892857142857142,10,False,4,Rank_Save,5.0,0.1794328304475996
-33,9,Chandler Kinney,Actor/Actress,3rd Place,30.0,3,1.0,0.2061855670103092,10,False,3,Rank_Save,4.0,0.18595485002999232
-33,9,Danny Amendola,Athlete,5th Place,28.0,3,5.0,0.1924398625429553,10,False,5,Rank_Save,5.0,0.1794328304475996
-33,9,Ilona Maher,Athlete,2nd Place,28.5,3,4.0,0.1958762886597938,10,False,2,Rank_Save,1.0,0.23213312000885722
-33,9,Joey Graziadei,TV Personality,1st Place,29.5,3,2.0,0.2027491408934708,10,False,1,Rank_Save,2.0,0.20776496220065896
-33,9,Stephen Nedoroscik,Athlete,4th Place,29.5,3,2.0,0.2027491408934708,10,False,4,Rank_Save,3.0,0.19471423731289197
-34,1,Alix Earle,Social media personality,2nd Place,13.0,2,4.0,0.0792682926829268,12,False,2.0,Rank_Save,4.0,0.07574593043223633
-34,1,Andy Richter,Comedian,Eliminated Week 9,9.0,2,13.0,0.0548780487804878,9,False,,Rank_Save,13.0,0.06272749823673147
-34,1,Baron Davis,Athlete,Eliminated Week 2,10.0,2,9.0,0.0609756097560975,2,False,,Rank_Save,11.0,0.06442672770017503
-34,1,Corey Feldman,Actor/Actress,Eliminated Week 2,9.0,2,13.0,0.0548780487804878,2,False,,Rank_Save,14.0,0.06198811321468384
-34,1,Danielle Fishel,Actor/Actress,Eliminated Week 8,12.0,2,6.0,0.073170731707317,8,False,,Rank_Save,6.0,0.07098796119156943
-34,1,Dylan Efron,TV Personality,4th Place,10.0,2,9.0,0.0609756097560975,12,False,4.0,Rank_Save,12.0,0.06353600500051658
-34,1,Elaine Hendrix,Actor/Actress,5th Place,12.0,2,6.0,0.073170731707317,12,False,5.0,Rank_Save,8.0,0.06779450675761758
-34,1,Hilaria Baldwin,Entrepreneur,Eliminated Week 4,14.0,2,3.0,0.0853658536585365,4,False,,Rank_Save,3.0,0.07931393599731043
-34,1,Jen Affleck,TV Personality,Eliminated Week 7,12.0,2,6.0,0.073170731707317,7,False,,Rank_Save,7.0,0.06925852160813087
-34,1,Jordan Chiles,Athlete,3rd Place,10.0,2,9.0,0.0609756097560975,12,False,3.0,Rank_Save,10.0,0.06541674086132329
-34,1,Lauren Jauregui,Singer/Rapper,Eliminated Week 3,13.0,2,4.0,0.0792682926829268,3,False,,Rank_Save,5.0,0.07308928317895994
-34,1,Robert Irwin,Conservationist,1st Place,15.0,2,1.0,0.0914634146341463,12,False,1.0,Rank_Save,2.0,0.08462995383325078
-34,1,Scott Hoying,Singer/Rapper,Eliminated Week 6,10.0,2,9.0,0.0609756097560975,6,False,,Rank_Save,9.0,0.0665288630739576
-34,1,Whitney Leavitt,TV Personality,Eliminated Week 10,15.0,2,1.0,0.0914634146341463,10,False,,Rank_Save,1.0,0.09455595891353688
-34,2,Alix Earle,Social media personality,2nd Place,21.0,3,5.0,0.0755395683453237,12,False,2.0,Rank_Save,7.0,0.06925852160813087
-34,2,Andy Richter,Comedian,Eliminated Week 9,16.0,3,13.0,0.0575539568345323,9,False,,Rank_Save,11.0,0.06442672770017503
-34,2,Baron Davis,Athlete,Eliminated Week 2,18.0,3,11.0,0.0647482014388489,2,True,,Rank_Save,13.0,0.06272749823673147
-34,2,Corey Feldman,Actor/Actress,Eliminated Week 2,15.0,3,14.0,0.0539568345323741,2,True,,Rank_Save,14.0,0.06198811321468384
-34,2,Danielle Fishel,Actor/Actress,Eliminated Week 8,19.0,3,10.0,0.0683453237410072,8,False,,Rank_Save,10.0,0.06541674086132329
-34,2,Dylan Efron,TV Personality,4th Place,20.0,3,9.0,0.0719424460431654,12,False,4.0,Rank_Save,9.0,0.0665288630739576
-34,2,Elaine Hendrix,Actor/Actress,5th Place,21.0,3,5.0,0.0755395683453237,12,False,5.0,Rank_Save,5.0,0.07308928317895994
-34,2,Hilaria Baldwin,Entrepreneur,Eliminated Week 4,21.0,3,5.0,0.0755395683453237,4,False,,Rank_Save,6.0,0.07098796119156943
-34,2,Jen Affleck,TV Personality,Eliminated Week 7,22.0,3,1.0,0.079136690647482,7,False,,Rank_Save,4.0,0.07574593043223633
-34,2,Jordan Chiles,Athlete,3rd Place,22.0,3,1.0,0.079136690647482,12,False,3.0,Rank_Save,1.0,0.09455595891353688
-34,2,Lauren Jauregui,Singer/Rapper,Eliminated Week 3,21.0,3,5.0,0.0755395683453237,3,False,,Rank_Save,8.0,0.06779450675761758
-34,2,Robert Irwin,Conservationist,1st Place,22.0,3,1.0,0.079136690647482,12,False,1.0,Rank_Save,3.0,0.07931393599731043
-34,2,Scott Hoying,Singer/Rapper,Eliminated Week 6,18.0,3,11.0,0.0647482014388489,6,False,,Rank_Save,12.0,0.06353600500051658
-34,2,Whitney Leavitt,TV Personality,Eliminated Week 10,22.0,3,1.0,0.079136690647482,10,False,,Rank_Save,2.0,0.08462995383325078
-34,3,Alix Earle,Social media personality,2nd Place,23.0,3,3.0,0.0894941634241245,12,False,2.0,Rank_Save,4.0,0.08653865123521721
-34,3,Andy Richter,Comedian,Eliminated Week 9,18.0,3,11.0,0.0700389105058365,9,False,,Rank_Save,12.0,0.07258898459947782
-34,3,Danielle Fishel,Actor/Actress,Eliminated Week 8,21.0,3,8.0,0.0817120622568093,8,False,,Rank_Save,9.0,0.07600828250150465
-34,3,Dylan Efron,TV Personality,4th Place,23.0,3,3.0,0.0894941634241245,12,False,4.0,Rank_Save,3.0,0.0906150469892768
-34,3,Elaine Hendrix,Actor/Actress,5th Place,21.0,3,8.0,0.0817120622568093,12,False,5.0,Rank_Save,8.0,0.07745426245981135
-34,3,Hilaria Baldwin,Entrepreneur,Eliminated Week 4,22.0,3,5.0,0.0856031128404669,4,False,,Rank_Save,7.0,0.07912687866280446
-34,3,Jen Affleck,TV Personality,Eliminated Week 7,19.0,3,10.0,0.0739299610894941,7,False,,Rank_Save,10.0,0.07473769864649217
-34,3,Jordan Chiles,Athlete,3rd Place,24.0,3,1.0,0.0933852140077821,12,False,3.0,Rank_Save,2.0,0.09668852197122581
-34,3,Lauren Jauregui,Singer/Rapper,Eliminated Week 3,18.0,3,11.0,0.0700389105058365,3,True,,Rank_Save,11.0,0.07360662265096354
-34,3,Robert Irwin,Conservationist,1st Place,22.0,3,5.0,0.0856031128404669,12,False,1.0,Rank_Save,6.0,0.08110273885871903
-34,3,Scott Hoying,Singer/Rapper,Eliminated Week 6,22.0,3,5.0,0.0856031128404669,6,False,,Rank_Save,5.0,0.08350346942684325
-34,3,Whitney Leavitt,TV Personality,Eliminated Week 10,24.0,3,1.0,0.0933852140077821,10,False,,Rank_Save,1.0,0.10802884199766385
-34,4,Alix Earle,Social media personality,2nd Place,24.0,3,2.0,0.0967741935483871,12,False,2.0,Rank_Save,2.0,0.10425638726047352
-34,4,Andy Richter,Comedian,Eliminated Week 9,18.0,3,11.0,0.0725806451612903,9,False,,Rank_Save,10.0,0.08058746058155791
-34,4,Danielle Fishel,Actor/Actress,Eliminated Week 8,21.0,3,9.0,0.0846774193548387,8,False,,Rank_Save,7.0,0.0853201841997012
-34,4,Dylan Efron,TV Personality,4th Place,23.0,3,5.0,0.0927419354838709,12,False,4.0,Rank_Save,9.0,0.08195749375338061
-34,4,Elaine Hendrix,Actor/Actress,5th Place,24.0,3,2.0,0.0967741935483871,12,False,5.0,Rank_Save,4.0,0.0933120804024995
-34,4,Hilaria Baldwin,Entrepreneur,Eliminated Week 4,23.0,3,5.0,0.0927419354838709,4,True,,Rank_Save,11.0,0.07936785462826852
-34,4,Jen Affleck,TV Personality,Eliminated Week 7,23.0,3,5.0,0.0927419354838709,7,False,,Rank_Save,5.0,0.09003933319767667
-34,4,Jordan Chiles,Athlete,3rd Place,24.0,3,2.0,0.0967741935483871,12,False,3.0,Rank_Save,3.0,0.09770753795731311
-34,4,Robert Irwin,Conservationist,1st Place,22.0,3,8.0,0.0887096774193548,12,False,1.0,Rank_Save,8.0,0.08351665138068377
-34,4,Scott Hoying,Singer/Rapper,Eliminated Week 6,21.0,3,9.0,0.0846774193548387,6,False,,Rank_Save,6.0,0.08745069609044173
-34,4,Whitney Leavitt,TV Personality,Eliminated Week 10,25.0,3,1.0,0.1008064516129032,10,False,,Rank_Save,1.0,0.11648432054800353
-34,5,Alix Earle,Social media personality,2nd Place,35.0,4,2.0,0.1118210862619808,12,False,2.0,Rank_Save,2.0,0.11324434822811562
-34,5,Andy Richter,Comedian,Eliminated Week 9,24.0,4,10.0,0.0766773162939297,9,False,,Rank_Save,10.0,0.08753491933416949
-34,5,Danielle Fishel,Actor/Actress,Eliminated Week 8,29.0,4,8.0,0.0926517571884984,8,False,,Rank_Save,9.0,0.08902306329993281
-34,5,Dylan Efron,TV Personality,4th Place,36.0,4,1.0,0.1150159744408945,12,False,4.0,Rank_Save,1.0,0.1265264537346452
-34,5,Elaine Hendrix,Actor/Actress,5th Place,30.0,4,6.0,0.0958466453674121,12,False,5.0,Rank_Save,7.0,0.09267565186445964
-34,5,Jen Affleck,TV Personality,Eliminated Week 7,29.0,4,8.0,0.0926517571884984,7,False,,Rank_Save,8.0,0.09071663617281313
-34,5,Jordan Chiles,Athlete,3rd Place,32.0,4,5.0,0.1022364217252396,12,False,3.0,Rank_Save,5.0,0.09780163950425684
-34,5,Robert Irwin,Conservationist,1st Place,35.0,4,2.0,0.1118210862619808,12,False,1.0,Rank_Save,3.0,0.10613092150704873
-34,5,Scott Hoying,Singer/Rapper,Eliminated Week 6,30.0,4,6.0,0.0958466453674121,6,False,,Rank_Save,6.0,0.09498983554949737
-34,5,Whitney Leavitt,TV Personality,Eliminated Week 10,33.0,4,4.0,0.1054313099041533,10,False,,Rank_Save,4.0,0.1013565308050612
-34,6,Alix Earle,Social media personality,2nd Place,35.0,4,6.0,0.1029411764705882,12,False,2.0,Rank_Save,6.0,0.09498983554949737
-34,6,Andy Richter,Comedian,Eliminated Week 9,27.0,4,10.0,0.0794117647058823,9,False,,Rank_Save,10.0,0.08753491933416949
-34,6,Danielle Fishel,Actor/Actress,Eliminated Week 8,36.0,4,3.0,0.1058823529411764,8,False,,Rank_Save,4.0,0.1013565308050612
-34,6,Dylan Efron,TV Personality,4th Place,32.0,4,7.0,0.0941176470588235,12,False,4.0,Rank_Save,7.0,0.09267565186445964
-34,6,Elaine Hendrix,Actor/Actress,5th Place,36.0,4,3.0,0.1058823529411764,12,False,5.0,Rank_Save,3.0,0.10613092150704873
-34,6,Jen Affleck,TV Personality,Eliminated Week 7,32.0,4,7.0,0.0941176470588235,7,False,,Rank_Save,8.0,0.09071663617281313
-34,6,Jordan Chiles,Athlete,3rd Place,39.0,4,1.0,0.1147058823529411,12,False,3.0,Rank_Save,2.0,0.11324434822811562
-34,6,Robert Irwin,Conservationist,1st Place,36.0,4,3.0,0.1058823529411764,12,False,1.0,Rank_Save,5.0,0.09780163950425684
-34,6,Scott Hoying,Singer/Rapper,Eliminated Week 6,28.0,4,9.0,0.0823529411764705,6,True,,Rank_Save,9.0,0.08902306329993281
-34,6,Whitney Leavitt,TV Personality,Eliminated Week 10,39.0,4,1.0,0.1147058823529411,10,False,,Rank_Save,1.0,0.1265264537346452
-34,7,Alix Earle,Social media personality,2nd Place,43.0,4,1.0,0.1295180722891566,12,False,2.0,Rank_Save,1.0,0.13866443375818632
-34,7,Andy Richter,Comedian,Eliminated Week 9,29.0,4,9.0,0.0873493975903614,9,False,,Rank_Save,9.0,0.09756325495214811
-34,7,Danielle Fishel,Actor/Actress,Eliminated Week 8,35.0,4,6.0,0.1054216867469879,8,False,,Rank_Save,6.0,0.10410243368456663
-34,7,Dylan Efron,TV Personality,4th Place,38.0,4,4.0,0.1144578313253012,12,False,4.0,Rank_Save,4.0,0.11107990097670457
-34,7,Elaine Hendrix,Actor/Actress,5th Place,32.0,4,8.0,0.0963855421686747,12,False,5.0,Rank_Save,7.0,0.10156624492066452
-34,7,Jen Affleck,TV Personality,Eliminated Week 7,34.0,4,7.0,0.1024096385542168,7,True,,Rank_Save,8.0,0.09941929625034718
-34,7,Jordan Chiles,Athlete,3rd Place,38.0,4,4.0,0.1144578313253012,12,False,3.0,Rank_Save,5.0,0.10718398059999236
-34,7,Robert Irwin,Conservationist,1st Place,41.0,4,3.0,0.1234939759036144,12,False,1.0,Rank_Save,3.0,0.11631231019778253
-34,7,Whitney Leavitt,TV Personality,Eliminated Week 10,42.0,4,2.0,0.1265060240963855,10,False,,Rank_Save,2.0,0.12410814465960783
-34,8,Alix Earle,Social media personality,2nd Place,38.5,4,3.0,0.1276948590381426,12,False,2.0,Rank_Save,3.0,0.12888693954013922
-34,8,Andy Richter,Comedian,Eliminated Week 9,34.0,4,8.0,0.1127694859038142,9,False,,Rank_Save,8.0,0.11016760653410167
-34,8,Danielle Fishel,Actor/Actress,Eliminated Week 8,37.0,4,7.0,0.1227197346600331,8,True,,Rank_Save,7.0,0.11254666377229458
-34,8,Dylan Efron,TV Personality,4th Place,38.0,4,4.0,0.1260364842454394,12,False,4.0,Rank_Save,5.0,0.11877173795079556
-34,8,Elaine Hendrix,Actor/Actress,5th Place,37.5,4,6.0,0.1243781094527363,12,False,5.0,Rank_Save,6.0,0.1153570422036024
-34,8,Jordan Chiles,Athlete,3rd Place,39.0,4,2.0,0.1293532338308457,12,False,3.0,Rank_Save,2.0,0.1375255887358919
-34,8,Robert Irwin,Conservationist,1st Place,38.0,4,4.0,0.1260364842454394,12,False,1.0,Rank_Save,4.0,0.12308884981275285
-34,8,Whitney Leavitt,TV Personality,Eliminated Week 10,39.5,4,1.0,0.1310116086235489,10,False,,Rank_Save,1.0,0.15365557145042183
-34,9,Alix Earle,Social media personality,2nd Place,40.0,4,4.0,0.1481481481481481,12,False,2.0,Rank_Save,4.0,0.13832812866400787
-34,9,Andy Richter,Comedian,Eliminated Week 9,29.0,4,7.0,0.1074074074074074,9,True,,Rank_Save,7.0,0.12648074468712606
-34,9,Dylan Efron,TV Personality,4th Place,42.0,4,1.0,0.1555555555555555,12,False,4.0,Rank_Save,3.0,0.14484406331637853
-34,9,Elaine Hendrix,Actor/Actress,5th Place,36.0,4,6.0,0.1333333333333333,12,False,5.0,Rank_Save,6.0,0.1296390680432374
-34,9,Jordan Chiles,Athlete,3rd Place,39.0,4,5.0,0.1444444444444444,12,False,3.0,Rank_Save,5.0,0.13347652751568131
-34,9,Robert Irwin,Conservationist,1st Place,42.0,4,1.0,0.1555555555555555,12,False,1.0,Rank_Save,2.0,0.15455223898989515
-34,9,Whitney Leavitt,TV Personality,Eliminated Week 10,42.0,4,1.0,0.1555555555555555,10,False,,Rank_Save,1.0,0.17267922878367373
-34,10,Alix Earle,Social media personality,2nd Place,29.0,3,2.0,0.1686046511627907,12,False,2.0,Rank_Save,4.0,0.15835727469391844
-34,10,Dylan Efron,TV Personality,4th Place,27.5,3,6.0,0.1598837209302325,12,False,4.0,Rank_Save,6.0,0.14841008627429028
-34,10,Elaine Hendrix,Actor/Actress,5th Place,28.5,3,4.0,0.1656976744186046,12,False,5.0,Rank_Save,3.0,0.16581668055445303
-34,10,Jordan Chiles,Athlete,3rd Place,28.5,3,4.0,0.1656976744186046,12,False,3.0,Rank_Save,2.0,0.1769305462356845
-34,10,Robert Irwin,Conservationist,1st Place,29.5,3,1.0,0.1715116279069767,12,False,1.0,Rank_Save,1.0,0.19768222364122254
-34,10,Whitney Leavitt,TV Personality,Eliminated Week 10,29.0,3,2.0,0.1686046511627907,10,True,,Rank_Save,5.0,0.15280318860043124
-34,11,Alix Earle,Social media personality,2nd Place,30.0,3,1.0,0.2031609129238783,12,False,2,Rank_Save,2.0,0.20776496220065896
-34,11,Dylan Efron,TV Personality,4th Place,29.3332,3,4.0,0.1986453230326235,12,False,4,Rank_Save,4.0,0.18595485002999232
-34,11,Elaine Hendrix,Actor/Actress,5th Place,28.9998,3,5.0,0.1963875280869962,12,False,5,Rank_Save,5.0,0.1794328304475996
-34,11,Jordan Chiles,Athlete,3rd Place,29.666600000000003,3,2.0,0.2009031179782509,12,False,3,Rank_Save,3.0,0.19471423731289197
-34,11,Robert Irwin,Conservationist,1st Place,29.666600000000003,3,2.0,0.2009031179782509,12,False,1,Rank_Save,1.0,0.23213312000885722
+31,5,Shangela,TV Personality,4th Place,38.5,4,6.0,0.0858416945373467,11,False,4,Rank_Save,5.0,0.09050907622804395
+31,5,Trevor Donovan,Actor/Actress,Eliminated Week 9,36.0,4,7.0,0.0802675585284281,9,False,,Rank_Save,6.0,0.08887385278108945
+31,5,Vinny Guadagnino,TV Personality,Eliminated Week 8,31.0,4,12.0,0.0691192865105908,8,False,,Rank_Save,11.0,0.08364690266686534
+31,5,Wayne Brady,Comedian,3rd Place,41.0,4,2.0,0.0914158305462653,11,False,3,Rank_Save,3.0,0.095252636924129
+31,6,Charli D'Amelio,Social Media Personality,1st Place,40.0,4,1.0,0.1159420289855072,11,False,1.0,Rank_Save,1.0,0.11601824206003447
+31,6,Daniel Durant,Actor/Actress,Eliminated Week 9,34.0,4,5.0,0.0985507246376811,9,False,,Rank_Save,8.0,0.09423609513430078
+31,6,Gabby Windey,TV Personality,2nd Place,37.0,4,2.0,0.1072463768115942,11,False,2.0,Rank_Save,2.0,0.10824884746211541
+31,6,Heidi D'Amelio,Social Media Personality,Eliminated Week 8,36.0,4,3.0,0.1043478260869565,8,False,,Rank_Save,4.0,0.10099974597798908
+31,6,Jessie James Decker,Singer/Rapper,Eliminated Week 6,32.0,4,9.0,0.0927536231884058,6,True,,Rank_Save,9.0,0.09313266482394854
+31,6,Jordin Sparks,Singer/Rapper,Eliminated Week 7,34.0,4,5.0,0.0985507246376811,7,False,,Rank_Save,5.0,0.09877096120638737
+31,6,Shangela,TV Personality,4th Place,36.0,4,3.0,0.1043478260869565,11,False,4.0,Rank_Save,3.0,0.10394752546954122
+31,6,Trevor Donovan,Actor/Actress,Eliminated Week 9,34.0,4,5.0,0.0985507246376811,9,False,,Rank_Save,7.0,0.09550288180262712
+31,6,Vinny Guadagnino,TV Personality,Eliminated Week 8,28.0,4,10.0,0.081159420289855,8,False,,Rank_Save,10.0,0.09215656541136157
+31,6,Wayne Brady,Comedian,3rd Place,34.0,4,5.0,0.0985507246376811,11,False,3.0,Rank_Save,6.0,0.09698647065169454
+31,7,Charli D'Amelio,Social Media Personality,1st Place,39.0,4,1.0,0.1198156682027649,11,False,1.0,Rank_Save,2.0,0.11923735232073916
+31,7,Daniel Durant,Actor/Actress,Eliminated Week 9,36.5,4,4.0,0.1121351766513056,9,False,,Rank_Save,5.0,0.10879735144104712
+31,7,Gabby Windey,TV Personality,2nd Place,35.5,4,6.0,0.1090629800307219,11,False,2.0,Rank_Save,6.0,0.10683171454077979
+31,7,Heidi D'Amelio,Social Media Personality,Eliminated Week 8,35.0,4,7.0,0.1075268817204301,8,False,,Rank_Save,7.0,0.1051975243351309
+31,7,Jordin Sparks,Singer/Rapper,Eliminated Week 7,34.5,4,8.0,0.1059907834101382,7,True,,Rank_Save,8.0,0.10380214422875789
+31,7,Shangela,TV Personality,4th Place,36.5,4,4.0,0.1121351766513056,11,False,4.0,Rank_Save,4.0,0.11125238353874754
+31,7,Trevor Donovan,Actor/Actress,Eliminated Week 9,39.0,4,1.0,0.1198156682027649,9,False,,Rank_Save,1.0,0.1277954299604585
+31,7,Vinny Guadagnino,TV Personality,Eliminated Week 8,31.5,4,9.0,0.0967741935483871,8,False,,Rank_Save,9.0,0.10258670303227864
+31,7,Wayne Brady,Comedian,3rd Place,38.0,4,3.0,0.1167434715821812,11,False,3.0,Rank_Save,3.0,0.11449939660206042
+31,8,Charli D'Amelio,Social Media Personality,1st Place,45.0,4,1.0,0.143312101910828,11,False,1.0,Rank_Save,2.0,0.13286782436100672
+31,8,Daniel Durant,Actor/Actress,Eliminated Week 9,39.0,4,5.0,0.1242038216560509,9,False,,Rank_Save,6.0,0.11904405127688049
+31,8,Gabby Windey,TV Personality,2nd Place,40.0,4,4.0,0.1273885350318471,11,False,2.0,Rank_Save,4.0,0.1239700636425372
+31,8,Heidi D'Amelio,Social Media Personality,Eliminated Week 8,35.0,4,7.0,0.1114649681528662,8,True,,Rank_Save,7.0,0.11722305061735085
+31,8,Shangela,TV Personality,4th Place,42.0,4,3.0,0.1337579617834395,11,False,4.0,Rank_Save,3.0,0.12758825503137025
+31,8,Trevor Donovan,Actor/Actress,Eliminated Week 9,39.0,4,5.0,0.1242038216560509,9,False,,Rank_Save,5.0,0.12123438755438945
+31,8,Vinny Guadagnino,TV Personality,Eliminated Week 8,29.0,4,8.0,0.0923566878980891,8,True,,Rank_Save,8.0,0.11566815934140488
+31,8,Wayne Brady,Comedian,3rd Place,45.0,4,1.0,0.143312101910828,11,False,3.0,Rank_Save,1.0,0.14240420817506022
+31,9,Charli D'Amelio,Social Media Personality,1st Place,40.0,4,1.0,0.1818181818181818,11,False,1.0,Rank_Save,1.0,0.18563756539330456
+31,9,Daniel Durant,Actor/Actress,Eliminated Week 9,34.5,4,5.0,0.1568181818181818,9,True,,Rank_Save,5.0,0.158040670538883
+31,9,Gabby Windey,TV Personality,2nd Place,40.0,4,1.0,0.1818181818181818,11,False,2.0,Rank_Save,2.0,0.17320597298052465
+31,9,Shangela,TV Personality,4th Place,36.5,4,3.0,0.1659090909090909,11,False,4.0,Rank_Save,4.0,0.16160688712206236
+31,9,Trevor Donovan,Actor/Actress,Eliminated Week 9,32.5,4,6.0,0.1477272727272727,9,True,,Rank_Save,6.0,0.15518535678685155
+31,9,Wayne Brady,Comedian,3rd Place,36.5,4,3.0,0.1659090909090909,11,False,3.0,Rank_Save,3.0,0.16632354717837394
+31,10,Charli D'Amelio,Social Media Personality,1st Place,40.0,4,1.0,0.2564102564102564,11,False,1,Rank_Save,1.0,0.270303728416557
+31,10,Gabby Windey,TV Personality,2nd Place,40.0,4,1.0,0.2564102564102564,11,False,2,Rank_Save,2.0,0.25220229634805286
+31,10,Shangela,TV Personality,4th Place,38.0,4,3.0,0.2435897435897435,11,False,4,Rank_Save,4.0,0.2353130630340762
+31,10,Wayne Brady,Comedian,3rd Place,38.0,4,3.0,0.2435897435897435,11,False,3,Rank_Save,3.0,0.24218091220131405
+32,1,Adrian Peterson,Athlete,Eliminated Week 4,18.0,3,5.0,0.0779220779220779,4,False,,Rank_Save,5.0,0.07259093479042136
+32,1,Alyson Hannigan,Actor/Actress,5th Place,13.0,3,11.0,0.0562770562770562,12,False,5.0,Rank_Save,11.0,0.06708727024914383
+32,1,Ariana Madix,TV Personality,3rd Place,21.0,3,2.0,0.0909090909090909,12,False,3.0,Rank_Save,3.0,0.0763954096510014
+32,1,Barry Williams,Actor/Actress,Eliminated Week 8,16.0,3,8.0,0.0692640692640692,8,False,,Rank_Save,8.0,0.06925807092738503
+32,1,Charity Lawson,TV Personality,4th Place,22.0,3,1.0,0.0952380952380952,12,False,4.0,Rank_Save,1.0,0.08526668710129605
+32,1,Harry Jowsey,TV Personality,Eliminated Week 9,12.0,3,12.0,0.0519480519480519,9,False,,Rank_Save,12.0,0.06650606690491742
+32,1,Jamie Lynn Spears,Actor/Actress,Eliminated Week 2,15.0,3,9.0,0.0649350649350649,2,False,,Rank_Save,9.0,0.0684471135698153
+32,1,Jason Mraz,Singer/Rapper,2nd Place,21.0,3,2.0,0.0909090909090909,12,False,2.0,Rank_Save,2.0,0.07955663214455516
+32,1,Lele Pons,Social Media Personality,Eliminated Week 7,19.0,3,4.0,0.0822510822510822,7,False,,Rank_Save,4.0,0.07422896248642764
+32,1,Matt Walsh,Comedian,Eliminated Week 1,12.0,3,12.0,0.0519480519480519,1,True,,Rank_Save,14.0,0.0654887326458968
+32,1,Mauricio Umansky,TV Personality,Eliminated Week 6,15.0,3,9.0,0.0649350649350649,6,False,,Rank_Save,10.0,0.06772973704596015
+32,1,Mira Sorvino,Actor/Actress,Eliminated Week 5,17.0,3,7.0,0.0735930735930736,5,False,,Rank_Save,7.0,0.0701890857450064
+32,1,Tyson Beckford,Model,Eliminated Week 3,12.0,3,12.0,0.0519480519480519,3,False,,Rank_Save,13.0,0.06597585913181991
+32,1,Xochitl Gomez,Actor/Actress,1st Place,18.0,3,5.0,0.0779220779220779,12,False,1.0,Rank_Save,6.0,0.07127943760635372
+32,2,Adrian Peterson,Athlete,Eliminated Week 4,15.0,3,10.0,0.0630252100840336,4,False,,Rank_Save,11.0,0.07178861571042272
+32,2,Alyson Hannigan,Actor/Actress,5th Place,19.0,3,6.0,0.0798319327731092,12,False,5.0,Rank_Save,6.0,0.0762745620051948
+32,2,Ariana Madix,TV Personality,3rd Place,20.0,3,5.0,0.0840336134453781,12,False,3.0,Rank_Save,5.0,0.07767796636197788
+32,2,Barry Williams,Actor/Actress,Eliminated Week 8,15.0,3,10.0,0.0630252100840336,8,False,,Rank_Save,10.0,0.07247610533121172
+32,2,Charity Lawson,TV Personality,4th Place,21.0,3,3.0,0.088235294117647,12,False,4.0,Rank_Save,4.0,0.07943078385410299
+32,2,Harry Jowsey,TV Personality,Eliminated Week 9,15.0,3,10.0,0.0630252100840336,9,False,,Rank_Save,9.0,0.07324375420706344
+32,2,Jamie Lynn Spears,Actor/Actress,Eliminated Week 2,16.0,3,9.0,0.0672268907563025,2,True,,Rank_Save,12.0,0.0711666827658666
+32,2,Jason Mraz,Singer/Rapper,2nd Place,24.0,3,1.0,0.1008403361344537,12,False,2.0,Rank_Save,1.0,0.09124201074933315
+32,2,Lele Pons,Social Media Personality,Eliminated Week 7,21.0,3,3.0,0.088235294117647,7,False,,Rank_Save,3.0,0.0817490514237468
+32,2,Mauricio Umansky,TV Personality,Eliminated Week 6,12.0,3,13.0,0.0504201680672268,6,False,,Rank_Save,13.0,0.07059931906291339
+32,2,Mira Sorvino,Actor/Actress,Eliminated Week 5,18.0,3,7.0,0.0756302521008403,5,False,,Rank_Save,8.0,0.07411154187950725
+32,2,Tyson Beckford,Model,Eliminated Week 3,18.0,3,7.0,0.0756302521008403,3,False,,Rank_Save,7.0,0.0751078004053754
+32,2,Xochitl Gomez,Actor/Actress,1st Place,24.0,3,1.0,0.1008403361344537,12,False,1.0,Rank_Save,2.0,0.08513180624328386
+32,3,Adrian Peterson,Athlete,Eliminated Week 4,22.0,4,11.0,0.0681114551083591,4,False,,Rank_Save,11.0,0.07724183679103874
+32,3,Alyson Hannigan,Actor/Actress,5th Place,24.0,4,8.0,0.0743034055727554,12,False,5.0,Rank_Save,8.0,0.07974121753900892
+32,3,Ariana Madix,TV Personality,3rd Place,34.0,4,1.0,0.1052631578947368,12,False,3.0,Rank_Save,2.0,0.09159860541252027
+32,3,Barry Williams,Actor/Actress,Eliminated Week 8,25.0,4,7.0,0.0773993808049535,8,False,,Rank_Save,7.0,0.08081315405283163
+32,3,Charity Lawson,TV Personality,4th Place,32.0,4,3.0,0.0990712074303405,12,False,4.0,Rank_Save,4.0,0.08546452082864339
+32,3,Harry Jowsey,TV Personality,Eliminated Week 9,24.0,4,8.0,0.0743034055727554,9,False,,Rank_Save,9.0,0.07880751080708696
+32,3,Jason Mraz,Singer/Rapper,2nd Place,34.0,4,1.0,0.1052631578947368,12,False,2.0,Rank_Save,1.0,0.0981729544864725
+32,3,Lele Pons,Social Media Personality,Eliminated Week 7,27.0,4,5.0,0.0835913312693498,7,False,,Rank_Save,5.0,0.08357855546615
+32,3,Mauricio Umansky,TV Personality,Eliminated Week 6,23.0,4,10.0,0.0712074303405572,6,False,,Rank_Save,10.0,0.07798154963490693
+32,3,Mira Sorvino,Actor/Actress,Eliminated Week 5,26.0,4,6.0,0.0804953560371517,5,False,,Rank_Save,6.0,0.08206854542896337
+32,3,Tyson Beckford,Model,Eliminated Week 3,20.0,4,12.0,0.0619195046439628,3,True,,Rank_Save,12.0,0.07657266045266008
+32,3,Xochitl Gomez,Actor/Actress,1st Place,32.0,4,3.0,0.0990712074303405,12,False,1.0,Rank_Save,3.0,0.08795888909971715
+32,4,Adrian Peterson,Athlete,Eliminated Week 4,21.0,3,6.0,0.0875,4,True,,Rank_Save,11.0,0.08364690266686534
+32,4,Alyson Hannigan,Actor/Actress,5th Place,18.0,3,10.0,0.075,12,False,5.0,Rank_Save,7.0,0.08751436154407762
+32,4,Ariana Madix,TV Personality,3rd Place,25.0,3,2.0,0.1041666666666666,12,False,3.0,Rank_Save,2.0,0.09919416665465149
+32,4,Barry Williams,Actor/Actress,Eliminated Week 8,18.0,3,10.0,0.075,8,False,,Rank_Save,10.0,0.08444795415428479
+32,4,Charity Lawson,TV Personality,4th Place,24.0,3,3.0,0.1,12,False,4.0,Rank_Save,4.0,0.0925514300567901
+32,4,Harry Jowsey,TV Personality,Eliminated Week 9,21.0,3,6.0,0.0875,9,False,,Rank_Save,9.0,0.08534240587431392
+32,4,Jason Mraz,Singer/Rapper,2nd Place,24.0,3,3.0,0.1,12,False,2.0,Rank_Save,3.0,0.095252636924129
+32,4,Lele Pons,Social Media Personality,Eliminated Week 7,22.0,3,5.0,0.0916666666666666,7,False,,Rank_Save,5.0,0.09050907622804395
+32,4,Mauricio Umansky,TV Personality,Eliminated Week 6,19.0,3,9.0,0.0791666666666666,6,False,,Rank_Save,8.0,0.08635353765689646
+32,4,Mira Sorvino,Actor/Actress,Eliminated Week 5,21.0,3,6.0,0.0875,5,False,,Rank_Save,6.0,0.08887385278108945
+32,4,Xochitl Gomez,Actor/Actress,1st Place,27.0,3,1.0,0.1125,12,False,1.0,Rank_Save,1.0,0.10631367545885793
+32,5,Alyson Hannigan,Actor/Actress,5th Place,21.0,3,9.0,0.0875,12,False,5.0,Rank_Save,8.0,0.09423609513430077
+32,5,Ariana Madix,TV Personality,3rd Place,24.0,3,4.0,0.1,12,False,3.0,Rank_Save,5.0,0.09877096120638736
+32,5,Barry Williams,Actor/Actress,Eliminated Week 8,24.0,3,4.0,0.1,8,False,,Rank_Save,4.0,0.10099974597798907
+32,5,Charity Lawson,TV Personality,4th Place,28.0,3,1.0,0.1166666666666666,12,False,4.0,Rank_Save,1.0,0.11601824206003444
+32,5,Harry Jowsey,TV Personality,Eliminated Week 9,18.0,3,10.0,0.075,9,False,,Rank_Save,10.0,0.09215656541136155
+32,5,Jason Mraz,Singer/Rapper,2nd Place,27.0,3,3.0,0.1125,12,False,2.0,Rank_Save,3.0,0.10394752546954121
+32,5,Lele Pons,Social Media Personality,Eliminated Week 7,24.0,3,4.0,0.1,7,False,,Rank_Save,6.0,0.09698647065169451
+32,5,Mauricio Umansky,TV Personality,Eliminated Week 6,24.0,3,4.0,0.1,6,False,,Rank_Save,7.0,0.0955028818026271
+32,5,Mira Sorvino,Actor/Actress,Eliminated Week 5,22.0,3,8.0,0.0916666666666666,5,True,,Rank_Save,9.0,0.09313266482394852
+32,5,Xochitl Gomez,Actor/Actress,1st Place,28.0,3,1.0,0.1166666666666666,12,False,1.0,Rank_Save,2.0,0.10824884746211538
+32,6,Alyson Hannigan,Actor/Actress,5th Place,31.0,4,8.0,0.0962732919254658,12,False,5.0,Rank_Save,6.0,0.1068317145407798
+32,6,Ariana Madix,TV Personality,3rd Place,41.0,4,2.0,0.1273291925465838,12,False,3.0,Rank_Save,2.0,0.11923735232073916
+32,6,Barry Williams,Actor/Actress,Eliminated Week 8,32.0,4,7.0,0.0993788819875776,8,False,,Rank_Save,7.0,0.10519752433513091
+32,6,Charity Lawson,TV Personality,4th Place,38.0,4,4.0,0.1180124223602484,12,False,4.0,Rank_Save,4.0,0.11125238353874756
+32,6,Harry Jowsey,TV Personality,Eliminated Week 9,29.0,4,9.0,0.0900621118012422,9,False,,Rank_Save,9.0,0.10258670303227864
+32,6,Jason Mraz,Singer/Rapper,2nd Place,39.0,4,3.0,0.1211180124223602,12,False,2.0,Rank_Save,3.0,0.11449939660206043
+32,6,Lele Pons,Social Media Personality,Eliminated Week 7,37.0,4,5.0,0.1149068322981366,7,False,,Rank_Save,5.0,0.10879735144104712
+32,6,Mauricio Umansky,TV Personality,Eliminated Week 6,33.0,4,6.0,0.1024844720496894,6,True,,Rank_Save,8.0,0.10380214422875789
+32,6,Xochitl Gomez,Actor/Actress,1st Place,42.0,4,1.0,0.1304347826086956,12,False,1.0,Rank_Save,1.0,0.12779542996045853
+32,7,Alyson Hannigan,Actor/Actress,5th Place,35.0,4,6.0,0.1241134751773049,12,False,5.0,Rank_Save,4.0,0.1239700636425372
+32,7,Ariana Madix,TV Personality,3rd Place,37.0,4,1.0,0.1312056737588652,12,False,3.0,Rank_Save,2.0,0.13286782436100672
+32,7,Barry Williams,Actor/Actress,Eliminated Week 8,32.5,4,7.0,0.1152482269503546,8,False,,Rank_Save,3.0,0.12758825503137025
+32,7,Charity Lawson,TV Personality,4th Place,36.0,4,4.0,0.1276595744680851,12,False,4.0,Rank_Save,6.0,0.11904405127688049
+32,7,Harry Jowsey,TV Personality,Eliminated Week 9,32.0,4,8.0,0.1134751773049645,9,False,,Rank_Save,8.0,0.11566815934140488
+32,7,Jason Mraz,Singer/Rapper,2nd Place,36.0,4,4.0,0.1276595744680851,12,False,2.0,Rank_Save,5.0,0.12123438755438945
+32,7,Lele Pons,Social Media Personality,Eliminated Week 7,36.5,4,3.0,0.1294326241134751,7,True,,Rank_Save,7.0,0.11722305061735085
+32,7,Xochitl Gomez,Actor/Actress,1st Place,37.0,4,1.0,0.1312056737588652,12,False,1.0,Rank_Save,1.0,0.14240420817506022
+32,8,Alyson Hannigan,Actor/Actress,5th Place,36.0,4,4.0,0.1422924901185771,12,False,5.0,Rank_Save,4.0,0.14018500515622284
+32,8,Ariana Madix,TV Personality,3rd Place,42.0,4,1.0,0.1660079051383399,12,False,3.0,Rank_Save,1.0,0.16103028481820406
+32,8,Barry Williams,Actor/Actress,Eliminated Week 8,35.0,4,5.0,0.1383399209486166,8,True,,Rank_Save,6.0,0.13461468399489487
+32,8,Charity Lawson,TV Personality,4th Place,39.0,4,3.0,0.1541501976284585,12,False,4.0,Rank_Save,3.0,0.1442764459734374
+32,8,Harry Jowsey,TV Personality,Eliminated Week 9,28.0,4,7.0,0.1106719367588932,9,False,,Rank_Save,7.0,0.1325555014846581
+32,8,Jason Mraz,Singer/Rapper,2nd Place,33.0,4,6.0,0.1304347826086956,12,False,2.0,Rank_Save,5.0,0.13709151020062973
+32,8,Xochitl Gomez,Actor/Actress,1st Place,40.0,4,2.0,0.1581027667984189,12,False,1.0,Rank_Save,2.0,0.15024656837195308
+32,9,Alyson Hannigan,Actor/Actress,5th Place,32.0,4,5.0,0.1447963800904977,12,False,5.0,Rank_Save,5.0,0.158040670538883
+32,9,Ariana Madix,TV Personality,3rd Place,37.0,4,4.0,0.167420814479638,12,False,3.0,Rank_Save,4.0,0.16160688712206236
+32,9,Charity Lawson,TV Personality,4th Place,38.0,4,3.0,0.171945701357466,12,False,4.0,Rank_Save,3.0,0.16632354717837394
+32,9,Harry Jowsey,TV Personality,Eliminated Week 9,30.0,4,6.0,0.1357466063348416,9,True,,Rank_Save,6.0,0.15518535678685155
+32,9,Jason Mraz,Singer/Rapper,2nd Place,43.0,4,1.0,0.1945701357466063,12,False,2.0,Rank_Save,1.0,0.18563756539330456
+32,9,Xochitl Gomez,Actor/Actress,1st Place,41.0,4,2.0,0.1855203619909502,12,False,1.0,Rank_Save,2.0,0.17320597298052465
+32,10,Alyson Hannigan,Actor/Actress,5th Place,25.5,3,5.0,0.1789473684210526,12,False,5,Rank_Save,5.0,0.1870714147872659
+32,10,Ariana Madix,TV Personality,3rd Place,29.0,3,3.0,0.2035087719298245,12,False,3,Rank_Save,3.0,0.19687578632134356
+32,10,Charity Lawson,TV Personality,4th Place,29.5,3,2.0,0.2070175438596491,12,False,4,Rank_Save,2.0,0.20502245595762528
+32,10,Jason Mraz,Singer/Rapper,2nd Place,28.5,3,4.0,0.2,12,False,2,Rank_Save,4.0,0.19129271541436646
+32,10,Xochitl Gomez,Actor/Actress,1st Place,30.0,3,1.0,0.2105263157894736,12,False,1,Rank_Save,1.0,0.2197376275193987
+32,11,Alyson Hannigan,Actor/Actress,5th Place,26.5,3,5.0,0.1821305841924398,12,False,5,Rank_Save,5.0,0.18707141478726597
+32,11,Ariana Madix,TV Personality,3rd Place,29.5,3,3.0,0.2027491408934708,12,False,3,Rank_Save,3.0,0.1968757863213436
+32,11,Charity Lawson,TV Personality,4th Place,29.5,3,3.0,0.2027491408934708,12,False,4,Rank_Save,4.0,0.1912927154143665
+32,11,Jason Mraz,Singer/Rapper,2nd Place,30.0,3,1.0,0.2061855670103092,12,False,2,Rank_Save,2.0,0.2050224559576253
+32,11,Xochitl Gomez,Actor/Actress,1st Place,30.0,3,1.0,0.2061855670103092,12,False,1,Rank_Save,1.0,0.21973762751939874
+33,1,Anna Delvey,Con artist,Eliminated Week 2,18.0,3,8.0,0.0728744939271255,2,False,,Rank_Save,9.0,0.07324375420706343
+33,1,Brooks Nader,Model,Eliminated Week 4,18.0,3,8.0,0.0728744939271255,4,False,,Rank_Save,10.0,0.07247610533121171
+33,1,Chandler Kinney,Actor/Actress,3rd Place,23.0,3,1.0,0.0931174089068826,10,False,3.0,Rank_Save,1.0,0.09124201074933314
+33,1,Danny Amendola,Athlete,5th Place,20.0,3,5.0,0.0809716599190283,10,False,5.0,Rank_Save,5.0,0.07767796636197787
+33,1,Dwight Howard ,Athlete,Eliminated Week 7,22.0,3,2.0,0.0890688259109311,7,False,,Rank_Save,2.0,0.08513180624328384
+33,1,Eric Roberts,Actor/Actress,Eliminated Week 3,15.0,3,13.0,0.0607287449392712,3,False,,Rank_Save,13.0,0.07059931906291339
+33,1,Ilona Maher,Athlete,2nd Place,18.0,3,8.0,0.0728744939271255,10,False,2.0,Rank_Save,8.0,0.07411154187950723
+33,1,Jenn Tran,TV Personality,Eliminated Week 6,19.0,3,6.0,0.0769230769230769,6,False,,Rank_Save,7.0,0.07510780040537539
+33,1,Joey Graziadei,TV Personality,1st Place,21.0,3,3.0,0.0850202429149797,10,False,1.0,Rank_Save,4.0,0.07943078385410297
+33,1,Phaedra Parks,TV Personality,Eliminated Week 5,19.0,3,6.0,0.0769230769230769,5,False,,Rank_Save,6.0,0.07627456200519478
+33,1,Reginald VelJohnson,Actor/Actress,Eliminated Week 3,16.0,3,12.0,0.0647773279352226,3,False,,Rank_Save,12.0,0.07116668276586659
+33,1,Stephen Nedoroscik,Athlete,4th Place,21.0,3,3.0,0.0850202429149797,10,False,4.0,Rank_Save,3.0,0.08174905142374679
+33,1,Tori Spelling,Actor/Actress,Eliminated Week 2,17.0,3,11.0,0.068825910931174,2,False,,Rank_Save,11.0,0.0717886157104227
+33,2,Anna Delvey,Con artist,Eliminated Week 2,17.0,3,11.0,0.065891472868217,2,True,,Rank_Save,12.0,0.0711666827658666
+33,2,Brooks Nader,Model,Eliminated Week 4,20.0,3,8.0,0.0775193798449612,4,False,,Rank_Save,8.0,0.07411154187950725
+33,2,Chandler Kinney,Actor/Actress,3rd Place,24.0,3,1.0,0.0930232558139534,10,False,3.0,Rank_Save,1.0,0.09124201074933315
+33,2,Danny Amendola,Athlete,5th Place,21.0,3,5.0,0.0813953488372093,10,False,5.0,Rank_Save,7.0,0.0751078004053754
+33,2,Dwight Howard ,Athlete,Eliminated Week 7,22.0,3,2.0,0.0852713178294573,7,False,,Rank_Save,4.0,0.07943078385410299
+33,2,Eric Roberts,Actor/Actress,Eliminated Week 3,15.0,3,12.0,0.0581395348837209,3,False,,Rank_Save,10.0,0.07247610533121172
+33,2,Ilona Maher,Athlete,2nd Place,21.0,3,5.0,0.0813953488372093,10,False,2.0,Rank_Save,6.0,0.0762745620051948
+33,2,Jenn Tran,TV Personality,Eliminated Week 6,19.0,3,9.0,0.0736434108527131,6,False,,Rank_Save,11.0,0.07178861571042272
+33,2,Joey Graziadei,TV Personality,1st Place,22.0,3,2.0,0.0852713178294573,10,False,1.0,Rank_Save,2.0,0.08513180624328386
+33,2,Phaedra Parks,TV Personality,Eliminated Week 5,21.0,3,5.0,0.0813953488372093,5,False,,Rank_Save,5.0,0.07767796636197788
+33,2,Reginald VelJohnson,Actor/Actress,Eliminated Week 3,15.0,3,12.0,0.0581395348837209,3,False,,Rank_Save,9.0,0.07324375420706344
+33,2,Stephen Nedoroscik,Athlete,4th Place,22.0,3,2.0,0.0852713178294573,10,False,4.0,Rank_Save,3.0,0.0817490514237468
+33,2,Tori Spelling,Actor/Actress,Eliminated Week 2,19.0,3,9.0,0.0736434108527131,2,True,,Rank_Save,13.0,0.07059931906291339
+33,3,Brooks Nader,Model,Eliminated Week 4,30.5,4,5.0,0.0959119496855346,4,False,,Rank_Save,5.0,0.09050907622804395
+33,3,Chandler Kinney,Actor/Actress,3rd Place,34.5,4,2.0,0.1084905660377358,10,False,3.0,Rank_Save,2.0,0.09919416665465149
+33,3,Danny Amendola,Athlete,5th Place,30.0,4,6.0,0.0943396226415094,10,False,5.0,Rank_Save,6.0,0.08887385278108945
+33,3,Dwight Howard ,Athlete,Eliminated Week 7,26.0,4,9.0,0.0817610062893081,7,False,,Rank_Save,9.0,0.08534240587431392
+33,3,Eric Roberts,Actor/Actress,Eliminated Week 3,23.0,4,10.0,0.0723270440251572,3,True,,Rank_Save,10.0,0.08444795415428479
+33,3,Ilona Maher,Athlete,2nd Place,28.0,4,7.0,0.0880503144654088,10,False,2.0,Rank_Save,8.0,0.08635353765689646
+33,3,Jenn Tran,TV Personality,Eliminated Week 6,31.0,4,3.0,0.0974842767295597,6,False,,Rank_Save,3.0,0.095252636924129
+33,3,Joey Graziadei,TV Personality,1st Place,35.0,4,1.0,0.110062893081761,10,False,1.0,Rank_Save,1.0,0.10631367545885793
+33,3,Phaedra Parks,TV Personality,Eliminated Week 5,28.0,4,7.0,0.0880503144654088,5,False,,Rank_Save,7.0,0.08751436154407762
+33,3,Reginald VelJohnson,Actor/Actress,Eliminated Week 3,21.0,4,11.0,0.0660377358490566,3,True,,Rank_Save,11.0,0.08364690266686534
+33,3,Stephen Nedoroscik,Athlete,4th Place,31.0,4,3.0,0.0974842767295597,10,False,4.0,Rank_Save,4.0,0.0925514300567901
+33,4,Brooks Nader,Model,Eliminated Week 4,32.0,4,4.0,0.1088435374149659,4,True,,Rank_Save,8.0,0.10380214422875789
+33,4,Chandler Kinney,Actor/Actress,3rd Place,32.0,4,4.0,0.1088435374149659,10,False,3.0,Rank_Save,7.0,0.1051975243351309
+33,4,Danny Amendola,Athlete,5th Place,36.0,4,1.0,0.1224489795918367,10,False,5.0,Rank_Save,2.0,0.11923735232073916
+33,4,Dwight Howard ,Athlete,Eliminated Week 7,29.0,4,9.0,0.0986394557823129,7,False,,Rank_Save,9.0,0.10258670303227864
+33,4,Ilona Maher,Athlete,2nd Place,32.0,4,4.0,0.1088435374149659,10,False,2.0,Rank_Save,6.0,0.10683171454077979
+33,4,Jenn Tran,TV Personality,Eliminated Week 6,32.0,4,4.0,0.1088435374149659,6,False,,Rank_Save,5.0,0.10879735144104712
+33,4,Joey Graziadei,TV Personality,1st Place,36.0,4,1.0,0.1224489795918367,10,False,1.0,Rank_Save,1.0,0.1277954299604585
+33,4,Phaedra Parks,TV Personality,Eliminated Week 5,32.0,4,4.0,0.1088435374149659,5,False,,Rank_Save,4.0,0.11125238353874754
+33,4,Stephen Nedoroscik,Athlete,4th Place,33.0,4,3.0,0.1122448979591836,10,False,4.0,Rank_Save,3.0,0.11449939660206042
+33,5,Chandler Kinney,Actor/Actress,3rd Place,27.0,3,1.0,0.1336633663366336,10,False,3.0,Rank_Save,1.0,0.14240420817506022
+33,5,Danny Amendola,Athlete,5th Place,25.5,3,4.0,0.1262376237623762,10,False,5.0,Rank_Save,5.0,0.12123438755438945
+33,5,Dwight Howard ,Athlete,Eliminated Week 7,24.0,3,6.0,0.1188118811881188,7,False,,Rank_Save,8.0,0.11566815934140488
+33,5,Ilona Maher,Athlete,2nd Place,26.0,3,2.0,0.1287128712871287,10,False,2.0,Rank_Save,2.0,0.13286782436100672
+33,5,Jenn Tran,TV Personality,Eliminated Week 6,25.5,3,4.0,0.1262376237623762,6,False,,Rank_Save,4.0,0.1239700636425372
+33,5,Joey Graziadei,TV Personality,1st Place,26.0,3,2.0,0.1287128712871287,10,False,1.0,Rank_Save,3.0,0.12758825503137025
+33,5,Phaedra Parks,TV Personality,Eliminated Week 5,24.0,3,6.0,0.1188118811881188,5,True,,Rank_Save,7.0,0.11722305061735085
+33,5,Stephen Nedoroscik,Athlete,4th Place,24.0,3,6.0,0.1188118811881188,10,False,4.0,Rank_Save,6.0,0.11904405127688049
+33,6,Chandler Kinney,Actor/Actress,3rd Place,32.0,3,1.0,0.1553398058252427,10,False,3.0,Rank_Save,2.0,0.15024656837195305
+33,6,Danny Amendola,Athlete,5th Place,28.0,3,5.0,0.1359223300970873,10,False,5.0,Rank_Save,4.0,0.14018500515622284
+33,6,Dwight Howard ,Athlete,Eliminated Week 7,31.0,3,3.0,0.1504854368932038,7,False,,Rank_Save,5.0,0.1370915102006297
+33,6,Ilona Maher,Athlete,2nd Place,24.0,3,7.0,0.116504854368932,10,False,2.0,Rank_Save,7.0,0.13255550148465808
+33,6,Jenn Tran,TV Personality,Eliminated Week 6,31.0,3,3.0,0.1504854368932038,6,True,,Rank_Save,6.0,0.13461468399489485
+33,6,Joey Graziadei,TV Personality,1st Place,32.0,3,1.0,0.1553398058252427,10,False,1.0,Rank_Save,1.0,0.16103028481820406
+33,6,Stephen Nedoroscik,Athlete,4th Place,28.0,3,5.0,0.1359223300970873,10,False,4.0,Rank_Save,3.0,0.1442764459734374
+33,7,Chandler Kinney,Actor/Actress,3rd Place,30.0,3,1.0,0.1875,10,False,3.0,Rank_Save,1.0,0.18563756539330456
+33,7,Danny Amendola,Athlete,5th Place,25.5,3,5.0,0.159375,10,False,5.0,Rank_Save,5.0,0.158040670538883
+33,7,Dwight Howard ,Athlete,Eliminated Week 7,24.0,3,6.0,0.15,7,True,,Rank_Save,6.0,0.15518535678685155
+33,7,Ilona Maher,Athlete,2nd Place,26.0,3,4.0,0.1625,10,False,2.0,Rank_Save,4.0,0.16160688712206236
+33,7,Joey Graziadei,TV Personality,1st Place,27.5,3,2.0,0.171875,10,False,1.0,Rank_Save,2.0,0.17320597298052465
+33,7,Stephen Nedoroscik,Athlete,4th Place,27.0,3,3.0,0.16875,10,False,4.0,Rank_Save,3.0,0.16632354717837394
+33,8,Chandler Kinney,Actor/Actress,3rd Place,29.0,3,1.0,0.2071428571428571,10,False,3,Rank_Save,2.0,0.20502245595762528
+33,8,Danny Amendola,Athlete,5th Place,27.0,3,4.0,0.1928571428571428,10,False,5,Rank_Save,4.0,0.19129271541436646
+33,8,Ilona Maher,Athlete,2nd Place,28.5,3,3.0,0.2035714285714285,10,False,2,Rank_Save,3.0,0.19687578632134356
+33,8,Joey Graziadei,TV Personality,1st Place,29.0,3,1.0,0.2071428571428571,10,False,1,Rank_Save,1.0,0.2197376275193987
+33,8,Stephen Nedoroscik,Athlete,4th Place,26.5,3,5.0,0.1892857142857142,10,False,4,Rank_Save,5.0,0.1870714147872659
+33,9,Chandler Kinney,Actor/Actress,3rd Place,30.0,3,1.0,0.2061855670103092,10,False,3,Rank_Save,4.0,0.1912927154143665
+33,9,Danny Amendola,Athlete,5th Place,28.0,3,5.0,0.1924398625429553,10,False,5,Rank_Save,5.0,0.18707141478726597
+33,9,Ilona Maher,Athlete,2nd Place,28.5,3,4.0,0.1958762886597938,10,False,2,Rank_Save,1.0,0.21973762751939874
+33,9,Joey Graziadei,TV Personality,1st Place,29.5,3,2.0,0.2027491408934708,10,False,1,Rank_Save,2.0,0.2050224559576253
+33,9,Stephen Nedoroscik,Athlete,4th Place,29.5,3,2.0,0.2027491408934708,10,False,4,Rank_Save,3.0,0.1968757863213436
+34,1,Alix Earle,Social media personality,2nd Place,13.0,2,4.0,0.0792682926829268,12,False,2.0,Rank_Save,4.0,0.07422896248642763
+34,1,Andy Richter,Comedian,Eliminated Week 9,9.0,2,13.0,0.0548780487804878,9,False,,Rank_Save,13.0,0.0659758591318199
+34,1,Baron Davis,Athlete,Eliminated Week 2,10.0,2,9.0,0.0609756097560975,2,False,,Rank_Save,11.0,0.06708727024914382
+34,1,Corey Feldman,Actor/Actress,Eliminated Week 2,9.0,2,13.0,0.0548780487804878,2,False,,Rank_Save,14.0,0.0654887326458968
+34,1,Danielle Fishel,Actor/Actress,Eliminated Week 8,12.0,2,6.0,0.073170731707317,8,False,,Rank_Save,6.0,0.07127943760635372
+34,1,Dylan Efron,TV Personality,4th Place,10.0,2,9.0,0.0609756097560975,12,False,4.0,Rank_Save,12.0,0.06650606690491741
+34,1,Elaine Hendrix,Actor/Actress,5th Place,12.0,2,6.0,0.073170731707317,12,False,5.0,Rank_Save,8.0,0.06925807092738502
+34,1,Hilaria Baldwin,Entrepreneur,Eliminated Week 4,14.0,2,3.0,0.0853658536585365,4,False,,Rank_Save,3.0,0.07639540965100139
+34,1,Jen Affleck,TV Personality,Eliminated Week 7,12.0,2,6.0,0.073170731707317,7,False,,Rank_Save,7.0,0.07018908574500639
+34,1,Jordan Chiles,Athlete,3rd Place,10.0,2,9.0,0.0609756097560975,12,False,3.0,Rank_Save,10.0,0.06772973704596015
+34,1,Lauren Jauregui,Singer/Rapper,Eliminated Week 3,13.0,2,4.0,0.0792682926829268,3,False,,Rank_Save,5.0,0.07259093479042135
+34,1,Robert Irwin,Conservationist,1st Place,15.0,2,1.0,0.0914634146341463,12,False,1.0,Rank_Save,2.0,0.07955663214455515
+34,1,Scott Hoying,Singer/Rapper,Eliminated Week 6,10.0,2,9.0,0.0609756097560975,6,False,,Rank_Save,9.0,0.0684471135698153
+34,1,Whitney Leavitt,TV Personality,Eliminated Week 10,15.0,2,1.0,0.0914634146341463,10,False,,Rank_Save,1.0,0.08526668710129603
+34,2,Alix Earle,Social media personality,2nd Place,21.0,3,5.0,0.0755395683453237,12,False,2.0,Rank_Save,7.0,0.07018908574500637
+34,2,Andy Richter,Comedian,Eliminated Week 9,16.0,3,13.0,0.0575539568345323,9,False,,Rank_Save,11.0,0.06708727024914381
+34,2,Baron Davis,Athlete,Eliminated Week 2,18.0,3,11.0,0.0647482014388489,2,True,,Rank_Save,13.0,0.06597585913181989
+34,2,Corey Feldman,Actor/Actress,Eliminated Week 2,15.0,3,14.0,0.0539568345323741,2,True,,Rank_Save,14.0,0.06548873264589679
+34,2,Danielle Fishel,Actor/Actress,Eliminated Week 8,19.0,3,10.0,0.0683453237410072,8,False,,Rank_Save,10.0,0.06772973704596014
+34,2,Dylan Efron,TV Personality,4th Place,20.0,3,9.0,0.0719424460431654,12,False,4.0,Rank_Save,9.0,0.06844711356981528
+34,2,Elaine Hendrix,Actor/Actress,5th Place,21.0,3,5.0,0.0755395683453237,12,False,5.0,Rank_Save,5.0,0.07259093479042135
+34,2,Hilaria Baldwin,Entrepreneur,Eliminated Week 4,21.0,3,5.0,0.0755395683453237,4,False,,Rank_Save,6.0,0.0712794376063537
+34,2,Jen Affleck,TV Personality,Eliminated Week 7,22.0,3,1.0,0.079136690647482,7,False,,Rank_Save,4.0,0.07422896248642762
+34,2,Jordan Chiles,Athlete,3rd Place,22.0,3,1.0,0.079136690647482,12,False,3.0,Rank_Save,1.0,0.08526668710129602
+34,2,Lauren Jauregui,Singer/Rapper,Eliminated Week 3,21.0,3,5.0,0.0755395683453237,3,False,,Rank_Save,8.0,0.06925807092738501
+34,2,Robert Irwin,Conservationist,1st Place,22.0,3,1.0,0.079136690647482,12,False,1.0,Rank_Save,3.0,0.07639540965100138
+34,2,Scott Hoying,Singer/Rapper,Eliminated Week 6,18.0,3,11.0,0.0647482014388489,6,False,,Rank_Save,12.0,0.06650606690491741
+34,2,Whitney Leavitt,TV Personality,Eliminated Week 10,22.0,3,1.0,0.079136690647482,10,False,,Rank_Save,2.0,0.07955663214455513
+34,3,Alix Earle,Social media personality,2nd Place,23.0,3,3.0,0.0894941634241245,12,False,2.0,Rank_Save,4.0,0.08546452082864339
+34,3,Andy Richter,Comedian,Eliminated Week 9,18.0,3,11.0,0.0700389105058365,9,False,,Rank_Save,12.0,0.07657266045266008
+34,3,Danielle Fishel,Actor/Actress,Eliminated Week 8,21.0,3,8.0,0.0817120622568093,8,False,,Rank_Save,9.0,0.07880751080708696
+34,3,Dylan Efron,TV Personality,4th Place,23.0,3,3.0,0.0894941634241245,12,False,4.0,Rank_Save,3.0,0.08795888909971715
+34,3,Elaine Hendrix,Actor/Actress,5th Place,21.0,3,8.0,0.0817120622568093,12,False,5.0,Rank_Save,8.0,0.07974121753900892
+34,3,Hilaria Baldwin,Entrepreneur,Eliminated Week 4,22.0,3,5.0,0.0856031128404669,4,False,,Rank_Save,7.0,0.08081315405283163
+34,3,Jen Affleck,TV Personality,Eliminated Week 7,19.0,3,10.0,0.0739299610894941,7,False,,Rank_Save,10.0,0.07798154963490693
+34,3,Jordan Chiles,Athlete,3rd Place,24.0,3,1.0,0.0933852140077821,12,False,3.0,Rank_Save,2.0,0.09159860541252027
+34,3,Lauren Jauregui,Singer/Rapper,Eliminated Week 3,18.0,3,11.0,0.0700389105058365,3,True,,Rank_Save,11.0,0.07724183679103874
+34,3,Robert Irwin,Conservationist,1st Place,22.0,3,5.0,0.0856031128404669,12,False,1.0,Rank_Save,6.0,0.08206854542896337
+34,3,Scott Hoying,Singer/Rapper,Eliminated Week 6,22.0,3,5.0,0.0856031128404669,6,False,,Rank_Save,5.0,0.08357855546615
+34,3,Whitney Leavitt,TV Personality,Eliminated Week 10,24.0,3,1.0,0.0933852140077821,10,False,,Rank_Save,1.0,0.0981729544864725
+34,4,Alix Earle,Social media personality,2nd Place,24.0,3,2.0,0.0967741935483871,12,False,2.0,Rank_Save,2.0,0.09919416665465149
+34,4,Andy Richter,Comedian,Eliminated Week 9,18.0,3,11.0,0.0725806451612903,9,False,,Rank_Save,10.0,0.08444795415428479
+34,4,Danielle Fishel,Actor/Actress,Eliminated Week 8,21.0,3,9.0,0.0846774193548387,8,False,,Rank_Save,7.0,0.08751436154407762
+34,4,Dylan Efron,TV Personality,4th Place,23.0,3,5.0,0.0927419354838709,12,False,4.0,Rank_Save,9.0,0.08534240587431392
+34,4,Elaine Hendrix,Actor/Actress,5th Place,24.0,3,2.0,0.0967741935483871,12,False,5.0,Rank_Save,4.0,0.0925514300567901
+34,4,Hilaria Baldwin,Entrepreneur,Eliminated Week 4,23.0,3,5.0,0.0927419354838709,4,True,,Rank_Save,11.0,0.08364690266686534
+34,4,Jen Affleck,TV Personality,Eliminated Week 7,23.0,3,5.0,0.0927419354838709,7,False,,Rank_Save,5.0,0.09050907622804395
+34,4,Jordan Chiles,Athlete,3rd Place,24.0,3,2.0,0.0967741935483871,12,False,3.0,Rank_Save,3.0,0.095252636924129
+34,4,Robert Irwin,Conservationist,1st Place,22.0,3,8.0,0.0887096774193548,12,False,1.0,Rank_Save,8.0,0.08635353765689646
+34,4,Scott Hoying,Singer/Rapper,Eliminated Week 6,21.0,3,9.0,0.0846774193548387,6,False,,Rank_Save,6.0,0.08887385278108945
+34,4,Whitney Leavitt,TV Personality,Eliminated Week 10,25.0,3,1.0,0.1008064516129032,10,False,,Rank_Save,1.0,0.10631367545885793
+34,5,Alix Earle,Social media personality,2nd Place,35.0,4,2.0,0.1118210862619808,12,False,2.0,Rank_Save,2.0,0.10824884746211538
+34,5,Andy Richter,Comedian,Eliminated Week 9,24.0,4,10.0,0.0766773162939297,9,False,,Rank_Save,10.0,0.09215656541136155
+34,5,Danielle Fishel,Actor/Actress,Eliminated Week 8,29.0,4,8.0,0.0926517571884984,8,False,,Rank_Save,9.0,0.09313266482394852
+34,5,Dylan Efron,TV Personality,4th Place,36.0,4,1.0,0.1150159744408945,12,False,4.0,Rank_Save,1.0,0.11601824206003444
+34,5,Elaine Hendrix,Actor/Actress,5th Place,30.0,4,6.0,0.0958466453674121,12,False,5.0,Rank_Save,7.0,0.0955028818026271
+34,5,Jen Affleck,TV Personality,Eliminated Week 7,29.0,4,8.0,0.0926517571884984,7,False,,Rank_Save,8.0,0.09423609513430077
+34,5,Jordan Chiles,Athlete,3rd Place,32.0,4,5.0,0.1022364217252396,12,False,3.0,Rank_Save,5.0,0.09877096120638736
+34,5,Robert Irwin,Conservationist,1st Place,35.0,4,2.0,0.1118210862619808,12,False,1.0,Rank_Save,3.0,0.10394752546954121
+34,5,Scott Hoying,Singer/Rapper,Eliminated Week 6,30.0,4,6.0,0.0958466453674121,6,False,,Rank_Save,6.0,0.09698647065169451
+34,5,Whitney Leavitt,TV Personality,Eliminated Week 10,33.0,4,4.0,0.1054313099041533,10,False,,Rank_Save,4.0,0.10099974597798907
+34,6,Alix Earle,Social media personality,2nd Place,35.0,4,6.0,0.1029411764705882,12,False,2.0,Rank_Save,6.0,0.09698647065169451
+34,6,Andy Richter,Comedian,Eliminated Week 9,27.0,4,10.0,0.0794117647058823,9,False,,Rank_Save,10.0,0.09215656541136155
+34,6,Danielle Fishel,Actor/Actress,Eliminated Week 8,36.0,4,3.0,0.1058823529411764,8,False,,Rank_Save,4.0,0.10099974597798907
+34,6,Dylan Efron,TV Personality,4th Place,32.0,4,7.0,0.0941176470588235,12,False,4.0,Rank_Save,7.0,0.0955028818026271
+34,6,Elaine Hendrix,Actor/Actress,5th Place,36.0,4,3.0,0.1058823529411764,12,False,5.0,Rank_Save,3.0,0.10394752546954121
+34,6,Jen Affleck,TV Personality,Eliminated Week 7,32.0,4,7.0,0.0941176470588235,7,False,,Rank_Save,8.0,0.09423609513430077
+34,6,Jordan Chiles,Athlete,3rd Place,39.0,4,1.0,0.1147058823529411,12,False,3.0,Rank_Save,2.0,0.10824884746211538
+34,6,Robert Irwin,Conservationist,1st Place,36.0,4,3.0,0.1058823529411764,12,False,1.0,Rank_Save,5.0,0.09877096120638736
+34,6,Scott Hoying,Singer/Rapper,Eliminated Week 6,28.0,4,9.0,0.0823529411764705,6,True,,Rank_Save,9.0,0.09313266482394852
+34,6,Whitney Leavitt,TV Personality,Eliminated Week 10,39.0,4,1.0,0.1147058823529411,10,False,,Rank_Save,1.0,0.11601824206003444
+34,7,Alix Earle,Social media personality,2nd Place,43.0,4,1.0,0.1295180722891566,12,False,2.0,Rank_Save,1.0,0.12779542996045853
+34,7,Andy Richter,Comedian,Eliminated Week 9,29.0,4,9.0,0.0873493975903614,9,False,,Rank_Save,9.0,0.10258670303227864
+34,7,Danielle Fishel,Actor/Actress,Eliminated Week 8,35.0,4,6.0,0.1054216867469879,8,False,,Rank_Save,6.0,0.1068317145407798
+34,7,Dylan Efron,TV Personality,4th Place,38.0,4,4.0,0.1144578313253012,12,False,4.0,Rank_Save,4.0,0.11125238353874756
+34,7,Elaine Hendrix,Actor/Actress,5th Place,32.0,4,8.0,0.0963855421686747,12,False,5.0,Rank_Save,7.0,0.10519752433513091
+34,7,Jen Affleck,TV Personality,Eliminated Week 7,34.0,4,7.0,0.1024096385542168,7,True,,Rank_Save,8.0,0.10380214422875789
+34,7,Jordan Chiles,Athlete,3rd Place,38.0,4,4.0,0.1144578313253012,12,False,3.0,Rank_Save,5.0,0.10879735144104712
+34,7,Robert Irwin,Conservationist,1st Place,41.0,4,3.0,0.1234939759036144,12,False,1.0,Rank_Save,3.0,0.11449939660206043
+34,7,Whitney Leavitt,TV Personality,Eliminated Week 10,42.0,4,2.0,0.1265060240963855,10,False,,Rank_Save,2.0,0.11923735232073916
+34,8,Alix Earle,Social media personality,2nd Place,38.5,4,3.0,0.1276948590381426,12,False,2.0,Rank_Save,3.0,0.12758825503137025
+34,8,Andy Richter,Comedian,Eliminated Week 9,34.0,4,8.0,0.1127694859038142,9,False,,Rank_Save,8.0,0.11566815934140488
+34,8,Danielle Fishel,Actor/Actress,Eliminated Week 8,37.0,4,7.0,0.1227197346600331,8,True,,Rank_Save,7.0,0.11722305061735085
+34,8,Dylan Efron,TV Personality,4th Place,38.0,4,4.0,0.1260364842454394,12,False,4.0,Rank_Save,5.0,0.12123438755438945
+34,8,Elaine Hendrix,Actor/Actress,5th Place,37.5,4,6.0,0.1243781094527363,12,False,5.0,Rank_Save,6.0,0.11904405127688049
+34,8,Jordan Chiles,Athlete,3rd Place,39.0,4,2.0,0.1293532338308457,12,False,3.0,Rank_Save,2.0,0.13286782436100672
+34,8,Robert Irwin,Conservationist,1st Place,38.0,4,4.0,0.1260364842454394,12,False,1.0,Rank_Save,4.0,0.1239700636425372
+34,8,Whitney Leavitt,TV Personality,Eliminated Week 10,39.5,4,1.0,0.1310116086235489,10,False,,Rank_Save,1.0,0.14240420817506022
+34,9,Alix Earle,Social media personality,2nd Place,40.0,4,4.0,0.1481481481481481,12,False,2.0,Rank_Save,4.0,0.14018500515622284
+34,9,Andy Richter,Comedian,Eliminated Week 9,29.0,4,7.0,0.1074074074074074,9,True,,Rank_Save,7.0,0.1325555014846581
+34,9,Dylan Efron,TV Personality,4th Place,42.0,4,1.0,0.1555555555555555,12,False,4.0,Rank_Save,3.0,0.1442764459734374
+34,9,Elaine Hendrix,Actor/Actress,5th Place,36.0,4,6.0,0.1333333333333333,12,False,5.0,Rank_Save,6.0,0.13461468399489487
+34,9,Jordan Chiles,Athlete,3rd Place,39.0,4,5.0,0.1444444444444444,12,False,3.0,Rank_Save,5.0,0.13709151020062973
+34,9,Robert Irwin,Conservationist,1st Place,42.0,4,1.0,0.1555555555555555,12,False,1.0,Rank_Save,2.0,0.15024656837195308
+34,9,Whitney Leavitt,TV Personality,Eliminated Week 10,42.0,4,1.0,0.1555555555555555,10,False,,Rank_Save,1.0,0.16103028481820406
+34,10,Alix Earle,Social media personality,2nd Place,29.0,3,2.0,0.1686046511627907,12,False,2.0,Rank_Save,4.0,0.16160688712206236
+34,10,Dylan Efron,TV Personality,4th Place,27.5,3,6.0,0.1598837209302325,12,False,4.0,Rank_Save,6.0,0.15518535678685155
+34,10,Elaine Hendrix,Actor/Actress,5th Place,28.5,3,4.0,0.1656976744186046,12,False,5.0,Rank_Save,3.0,0.16632354717837394
+34,10,Jordan Chiles,Athlete,3rd Place,28.5,3,4.0,0.1656976744186046,12,False,3.0,Rank_Save,2.0,0.17320597298052465
+34,10,Robert Irwin,Conservationist,1st Place,29.5,3,1.0,0.1715116279069767,12,False,1.0,Rank_Save,1.0,0.18563756539330456
+34,10,Whitney Leavitt,TV Personality,Eliminated Week 10,29.0,3,2.0,0.1686046511627907,10,True,,Rank_Save,5.0,0.158040670538883
+34,11,Alix Earle,Social media personality,2nd Place,30.0,3,1.0,0.2031609129238783,12,False,2,Rank_Save,2.0,0.20502245595762528
+34,11,Dylan Efron,TV Personality,4th Place,29.3332,3,4.0,0.1986453230326235,12,False,4,Rank_Save,4.0,0.19129271541436646
+34,11,Elaine Hendrix,Actor/Actress,5th Place,28.9998,3,5.0,0.1963875280869962,12,False,5,Rank_Save,5.0,0.1870714147872659
+34,11,Jordan Chiles,Athlete,3rd Place,29.666600000000003,3,2.0,0.2009031179782509,12,False,3,Rank_Save,3.0,0.19687578632134356
+34,11,Robert Irwin,Conservationist,1st Place,29.666600000000003,3,2.0,0.2009031179782509,12,False,1,Rank_Save,1.0,0.2197376275193987
