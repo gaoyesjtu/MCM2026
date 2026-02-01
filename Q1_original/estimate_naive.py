@@ -184,5 +184,5 @@ df_estimated = pd.concat(estimated_data)
 print(df_estimated[['season', 'week', 'celebrity_name', 'judge_rank', 'results', 'estimated_fan_support']].head(10))
 
 # Save for user
-df_estimated.to_csv('fan_estimates/estimated_fan_votes.csv', index=False)
+df_estimated.to_csv('Q1_original/estimated_fan_votes.csv', index=False)
 print("Saved estimated_fan_votes.csv")

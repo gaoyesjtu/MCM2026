@@ -4,10 +4,10 @@ import numpy as np
 # Load the datasets
 # Note the typo in the filename provided by the user's file list
 try:
-    fan_estimates = pd.read_csv('fan_estimates/fianal_fan_estimate.csv')
+    fan_estimates = pd.read_csv('Q1_original/fianal_fan_estimate.csv')
 except FileNotFoundError:
     # Fallback in case the typo was corrected in the environment but I'm unaware
-    fan_estimates = pd.read_csv('fan_estimates/final_fan_estimate.csv')
+    fan_estimates = pd.read_csv('Q1_original/final_fan_estimate.csv')
 
 cleaned_data = pd.read_csv('data/cleaned_data.csv')
 
@@ -146,6 +146,6 @@ print("Number of Disagreements:", len(disagreement_df))
 if len(disagreement_df) > 0:
     print(disagreement_df['favored_method'].value_counts())
     print("\nSample Disagreements:")
-    disagreement_df.to_csv('two_methods_comparison/diff_outcome.csv')
+    disagreement_df.to_csv('Q2/diff_outcome.csv')
 else:
     print("No disagreements found.")
