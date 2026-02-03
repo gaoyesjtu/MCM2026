@@ -103,8 +103,8 @@ plt.xlabel('Judge Score % (Prior)')
 plt.ylabel('Estimated Fan Vote %')
 plt.annotate('Fans Agreed with Judges', xy=(0.2, 0.2), xytext=(0.25, 0.15), arrowprops=dict(facecolor='black', shrink=0.05))
 plt.annotate('Fans Saved Low Scorer', xy=(0.1, 0.25), xytext=(0.05, 0.3), arrowprops=dict(facecolor='black', shrink=0.05))
-plt.savefig('fan_estimates/judge_prior_scatter.png')
+plt.savefig('Q1_original/judge_prior_scatter.png')
 
 # Save CSV
-df_results.to_csv('fan_estimates/fan_votes_judge_prior.csv', index=False)
+df_results.to_csv('Q1_original/fan_votes_judge_prior.csv', index=False)
 print("\nSaved results to 'fan_votes_judge_prior.csv'")

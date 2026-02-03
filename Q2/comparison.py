@@ -3,6 +3,14 @@ import numpy as np
 
 # Load the datasets
 # Note the typo in the filename provided by the user's file list
+<<<<<<< HEAD:two_methods_comparison/comparison.py
+=======
+try:
+    fan_estimates = pd.read_csv('Q1_original/fianal_fan_estimate.csv')
+except FileNotFoundError:
+    # Fallback in case the typo was corrected in the environment but I'm unaware
+    fan_estimates = pd.read_csv('Q1_original/final_fan_estimate.csv')
+>>>>>>> 40a06ab2529aad8f48d3b1af27b6af4721e955a3:Q2/comparison.py
 
 fan_estimates = pd.read_csv(r'Q1_fixed\estimate_fan_final.csv')
 
@@ -132,8 +140,14 @@ disagreement_df = pd.DataFrame(disagreement_stats)
 
 print("Number of Disagreements:", len(disagreement_df))
 if len(disagreement_df) > 0:
+<<<<<<< HEAD:two_methods_comparison/comparison.py
     #print(disagreement_df['favored_method'].value_counts())
     print(f'Percent Method:{per_fa} Rank Method:{rk_fa}')
     disagreement_df.to_csv('two_methods_comparison/diff_outcome.csv')
+=======
+    print(disagreement_df['favored_method'].value_counts())
+    print("\nSample Disagreements:")
+    disagreement_df.to_csv('Q2/diff_outcome.csv')
+>>>>>>> 40a06ab2529aad8f48d3b1af27b6af4721e955a3:Q2/comparison.py
 else:
     print("No disagreements found.")

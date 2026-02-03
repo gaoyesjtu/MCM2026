@@ -162,11 +162,11 @@ for (season, week), group in df.groupby(['season', 'week']):
     if season <= 2 or season >= 28:
         method = 'rank'
         est_votes = solve_fan_votes_rank(group)
-        # Normalize to 0-1 scale for consistency in output? Or keep as rank.
+        # Normalize to 0-1 scale for consistency.md in output? Or keep as rank.
         # Let's keep as rank but also store a 'normalized_score'
         group['estimated_fan_metric'] = est_votes # This is Rank (Lower is better)
         # For Rank: High Metric = Bad. For Percent: High Metric = Good. 
-        # Invert Rank for consistency later: (N+1 - Rank) / N
+        # Invert Rank for consistency.md later: (N+1 - Rank) / N
         n = len(group)
         group['estimated_fan_support'] = (n + 1 - est_votes) / n
     else:
@@ -184,5 +184,5 @@ df_estimated = pd.concat(estimated_data)
 print(df_estimated[['season', 'week', 'celebrity_name', 'judge_rank', 'results', 'estimated_fan_support']].head(10))
 
 # Save for user
-df_estimated.to_csv('fan_estimates/estimated_fan_votes.csv', index=False)
+df_estimated.to_csv('Q1_original/estimated_fan_votes.csv', index=False)
 print("Saved estimated_fan_votes.csv")
