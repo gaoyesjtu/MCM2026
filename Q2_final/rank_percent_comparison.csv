@@ -261,3 +261,76 @@ season,week,rank_elim,perc_elim,fan_elim,actual,is_ignored
 27,7,Joe Amabile,Joe Amabile,John Schneider,"DeMarcus Ware, John Schneider",False
 27,8,Bobby Bones,Joe Amabile,Juan Pablo Di Pace,"Joe Amabile, Juan Pablo Di Pace",False
 27,9,Bobby Bones,Alexis Ren,Evanna Lynch,,True
+28,1,Lamar Odom,Lamar Odom,Lamar Odom,,True
+28,2,Lamar Odom,Lamar Odom,Lamar Odom,Mary Wilson,False
+28,3,Lamar Odom,Lamar Odom,Lamar Odom,,True
+28,4,Lamar Odom,Lamar Odom,Lamar Odom,Lamar Odom,False
+28,5,Sean Spicer,Sean Spicer,Sean Spicer,,True
+28,6,Sean Spicer,Sean Spicer,Sean Spicer,Sailor Brinkley-Cook,False
+28,7,Sean Spicer,Sean Spicer,Sean Spicer,Karamo Brown,False
+28,8,Sean Spicer,Sean Spicer,Sean Spicer,Kate Flannery,False
+28,9,Sean Spicer,Sean Spicer,Sean Spicer,Sean Spicer,False
+28,10,James Van Der Beek,James Van Der Beek,James Van Der Beek,James Van Der Beek,False
+28,11,Lauren Alaina,Lauren Alaina,Lauren Alaina,,True
+29,1,Carole Baskin,Carole Baskin,Carole Baskin,,True
+29,2,Charles Oakley,Charles Oakley,Charles Oakley,Charles Oakley,False
+29,3,Carole Baskin,Carole Baskin,Carole Baskin,Carole Baskin,False
+29,4,Anne Heche,Anne Heche,Anne Heche,Anne Heche,False
+29,5,Chrishell Stause,Chrishell Stause,Chrishell Stause,Jesse Metcalfe,False
+29,6,Skai Jackson,Skai Jackson,Skai Jackson,Veron Davis,False
+29,7,Monica Aldama,Monica Aldama,Monica Aldama,Monica Aldama,False
+29,8,Nelly,Nelly,Nelly,Chrishell Stause,False
+29,9,Nelly,Nelly,Nelly,AJ McLean,False
+29,10,Skai Jackson,Skai Jackson,Skai Jackson,"Johnny Weir, Skai Jackson",False
+29,11,Nelly,Justina Machado,Justina Machado,,True
+30,1,Martin Kove,Martin Kove,Martin Kove,,True
+30,2,Martin Kove,Martin Kove,Martin Kove,Martin Kove,False
+30,3,Cody Rigsby,Cody Rigsby,Cody Rigsby,Christine Chiu,False
+30,4,Brian Austin Green,Brian Austin Green,Brian Austin Green,"Brian Austin Green, Matt James",False
+30,5,Iman Shumpert,Iman Shumpert,Iman Shumpert,Melanie C,False
+30,6,Kenya Moore,Kenya Moore,Kenya Moore,Kenya Moore,False
+30,7,"Mike ""The Miz"" Mizanin","Mike ""The Miz"" Mizanin","Mike ""The Miz"" Mizanin","Mike ""The Miz"" Mizanin",False
+30,8,Jimmie Allen,Jimmie Allen,Jimmie Allen,"Jimmie Allen, Olivia Jade",False
+30,9,Melora Hardin,Melora Hardin,Melora Hardin,"Melora Hardin, Suni Lee",False
+30,10,Cody Rigsby,Cody Rigsby,Cody Rigsby,,True
+31,1,Vinny Guadagnino,Vinny Guadagnino,Vinny Guadagnino,Jason Lewis,False
+31,2,Cheryl Ladd,Cheryl Ladd,Cheryl Ladd,Teresa Giudice,False
+31,3,Vinny Guadagnino,Vinny Guadagnino,Vinny Guadagnino,Cheryl Ladd,False
+31,4,Sam Champion,Sam Champion,Sam Champion,Sam Champion,False
+31,5,Vinny Guadagnino,Vinny Guadagnino,Vinny Guadagnino,Joseph Baena,False
+31,6,Vinny Guadagnino,Vinny Guadagnino,Vinny Guadagnino,Jessie James Decker,False
+31,7,Vinny Guadagnino,Vinny Guadagnino,Vinny Guadagnino,Jordin Sparks,False
+31,8,Vinny Guadagnino,Vinny Guadagnino,Vinny Guadagnino,"Heidi D'Amelio, Vinny Guadagnino",False
+31,9,Trevor Donovan,Trevor Donovan,Trevor Donovan,"Daniel Durant, Trevor Donovan",False
+31,10,Shangela,Shangela,Shangela,,True
+32,1,Matt Walsh,Matt Walsh,Matt Walsh,Matt Walsh,False
+32,2,Mauricio Umansky,Mauricio Umansky,Mauricio Umansky,Jamie Lynn Spears,False
+32,3,Tyson Beckford,Tyson Beckford,Tyson Beckford,Tyson Beckford,False
+32,4,Barry Williams,Barry Williams,Barry Williams,Adrian Peterson,False
+32,5,Harry Jowsey,Harry Jowsey,Harry Jowsey,Mira Sorvino,False
+32,6,Harry Jowsey,Harry Jowsey,Harry Jowsey,Mauricio Umansky,False
+32,7,Harry Jowsey,Harry Jowsey,Harry Jowsey,Lele Pons,False
+32,8,Harry Jowsey,Harry Jowsey,Harry Jowsey,Barry Williams,False
+32,9,Harry Jowsey,Harry Jowsey,Harry Jowsey,Harry Jowsey,False
+32,10,Alyson Hannigan,Alyson Hannigan,Alyson Hannigan,,True
+32,11,Alyson Hannigan,Alyson Hannigan,Alyson Hannigan,,True
+33,1,Eric Roberts,Eric Roberts,Eric Roberts,,True
+33,2,Anna Delvey,Eric Roberts,Anna Delvey,"Anna Delvey, Tori Spelling",False
+33,3,Reginald VelJohnson,Reginald VelJohnson,Reginald VelJohnson,"Eric Roberts, Reginald VelJohnson",False
+33,4,Dwight Howard ,Dwight Howard ,Dwight Howard ,Brooks Nader,False
+33,5,Dwight Howard ,Dwight Howard ,Dwight Howard ,Phaedra Parks,False
+33,6,Ilona Maher,Ilona Maher,Ilona Maher,Jenn Tran,False
+33,7,Dwight Howard ,Dwight Howard ,Dwight Howard ,Dwight Howard ,False
+33,8,Stephen Nedoroscik,Stephen Nedoroscik,Stephen Nedoroscik,,True
+33,9,Danny Amendola,Danny Amendola,Danny Amendola,,True
+34,1,Corey Feldman,Corey Feldman,Corey Feldman,,True
+34,2,Corey Feldman,Corey Feldman,Corey Feldman,"Baron Davis, Corey Feldman",False
+34,3,Andy Richter,Andy Richter,Andy Richter,Lauren Jauregui,False
+34,4,Andy Richter,Andy Richter,Andy Richter,Hilaria Baldwin,False
+34,5,Andy Richter,Andy Richter,Andy Richter,,True
+34,6,Andy Richter,Andy Richter,Andy Richter,Scott Hoying,False
+34,7,Andy Richter,Andy Richter,Andy Richter,Jen Affleck,False
+34,8,Andy Richter,Andy Richter,Andy Richter,Danielle Fishel,False
+34,9,Andy Richter,Andy Richter,Andy Richter,Andy Richter,False
+34,10,Dylan Efron,Dylan Efron,Dylan Efron,Whitney Leavitt,False
+34,11,Elaine Hendrix,Elaine Hendrix,Elaine Hendrix,,True

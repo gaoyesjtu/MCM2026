@@ -5,7 +5,7 @@ df = pd.read_csv('Q2_new/final_estimation.csv')
 
 def find_elim_modified(group, method, season):
 
-    has_save = 1
+    has_save = (season >= 28)
     
     if method == 'rank':
 
@@ -38,8 +38,6 @@ def find_elim_modified(group, method, season):
 all_data = []
 for (s, w), group in df.groupby(['season', 'week']):
     
-    if s > 27:
-        break
 
     active = group[group['total_judge_score'] > 0].copy()
     if len(active) < 2: continue
@@ -53,7 +51,7 @@ for (s, w), group in df.groupby(['season', 'week']):
     
     all_data.append({
         'season': s, 'week': w,
-        'rank_elim_judgesave': r, 'perc_elim_judgesave': p, 'fan_elim_judgesave': f,
+        'rank_elim': r, 'perc_elim': p, 'fan_elim': f,
         'actual': actual, 'is_ignored': (actual == "")
     })
 
@@ -61,32 +59,23 @@ results_df = pd.DataFrame(all_data)
 # Filter: ignore weeks with empty actual
 valid_df = results_df[~results_df['is_ignored']].copy()
 # Discrepant weeks
-diff_df = valid_df[valid_df['rank_elim_judgesave'] != valid_df['perc_elim_judgesave']].copy()
+diff_df = valid_df[valid_df['rank_elim'] != valid_df['perc_elim']].copy()
 
 
-r_matches = (diff_df['rank_elim_judgesave'] == diff_df['fan_elim_judgesave']).sum()
-p_matches = (diff_df['perc_elim_judgesave'] == diff_df['fan_elim_judgesave']).sum()
+r_matches = (diff_df['rank_elim'] == diff_df['fan_elim']).sum()
+p_matches = (diff_df['perc_elim'] == diff_df['fan_elim']).sum()
 
 print(f"Valid Weeks: {len(valid_df)}")
 print(f"Discrepant Weeks: {len(diff_df)}")
 print(f"Matches - Rank with Fan: {r_matches}")
 print(f"Matches - Percent with Fan: {p_matches}")
 
-results_df.to_csv('Q2_new/rank_percent_judgesave_comparison.csv', index=False)
-diff_df.to_csv('Q2_new/rank_percent_judgesave_discrepancies.csv', index=False)
+results_df.to_csv('Q2_new/rank_percent_comparison.csv', index=False)
+diff_df.to_csv('Q2_new/rank_percent_discrepancies.csv', index=False)
 
 '''
-Origin:
-Valid Weeks: 208
-Discrepant Weeks: 88
-Matches - Rank with Fan: 6
+Valid Weeks(S1 - S34): 264
+Discrepant Weeks: 89
+Matches - Rank with Fan: 7
 Matches - Percent with Fan: 75
-
-
-Judge Save:
-Valid Weeks: 208
-Discrepant Weeks: 43
-Matches - Rank with Fan: 2
-Matches - Percent with Fan: 39
-
 '''
